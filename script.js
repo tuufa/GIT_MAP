@@ -1248,7 +1248,16 @@ const mapData = {
 	  {
 		"coords": [3280, 3280],
 		"title": "Пустоши абоминаций",
-		"description": "<p style='color: #cccccc;'>Пустоши абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>8 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Пустоши абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>8 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа пауков-абоминаций</li>\
+		<li style='color: #993333;'>2: Группа собак-абоминаций</li>\
+		<li style='color: #993333;'>3: Засада собак-абоминаций</li>\
+		<li style='color: #993333;'>4: Группа менеджеров-абоминаций</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>5: Беженцы под атакой</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/14(ПУСТОШИ АБОМИНАЦИЙ).png",
 		"type": "14",
 		"width": 1760,
