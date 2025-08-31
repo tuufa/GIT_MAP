@@ -1217,7 +1217,7 @@ const mapData = {
 		"description": "<p style='color: #cccccc;'>Зараженная гора.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>25 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа пауков-абоминаций</li>\
-		<li style='color: #993333;'>2: Группа собак-абоминаций</li>\
+		<li style='color: #993333;'>2: Группа гончих-абоминаций</li>\
 		<li style='color: #993333;'>3: Группа менеджеров-абоминаций</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
@@ -1234,7 +1234,7 @@ const mapData = {
 		"description": "<p style='color: #cccccc;'>Мертвый лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>20 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа пауков-абоминаций</li>\
-		<li style='color: #993333;'>2: Группа собак-абоминаций</li>\
+		<li style='color: #993333;'>2: Группа гончих-абоминаций</li>\
 		<li style='color: #993333;'>3: Группа менеджеров-абоминаций</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
@@ -1251,8 +1251,8 @@ const mapData = {
 		"description": "<p style='color: #cccccc;'>Пустоши абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>8 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа пауков-абоминаций</li>\
-		<li style='color: #993333;'>2: Группа собак-абоминаций</li>\
-		<li style='color: #993333;'>3: Засада собак-абоминаций</li>\
+		<li style='color: #993333;'>2: Группа гончих-абоминаций</li>\
+		<li style='color: #993333;'>3: Засада гончих-абоминаций</li>\
 		<li style='color: #993333;'>4: Группа менеджеров-абоминаций</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
