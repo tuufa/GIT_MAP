@@ -1,0 +1,21 @@
+{
+  "mapImage": "assets/map.png",
+  "imageWidth": 5440,
+  "imageHeight": 4800,
+  "locations": [
+    {
+      "coords": [750, 1000],
+      "title": "Крепость Дракона",
+      "description": "Обитель древних существ.",
+      "icon": "assets/локи/ПИРАТСКАЯ ПОГИБЕЛЬ.png",
+      "type": "quest"
+    },
+    {
+      "coords": [500, 500],
+      "title": "Таверна \"Последний привал\"",
+      "description": "Место отдыха путников.",
+      "icon": "assets/локи/ТВЕРДЫНЯ РОКА.png",
+      "type": "regular"
+    }
+  ]
+}

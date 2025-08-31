@@ -1,0 +1,355 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'MedievalSharp', cursive;
+  background-color: #1a1a1a;
+  color: #e0d8b0;
+  overflow: hidden;
+  height: 100vh;
+}
+
+#menu {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+  background-color: rgba(26, 26, 26, 0.8);
+  border: 2px solid #5a4a3a;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+#toggleMenu {
+  background-color: #3a2e22;
+  color: #e0d8b0;
+  border: 1px solid #5a4a3a;
+  border-radius: 3px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-family: 'MedievalSharp', cursive;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+#toggleMenu:hover {
+  background-color: #4a3a2a;
+}
+
+#menuContent {
+  display: block;
+}
+
+#menuContent details {
+  margin-bottom: 10px;
+}
+
+#menuContent summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 5px;
+  outline: none;
+}
+
+#menuContent label {
+  display: block;
+  margin: 5px 0 5px 15px;
+  cursor: pointer;
+}
+
+#menuContent input[type="checkbox"] {
+  margin-right: 8px;
+  accent-color: #5a4a3a;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+#infoPanel {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgba(26, 26, 26, 0.9);
+  border: 2px solid #5a4a3a;
+  border-radius: 5px;
+  padding: 15px;
+  max-width: 300px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+#infoPanel h3 {
+  margin-top: 0;
+  color: #c9b583;
+  border-bottom: 1px solid #5a4a3a;
+  padding-bottom: 5px;
+}
+
+.zoom-controls {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.zoom-controls button {
+  background-color: #3a2e22;
+  color: #e0d8b0;
+  border: 1px solid #5a4a3a;
+  border-radius: 3px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-family: 'MedievalSharp', cursive;
+  font-size: 14px;
+}
+
+.zoom-controls button:hover {
+  background-color: #4a3a2a;
+}
+
+@media (max-width: 768px) {
+  #menu {
+    top: 5px;
+    left: 5px;
+    padding: 5px;
+  }
+  
+  #toggleMenu {
+    padding: 3px 6px;
+    font-size: 14px;
+  }
+  
+  #infoPanel {
+    bottom: 10px;
+    right: 10px;
+    padding: 10px;
+    max-width: 200px;
+  }
+}
+
+/* Объединенные стили Leaflet */
+.leaflet-container {
+  background-color: #000 !important;
+  overflow: hidden;
+}
+
+.leaflet-image-layer {
+  mix-blend-mode: normal !important;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+  transform-origin: 0 0;
+}
+
+.leaflet-popup-content {
+  font-family: 'MedievalSharp', cursive;
+  color: #1a1a1a;
+}
+
+.leaflet-popup-content-wrapper {
+  background-color: #e0d8b0;
+  border: 2px solid #5a4a3a;
+  border-radius: 5px;
+}
+
+.leaflet-popup-tip {
+  background-color: #e0d8b0;
+}
+
+/* Объединенные стили маркеров */
+.marker-container {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.marker-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform 0.2s;
+  filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.7));
+  pointer-events: none;
+}
+
+.marker-container:hover img {
+  transform: scale(1.2);
+}
+
+.quest-marker .marker-container img {
+  filter: drop-shadow(0 0 3px gold);
+}
+
+.regular-marker .marker-container img {
+  filter: drop-shadow(0 0 3px #4a90e2);
+}
+
+.leaflet-marker-icon {
+  z-index: 1000;
+  background: none !important;
+  border: none !important;
+}
+
+.leaflet-zoom-animated .leaflet-marker-icon {
+  transition: none !important;
+  transform: none !important;
+}
+
+.marker-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform 0.2s ease;
+  transform-origin: center;
+}
+
+/* стили для свитчбоксов */
+.toggle-switches {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+}
+
+.toggle-switch {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.toggle-switch label {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 24px;
+}
+
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.toggle-slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #3a2e22;
+  border: 1px solid #5a4a3a;
+  border-radius: 24px;
+  transition: .4s;
+}
+
+.toggle-slider:before {
+  content: "";
+  position: absolute;
+  height: 16px;
+  width: 16px;
+  left: 4px;
+  bottom: 3px;
+  background-color: #e0d8b0;
+  border-radius: 50%;
+  transition: .4s;
+}
+
+input:checked + .toggle-slider {
+  background-color: #5a4a3a;
+}
+
+input:checked + .toggle-slider:before {
+  transform: translateX(26px);
+}
+
+.toggle-text {
+  color: #e0d8b0;
+  font-size: 14px;
+}
+
+#regionOverlayContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none; /* Чтобы маркеры не мешали карте */
+  width: 100%;
+  height: 100%;
+  z-index: 500; /* Поверх карты */
+}
+
+.region-marker {
+  position: absolute;
+  transform-origin: top left;
+  pointer-events: auto;
+}
+
+.region-marker img {
+  display: block;
+  width: 100%; 
+  height: auto;
+}
+
+#menuContent {
+  max-height: 80vh;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #5a4a3a #3a2e22;
+}
+
+#menuContent::-webkit-scrollbar {
+  width: 8px;
+}
+
+#menuContent::-webkit-scrollbar-track {
+  background: #3a2e22;
+}
+
+#menuContent::-webkit-scrollbar-thumb {
+  background-color: #5a4a3a;
+  border-radius: 4px;
+}
+
+.region-toggle-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.region-info-button {
+  background: none;
+  border: none;
+  color: #e0d8b0;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 0;
+  margin-left: 5px;
+}
+
+.region-info-button:hover {
+  color: #c9b583;
+}
+
+.external-link {
+  padding: 10px;
+  margin-top: 10px;
+  border-top: 1px solid #ccc;
+}
+
+.external-link a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.external-link a:hover {
+  text-decoration: underline;
+}

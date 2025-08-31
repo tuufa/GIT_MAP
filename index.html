@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="assets/локи/ГОРЯЩИЙ БОЧЕНОК.png" type="image/x-icon">
+  <title>кто прочитал тот гей Map</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="menu">
+    <button id="toggleMenu">☰ Меню</button>
+    <div id="menuContent">
+      <div class="zoom-controls">
+        <button id="zoomIn">+ Увеличить</button>
+        <button id="zoomOut">- Уменьшить</button>
+        <button id="resetZoom">Сбросить</button>
+		  <div class="external-link">
+			<a href="https://itch.io/queue/c/3166533/lonarpg?game_id=1049030&password=" target="_blank">Купить игру</a>
+		  </div>
+		  <div class="external-link">
+			<a href="https://vk.com/lonarpg?from=groups" target="_blank">Особая благодарность российскому сообществу игры</a>
+		  </div>
+      </div>
+      <details>
+        <summary>Регионы</summary>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_All" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Все</span>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_22" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Улицы Ноэртауна</span>
+				<button class="region-info-button" data-region="22">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_11" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Дорога</span>
+				<button class="region-info-button" data-region="11">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_12" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Склон Росендо</span>
+				<button class="region-info-button" data-region="12">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_5" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Хвойный лес</span>
+				<button class="region-info-button" data-region="5">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_4" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Тропический лес</span>
+				<button class="region-info-button" data-region="4">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_7" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Горы</span>
+				<button class="region-info-button" data-region="7">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_21" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Районы Ноэртауна</span>
+				<button class="region-info-button" data-region="21">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_23" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Главная дорога</span>
+				<button class="region-info-button" data-region="23">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_9" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Заброшенный дом</span>
+				<button class="region-info-button" data-region="9">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_20" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Лагерь беженцев</span>
+				<button class="region-info-button" data-region="20">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_10" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Трущобы</span>
+				<button class="region-info-button" data-region="10">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_2" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Берег Ноэра</span>
+				<button class="region-info-button" data-region="2">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_1" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Поле</span>
+				<button class="region-info-button" data-region="1">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_13" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Болотная тропа Ноэра</span>
+				<button class="region-info-button" data-region="13">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_24" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Болотная тропа острова рыб</span>
+				<button class="region-info-button" data-region="24">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_8" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Болото Ноэра</span>
+				<button class="region-info-button" data-region="8">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_15" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Топи Ноэра</span>
+				<button class="region-info-button" data-region="15">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_26" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Топи острова рыб</span>
+				<button class="region-info-button" data-region="26">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_3" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Зараженные горы</span>
+				<button class="region-info-button" data-region="3">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_6" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Мертвый лес</span>
+				<button class="region-info-button" data-region="6">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_14" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Пустоши абоминаций</span>
+				<button class="region-info-button" data-region="14">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_28" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Зараженный край оркоидов</span>
+				<button class="region-info-button" data-region="28">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_29" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Руины павшей крепости абоминаций</span>
+				<button class="region-info-button" data-region="29">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_30" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Руины павшей крепости оркоидов</span>
+				<button class="region-info-button" data-region="30">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_31" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Улицы Сибариса</span>
+				<button class="region-info-button" data-region="31">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_32" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Аллеи Сибариса</span>
+				<button class="region-info-button" data-region="32">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_16" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Зараженный край абоминаций</span>
+				<button class="region-info-button" data-region="16">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_19" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Загрязненные земли</span>
+				<button class="region-info-button" data-region="19">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_18" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Руины зараженного города</span>
+				<button class="region-info-button" data-region="18">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_17" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Загрязненная дорога</span>
+				<button class="region-info-button" data-region="17">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_27" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Берег острова рыб</span>
+				<button class="region-info-button" data-region="27">ℹ️</button>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegion_25" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Болото острова рыб</span>
+				<button class="region-info-button" data-region="25">ℹ️</button>
+			</div>
+      </details>
+      <details>
+        <summary>Локации</summary>
+        <div class="toggle-switches">
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleAll" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Все</span>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleQuests" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Квестовые</span>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="toggleRegular" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Обычные</span>
+			</div>
+        </div>
+      </details>
+      <details>
+        <summary>Патрули</summary>
+        <div class="toggle-switches">
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="togglePatrol_All" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Все</span>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="togglePatrol_collectors" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Коллекторы</span>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="togglePatrol_bandits" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Бандиты</span>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="togglePatrol_orcs" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Оркоиды</span>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="togglePatrol_abominations" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Абоминации</span>
+			</div>
+			<div class="toggle-switch">
+			  <label>
+				<input type="checkbox" id="togglePatrol_fishmen" >
+				<span class="toggle-slider"></span>
+			  </label>
+			  <span class="toggle-text">Рыболюди</span>
+			</div>
+        </div>
+        </div>
+      </details>
+    </div>
+  </div>
+
+  <div id="map"></div>
+
+
+  <div id="infoPanel" hidden>
+    <h3 id="infoTitle">Информация</h3>
+    <div id="infoContent"></div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
