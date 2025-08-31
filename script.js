@@ -1164,7 +1164,16 @@ const mapData = {
 	  {
 		"coords": [2992, 2112],
 		"title": "Болото Ноэра",
-		"description": "<p style='color: #cccccc;'>Болото Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>22 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Болото Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>22 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа глубинных</li>\
+		<li style='color: #993333;'>2: Группа оркоидов</li>\
+		<li style='color: #993333;'>3: Группа нежити</li>\
+		<li style='color: #993333;'>4: Группа волков</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>нет</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/8(БОЛОТО НОЭРА).png",
 		"type": "8",
 		"width": 1696,
@@ -1173,7 +1182,15 @@ const mapData = {
 	  {
 		"coords": [2928, 2112],
 		"title": "Топи Ноэра",
-		"description": "<p style='color: #cccccc;'>Топи Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Топи Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа глубинных</li>\
+		<li style='color: #993333;'>2: Группа оркоидов</li>\
+		<li style='color: #993333;'>3: Группа нежити</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>нет</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/15(ТОПИ НОЭРА).png",
 		"type": "15",
 		"width": 1888,
@@ -1197,7 +1214,15 @@ const mapData = {
 	  {
 		"coords": [3152, 3136],
 		"title": "Зараженная гора",
-		"description": "<p style='color: #cccccc;'>Зараженная гора.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>25 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Зараженная гора.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>25 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа пауков-абоминаций</li>\
+		<li style='color: #993333;'>2: Группа собак-абоминаций</li>\
+		<li style='color: #993333;'>3: Группа менеджеров-абоминаций</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>нет</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/3(ЗАРАЖЕННАЯ ГОРА).png",
 		"type": "3",
 		"width": 1376,
@@ -1206,7 +1231,15 @@ const mapData = {
 	  {
 		"coords": [3264, 3344],
 		"title": "Мертвый лес",
-		"description": "<p style='color: #cccccc;'>Мертвый лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>20 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Мертвый лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>20 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа пауков-абоминаций</li>\
+		<li style='color: #993333;'>2: Группа собак-абоминаций</li>\
+		<li style='color: #993333;'>3: Группа менеджеров-абоминаций</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>нет</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/6(МЕРТВЫЙ ЛЕС).png",
 		"type": "6",
 		"width": 1728,
