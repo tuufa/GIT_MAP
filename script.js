@@ -1366,6 +1366,7 @@ const mapData = {
 		<li style='color: #44aa44;'>Положительные события:<ul>\
 		<li style='color: #339966;'>нет</li>\
 		</ul></li></ul>",
+		"icon": "assets/регионы/17(ЗАГРЯЗНЕННАЯ ДОРОГА).png",
 		"type": "17",
 		"width": 864,
 		"height": 384
