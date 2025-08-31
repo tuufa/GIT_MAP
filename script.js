@@ -1126,7 +1126,21 @@ const mapData = {
 	  {
 		"coords": [3072, 2096],
 		"title": "Болотная тропа Ноэра",
-		"description": "<p style='color: #cccccc;'>Болотная тропа Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Болотная тропа Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа оркоидов</li>\
+		<li style='color: #993333;'>2: Группа глубинных</li>\
+		<li style='color: #993333;'>3: Коллекторы</li>\
+		<li style='color: #993333;'>4: Группа бандитов</li>\
+		<li style='color: #993333;'>5: Засада у телеги</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Оставленная телега</li>\
+		<li style='color: #339966;'>2: Лагерь беженцев</li>\
+		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
+		<li style='color: #339966;'>4: Стража Ноэра</li>\
+		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/13(БОЛОТНАЯ ТРОПА НОЭРА).png",
 		"type": "13",
 		"width": 1792,
@@ -1135,7 +1149,13 @@ const mapData = {
 	  {
 		"coords": [3760, 704],
 		"title": "Болотная тропа острова рыболюдей",
-		"description": "<p style='color: #cccccc;'>Болотная тропа острова рыболюдей.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Болотная тропа острова рыболюдей.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа глубинных</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/24(БОЛОТНАЯ ТРОПА ОСТРОВА РЫБ).png",
 		"type": "24",
 		"width": 224,
@@ -1162,7 +1182,13 @@ const mapData = {
 	  {
 		"coords": [3904, 640],
 		"title": "Топи острова рыб",
-		"description": "<p style='color: #cccccc;'>Топи острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Топи острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа глубинных</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/26(ТОПИ ОСТРОВА РЫБ).png",
 		"type": "26",
 		"width": 576,
@@ -1288,7 +1314,13 @@ const mapData = {
 	  {
 		"coords": [3888, 688],
 		"title": "Болото острова рыб",
-		"description": "<p style='color: #cccccc;'>Болото острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>22 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Болото острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>22 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа глубинных</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/25(БОЛОТО ОСТРОВА РЫБ).png",
 		"type": "25",
 		"width": 480,
