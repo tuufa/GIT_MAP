@@ -1189,7 +1189,7 @@ const mapData = {
 		<li style='color: #993333;'>3: Группа нежити</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>нет</li>\
+		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/15(ТОПИ НОЭРА).png",
 		"type": "15",
