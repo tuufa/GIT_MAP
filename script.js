@@ -882,7 +882,7 @@ const mapData = {
 		"title": "Склон Росендо",
 		"description": "<p style='color: #cccccc;'>Склон Росендо.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>6 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>нет</li>\
+		<li style='color: #44aa44;'>нет</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
 		<li style='color: #339966;'>1: Патруль стражи</li>\
@@ -1172,7 +1172,7 @@ const mapData = {
 		<li style='color: #993333;'>4: Группа волков</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>нет</li>\
+		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/8(БОЛОТО НОЭРА).png",
 		"type": "8",
@@ -1221,7 +1221,7 @@ const mapData = {
 		<li style='color: #993333;'>3: Группа менеджеров абоминаций</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>нет</li>\
+		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/3(ЗАРАЖЕННАЯ ГОРА).png",
 		"type": "3",
@@ -1238,7 +1238,7 @@ const mapData = {
 		<li style='color: #993333;'>3: Группа менеджеров абоминаций</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>нет</li>\
+		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/6(МЕРТВЫЙ ЛЕС).png",
 		"type": "6",
@@ -1283,7 +1283,7 @@ const mapData = {
 		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>нет</li>\
+		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/29(РУИНЫ ПАВШЕЙ КРЕПОСТИ АБОМИНАЦИЙ).png",
 		"type": "29",
@@ -1346,7 +1346,7 @@ const mapData = {
 		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>нет</li>\
+		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/18(РУИНЫ ЗАРАЖЕННОГО ГОРОДА).png",
 		"type": "18",
@@ -1364,7 +1364,7 @@ const mapData = {
 		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>нет</li>\
+		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/17(ЗАГРЯЗНЕННАЯ ДОРОГА).png",
 		"type": "17",
