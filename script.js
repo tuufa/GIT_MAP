@@ -849,7 +849,7 @@ const mapData = {
 		<li style='color: #339966;'>3: Проповедник</li></ul>\
 		</li></ul>",
 		"icon": "assets/регионы/22(УЛИЦЫ НОЭРА).png",
-		"type": "11",
+		"type": "22",
 		"width": 384,
 		"height": 288
 	  },
@@ -873,7 +873,7 @@ const mapData = {
 		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/11(ДОРОГА НА СКЛОН РОСЕНДО).png",
-		"type": "6",
+		"type": "11",
 		"width": 32,
 		"height": 32
 	  },
@@ -888,7 +888,7 @@ const mapData = {
 		<li style='color: #339966;'>1: Патруль стражи</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/12(СКЛОН РОСЕНДО).png",
-		"type": "6",
+		"type": "12",
 		"width": 96,
 		"height": 96
 	  },
@@ -911,7 +911,7 @@ const mapData = {
 		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/5(ХВОЙНЫЙ ЛЕС).png",
-		"type": "3",
+		"type": "5",
 		"width": 3200,
 		"height": 1632
 	  },
@@ -934,7 +934,7 @@ const mapData = {
 		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/4(ТРОПИЧЕСКИЙ ЛЕС).png",
-		"type": "2",
+		"type": "4",
 		"width": 2528,
 		"height": 2208
 	  },
@@ -957,7 +957,7 @@ const mapData = {
 		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/7(ГОРА).png",
-		"type": "4",
+		"type": "7",
 		"width": 3488,
 		"height": 2304
 	  },
@@ -975,7 +975,7 @@ const mapData = {
 		<li style='color: #339966;'>3: Проповедник</li></ul>\
 		</li></ul>",
 		"icon": "assets/регионы/21(РАЙОНЫ НОЭРТАУНА).png",
-		"type": "11",
+		"type": "21",
 		"width": 544,
 		"height": 256
 	  },
@@ -992,7 +992,7 @@ const mapData = {
 		<li style='color: #339966;'>3: Беженцы под атакой бандитов</li>\
 		</li></ul>",
 		"icon": "assets/регионы/23(ГЛАВНАЯ ДОРОГА).png",
-		"type": "12",
+		"type": "23",
 		"width": 2336,
 		"height": 2016
 	  },
@@ -1015,7 +1015,7 @@ const mapData = {
 		<li style='color: #339966;'>4: Лагерь беженцев с квестом сопровождения</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/11(ДОРОГА).png",
-		"type": "6",
+		"type": "11",
 		"width": 3008,
 		"height": 2016
 	  },
@@ -1038,7 +1038,7 @@ const mapData = {
 		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/9(ЗАБРОШЕННЫЙ ДОМ).png",
-		"type": "5",
+		"type": "9",
 		"width": 2752,
 		"height": 1920
 	  },
@@ -1056,7 +1056,7 @@ const mapData = {
 		<li style='color: #339966;'>4: Беженцы под атакой бандитов</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/20(ЛАГЕРЬ БЕЖЕНЦЕВ).png",
-		"type": "10",
+		"type": "20",
 		"width": 2016,
 		"height": 2528
 	  },
@@ -1074,7 +1074,7 @@ const mapData = {
 		<li style='color: #339966;'>4: Беженцы под атакой бандитов</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/10(ТРУЩОБЫ).png",
-		"type": "5",
+		"type": "10",
 		"width": 1312,
 		"height": 2144
 	  },
@@ -1096,7 +1096,7 @@ const mapData = {
 		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/2(БЕРЕГ НОЭРА).png",
-		"type": "1",
+		"type": "2",
 		"width": 3200,
 		"height": 2592
 	  },
@@ -1142,7 +1142,7 @@ const mapData = {
 		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/13(БОЛОТНАЯ ТРОПА НОЭРА).png",
-		"type": "7",
+		"type": "13",
 		"width": 1792,
 		"height": 800
 	  },
@@ -1157,7 +1157,7 @@ const mapData = {
 		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/24(БОЛОТНАЯ ТРОПА ОСТРОВА РЫБ).png",
-		"type": "12",
+		"type": "24",
 		"width": 224,
 		"height": 128
 	  },
@@ -1175,7 +1175,7 @@ const mapData = {
 		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/8(БОЛОТО НОЭРА).png",
-		"type": "4",
+		"type": "8",
 		"width": 1696,
 		"height": 1088
 	  },
@@ -1192,7 +1192,7 @@ const mapData = {
 		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/15(ТОПИ НОЭРА).png",
-		"type": "8",
+		"type": "15",
 		"width": 1888,
 		"height": 960
 	  },
@@ -1207,7 +1207,7 @@ const mapData = {
 		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/26(ТОПИ ОСТРОВА РЫБ).png",
-		"type": "13",
+		"type": "26",
 		"width": 576,
 		"height": 320
 	  },
@@ -1224,7 +1224,7 @@ const mapData = {
 		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/3(ЗАРАЖЕННАЯ ГОРА).png",
-		"type": "2",
+		"type": "3",
 		"width": 1376,
 		"height": 896
 	  },
@@ -1241,7 +1241,7 @@ const mapData = {
 		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/6(МЕРТВЫЙ ЛЕС).png",
-		"type": "3",
+		"type": "6",
 		"width": 1728,
 		"height": 1312
 	  },
@@ -1259,7 +1259,7 @@ const mapData = {
 		<li style='color: #339966;'>1: Беженцы под атакой</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/14(ПУСТОШИ АБОМИНАЦИЙ).png",
-		"type": "7",
+		"type": "14",
 		"width": 1760,
 		"height": 1248
 	  },
@@ -1283,7 +1283,7 @@ const mapData = {
 		<li style='color: #339966;'>3: Беженцы под атакой</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/28(ЗАРАЖЕННЫЙ КРАЙ ОРКОВ).png",
-		"type": "14",
+		"type": "28",
 		"width": 416,
 		"height": 544
 	  },
@@ -1301,7 +1301,7 @@ const mapData = {
 		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/29(РУИНЫ ПАВШЕЙ КРЕПОСТИ АБОМИНАЦИЙ).png",
-		"type": "15",
+		"type": "29",
 		"width": 640,
 		"height": 512
 	  },
@@ -1324,7 +1324,7 @@ const mapData = {
 		<li style='color: #339966;'>3: Беженцы под атакой</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/30(РУИНЫ ПАВШЕЙ КРЕПОСТИ ОРКОВ).png",
-		"type": "15",
+		"type": "30",
 		"width": 224,
 		"height": 448
 	  },
@@ -1344,7 +1344,7 @@ const mapData = {
 		<li style='color: #339966;'>3: Беженцы под атакой</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/31(УЛИЦЫ СИБАРИСА).png",
-		"type": "16",
+		"type": "31",
 		"width": 256,
 		"height": 32
 	  },
@@ -1364,7 +1364,7 @@ const mapData = {
 		<li style='color: #339966;'>3: Беженцы под атакой</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/32(АЛЛЕЯ СИБАРИСА).png",
-		"type": "16",
+		"type": "32",
 		"width": 160,
 		"height": 448
 	  },
@@ -1380,7 +1380,7 @@ const mapData = {
 		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/16(ЗАРАЖЕННЫЙ КРАЙ АБОМИНАЦИЙ).png",
-		"type": "8",
+		"type": "16",
 		"width": 1920,
 		"height": 1216
 	  },
@@ -1403,7 +1403,7 @@ const mapData = {
 		<li style='color: #339966;'>2: Братская могила</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/19(ЗАГРЯЗНЕННЫЕ ЗЕМЛИ).png",
-		"type": "10",
+		"type": "19",
 		"width": 640,
 		"height": 640
 	  },
@@ -1421,7 +1421,7 @@ const mapData = {
 		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/18(РУИНЫ ЗАРАЖЕННОГО ГОРОДА).png",
-		"type": "9",
+		"type": "18",
 		"width": 1216,
 		"height": 736
 	  },
@@ -1439,7 +1439,7 @@ const mapData = {
 		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/17(ЗАГРЯЗНЕННАЯ ДОРОГА).png",
-		"type": "9",
+		"type": "17",
 		"width": 864,
 		"height": 384
 	  },
@@ -1455,7 +1455,7 @@ const mapData = {
 		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/27(БЕРЕГ ОСТРОВА РЫБ).png",
-		"type": "14",
+		"type": "27",
 		"width": 640,
 		"height": 320
 	  },
@@ -1470,7 +1470,7 @@ const mapData = {
 		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/25(БОЛОТО ОСТРОВА РЫБ).png",
-		"type": "13",
+		"type": "25",
 		"width": 480,
 		"height": 288
 	  }
