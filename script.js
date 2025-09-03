@@ -1256,7 +1256,7 @@ const mapData = {
 		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>5: Беженцы под атакой</li>\
+		<li style='color: #339966;'>1: Беженцы под атакой</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/14(ПУСТОШИ АБОМИНАЦИЙ).png",
 		"type": "14",
@@ -1266,7 +1266,22 @@ const mapData = {
 	  {
 		"coords": [3056, 3792],
 		"title": "Зараженный край орков",
-		"description": "<p style='color: #cccccc;'>Зараженный край орков.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Зараженный край орков.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+		<li style='color: #993333;'>3: Группа оркоидов-наездников</li>\
+		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+		<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
+		<li style='color: #993333;'>6: Группа оркоидов</li>\
+		<li style='color: #339966;'>7: Засада у братской могилы</li>\
+		<li style='color: #339966;'>8: Группа нежити</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Лагерь беженцев</li>\
+		<li style='color: #339966;'>2: Братская могила</li>\
+		<li style='color: #339966;'>3: Беженцы под атакой</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/28(ЗАРАЖЕННЫЙ КРАЙ ОРКОВ).png",
 		"type": "28",
 		"width": 416,
@@ -1293,7 +1308,21 @@ const mapData = {
 	  {
 		"coords": [3472, 3904],
 		"title": "Руины павшей крепости оркоидов",
-		"description": "<p style='color: #cccccc;'>Руины павшей крепости оркоидов.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>15 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Руины павшей крепости оркоидов.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>15 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+		<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
+		<li style='color: #993333;'>6: Группа оркоидов</li>\
+		<li style='color: #339966;'>7: Засада у братской могилы</li>\
+		<li style='color: #339966;'>8: Группа нежити</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Лагерь беженцев</li>\
+		<li style='color: #339966;'>2: Братская могила</li>\
+		<li style='color: #339966;'>3: Беженцы под атакой</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/30(РУИНЫ ПАВШЕЙ КРЕПОСТИ ОРКОВ).png",
 		"type": "30",
 		"width": 224,
@@ -1302,7 +1331,18 @@ const mapData = {
 	  {
 		"coords": [3456, 3760],
 		"title": "Улицы Сибариса",
-		"description": "<p style='color: #cccccc;'>Улицы Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Улицы Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
+		<li style='color: #993333;'>2: Группа оркоидов</li>\
+		<li style='color: #339966;'>3: Засада у братской могилы</li>\
+		<li style='color: #339966;'>4: Группа нежити</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Лагерь беженцев</li>\
+		<li style='color: #339966;'>2: Братская могила</li>\
+		<li style='color: #339966;'>3: Беженцы под атакой</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/31(УЛИЦЫ СИБАРИСА).png",
 		"type": "31",
 		"width": 256,
@@ -1311,7 +1351,18 @@ const mapData = {
 	  {
 		"coords": [3312, 3776],
 		"title": "Аллеи Сибариса",
-		"description": "<p style='color: #cccccc;'>Аллеи Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Аллеи Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
+		<li style='color: #993333;'>2: Группа оркоидов</li>\
+		<li style='color: #339966;'>3: Засада у братской могилы</li>\
+		<li style='color: #339966;'>4: Группа нежити</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Лагерь беженцев</li>\
+		<li style='color: #339966;'>2: Братская могила</li>\
+		<li style='color: #339966;'>3: Беженцы под атакой</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/32(АЛЛЕЯ СИБАРИСА).png",
 		"type": "32",
 		"width": 160,
@@ -1320,7 +1371,14 @@ const mapData = {
 	  {
 		"coords": [3136, 3264],
 		"title": "Зараженный край абоминаций",
-		"description": "<p style='color: #cccccc;'>Зараженный край абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Зараженный край абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа оркоидов</li>\
+		<li style='color: #993333;'>2: Группа нежити</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #aa4444;'>нет</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/16(ЗАРАЖЕННЫЙ КРАЙ АБОМИНАЦИЙ).png",
 		"type": "16",
 		"width": 1920,
@@ -1329,7 +1387,21 @@ const mapData = {
 	  {
 		"coords": [3104, 3872],
 		"title": "Загрязненные земли",
-		"description": "<p style='color: #cccccc;'>Загрязненные земли.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>8 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Загрязненные земли.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>8 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+		<li style='color: #993333;'>3: Группа оркоидов-наездников</li>\
+		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+		<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
+		<li style='color: #993333;'>6: Группа оркоидов</li>\
+		<li style='color: #339966;'>7: Засада у братской могилы</li>\
+		<li style='color: #339966;'>8: Группа нежити</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Лагерь беженцев</li>\
+		<li style='color: #339966;'>2: Братская могила</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/19(ЗАГРЯЗНЕННЫЕ ЗЕМЛИ).png",
 		"type": "19",
 		"width": 640,
@@ -1374,7 +1446,14 @@ const mapData = {
 	  {
 		"coords": [3904, 608],
 		"title": "Берег острова рыб",
-		"description": "<p style='color: #cccccc;'>Берег острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>6 выносливости</span></li><li style='color: #aa4444;'>Негативные события:<ul><li style='color: #993333;'>1</li><li style='color: #993333;'>2</li><li style='color: #993333;'>3</li></ul></li><li style='color: #44aa44;'>Положительные события:<ul><li style='color: #339966;'>1</li><li style='color: #339966;'>2</li><li style='color: #339966;'>3</li></ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Берег острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>6 выносливости</span></li>\
+		<li style='color: #aa4444;'>Негативные события:<ul>\
+		<li style='color: #993333;'>1: Группа глубинных</li>\
+		<li style='color: #993333;'>2: Волна</li>\
+		</ul></li>\
+		<li style='color: #44aa44;'>Положительные события:<ul>\
+		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/27(БЕРЕГ ОСТРОВА РЫБ).png",
 		"type": "27",
 		"width": 640,
