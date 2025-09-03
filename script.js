@@ -838,7 +838,7 @@ const mapData = {
 	  {
 		"coords": [1120, 1616],
 		"title": "Улицы Ноэртауна",
-		"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа бандитов</li>\
 		<li style='color: #993333;'>2: Коллекторы</li>\
@@ -856,7 +856,7 @@ const mapData = {
 	  {
 		"coords": [1136, 1712],
 		"title": "Дорога",
-		"description": "<p style='color: #cccccc;'>Дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>6 выносливости</span></li> \
+		"description": "<p style='color: #cccccc;'>Дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li> \
 		<li style='color: #aa4444;'>Негативные события:<ul> \
 		<li style='color: #993333;'>1: Группа оркоидов</li> \
 		<li style='color: #993333;'>2: Группа волков</li> \
@@ -880,7 +880,7 @@ const mapData = {
 	  {
 		"coords": [1136, 1776],
 		"title": "Склон Росендо",
-		"description": "<p style='color: #cccccc;'>Склон Росендо.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>6 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Склон Росендо.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #44aa44;'>нет</li>\
 		</ul></li>\
@@ -895,7 +895,7 @@ const mapData = {
 	  {
 		"coords": [2432, 2544],
 		"title": "Хвойный лес",
-		"description": "<p style='color: #cccccc;'>Хвойный лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>20 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Хвойный лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа оркоидов</li>\
 		<li style='color: #993333;'>2: Группа волков</li>\
@@ -918,7 +918,7 @@ const mapData = {
 	  {
 		"coords": [1872, 2512],
 		"title": "Тропический лес",
-		"description": "<p style='color: #cccccc;'>Тропический лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>20 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Тропический лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа оркоидов</li>\
 		<li style='color: #993333;'>2: Группа волков</li>\
@@ -941,7 +941,7 @@ const mapData = {
 	  {
 		"coords": [2384, 2560],
 		"title": "Горы",
-		"description": "<p style='color: #cccccc;'>Горы.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>25 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Горы.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>12.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа оркоидов</li>\
 		<li style='color: #993333;'>2: Группа волков</li>\
@@ -964,7 +964,7 @@ const mapData = {
 	  {
 		"coords": [1008, 1600],
 		"title": "Районы Ноэртауна",
-		"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа бандитов</li>\
 		<li style='color: #993333;'>2: Коллекторы</li>\
@@ -982,7 +982,7 @@ const mapData = {
 	  {
 		"coords": [1904, 2608],
 		"title": "Главная дорога",
-		"description": "<p style='color: #cccccc;'>Главная дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Главная дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа бандитов</li>\
 		</ul></li>\
@@ -999,7 +999,7 @@ const mapData = {
 	  {
 		"coords": [2592, 2704],
 		"title": "Дорога",
-		"description": "<p style='color: #cccccc;'>Дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>6 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа оркоидов</li>\
 		<li style='color: #993333;'>2: Группа волков</li>\
@@ -1022,7 +1022,7 @@ const mapData = {
 	  {
 		"coords": [2176, 2528],
 		"title": "Заброшенный дом",
-		"description": "<p style='color: #cccccc;'>Заброшенный дом.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>8 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Заброшенный дом.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа оркоидов</li>\
 		<li style='color: #993333;'>2: Группа волков</li>\
@@ -1045,7 +1045,7 @@ const mapData = {
 	  {
 		"coords": [2032, 2768],
 		"title": "Лагерь беженцев",
-		"description": "<p style='color: #cccccc;'>Лагерь беженцев.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Лагерь беженцев.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа бандитов</li>\
 		</ul></li>\
@@ -1063,7 +1063,7 @@ const mapData = {
 	  {
 		"coords": [1392, 2576],
 		"title": "Трущобы",
-		"description": "<p style='color: #cccccc;'>Трущобы.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Трущобы.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа бандитов</li>\
 		</ul></li>\
@@ -1081,7 +1081,7 @@ const mapData = {
 	  {
 		"coords": [2336, 2768],
 		"title": "Берег Ноэра",
-		"description": "<p style='color: #cccccc;'>Берег Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>6 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Берег Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа оркоидов</li>\
 		<li style='color: #993333;'>2: Волна</li>\
@@ -1103,7 +1103,7 @@ const mapData = {
 	  {
 		"coords": [2352, 2592],
 		"title": "Поле",
-		"description": "<p style='color: #cccccc;'>Поле.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Поле.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа оркоидов</li>\
 		<li style='color: #993333;'>2: Группа волков</li>\
@@ -1126,7 +1126,7 @@ const mapData = {
 	  {
 		"coords": [3072, 2096],
 		"title": "Болотная тропа Ноэра",
-		"description": "<p style='color: #cccccc;'>Болотная тропа Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Болотная тропа Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа оркоидов</li>\
 		<li style='color: #993333;'>2: Группа глубинных</li>\
@@ -1149,7 +1149,7 @@ const mapData = {
 	  {
 		"coords": [3760, 704],
 		"title": "Болотная тропа острова рыболюдей",
-		"description": "<p style='color: #cccccc;'>Болотная тропа острова рыболюдей.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Болотная тропа острова рыболюдей.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа глубинных</li>\
 		</ul></li>\
@@ -1164,7 +1164,7 @@ const mapData = {
 	  {
 		"coords": [2992, 2112],
 		"title": "Болото Ноэра",
-		"description": "<p style='color: #cccccc;'>Болото Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>22 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Болото Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>11 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа глубинных</li>\
 		<li style='color: #993333;'>2: Группа оркоидов</li>\
@@ -1182,7 +1182,7 @@ const mapData = {
 	  {
 		"coords": [2928, 2112],
 		"title": "Топи Ноэра",
-		"description": "<p style='color: #cccccc;'>Топи Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Топи Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа глубинных</li>\
 		<li style='color: #993333;'>2: Группа оркоидов</li>\
@@ -1199,7 +1199,7 @@ const mapData = {
 	  {
 		"coords": [3904, 640],
 		"title": "Топи острова рыб",
-		"description": "<p style='color: #cccccc;'>Топи острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Топи острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа глубинных</li>\
 		</ul></li>\
@@ -1214,7 +1214,7 @@ const mapData = {
 	  {
 		"coords": [3152, 3136],
 		"title": "Зараженная гора",
-		"description": "<p style='color: #cccccc;'>Зараженная гора.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>25 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Зараженная гора.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>12.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
 		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
@@ -1231,7 +1231,7 @@ const mapData = {
 	  {
 		"coords": [3264, 3344],
 		"title": "Мертвый лес",
-		"description": "<p style='color: #cccccc;'>Мертвый лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>20 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Мертвый лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
 		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
@@ -1248,7 +1248,7 @@ const mapData = {
 	  {
 		"coords": [3280, 3280],
 		"title": "Пустоши абоминаций",
-		"description": "<p style='color: #cccccc;'>Пустоши абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>8 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Пустоши абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
 		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
@@ -1266,7 +1266,7 @@ const mapData = {
 	  {
 		"coords": [3056, 3792],
 		"title": "Зараженный край орков",
-		"description": "<p style='color: #cccccc;'>Зараженный край орков.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Зараженный край орков.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
 		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
@@ -1290,7 +1290,7 @@ const mapData = {
 	  {
 		"coords": [3744, 3488],
 		"title": "Руины павшей крепости абоминаций",
-		"description": "<p style='color: #cccccc;'>Руины павшей крепости абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>15 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Руины павшей крепости абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
 		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
@@ -1308,7 +1308,7 @@ const mapData = {
 	  {
 		"coords": [3472, 3904],
 		"title": "Руины павшей крепости оркоидов",
-		"description": "<p style='color: #cccccc;'>Руины павшей крепости оркоидов.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>15 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Руины павшей крепости оркоидов.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
 		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
@@ -1331,7 +1331,7 @@ const mapData = {
 	  {
 		"coords": [3456, 3760],
 		"title": "Улицы Сибариса",
-		"description": "<p style='color: #cccccc;'>Улицы Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Улицы Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
 		<li style='color: #993333;'>2: Группа оркоидов</li>\
@@ -1351,7 +1351,7 @@ const mapData = {
 	  {
 		"coords": [3312, 3776],
 		"title": "Аллеи Сибариса",
-		"description": "<p style='color: #cccccc;'>Аллеи Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Аллеи Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
 		<li style='color: #993333;'>2: Группа оркоидов</li>\
@@ -1371,7 +1371,7 @@ const mapData = {
 	  {
 		"coords": [3136, 3264],
 		"title": "Зараженный край абоминаций",
-		"description": "<p style='color: #cccccc;'>Зараженный край абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Зараженный край абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа оркоидов</li>\
 		<li style='color: #993333;'>2: Группа нежити</li>\
@@ -1387,7 +1387,7 @@ const mapData = {
 	  {
 		"coords": [3104, 3872],
 		"title": "Загрязненные земли",
-		"description": "<p style='color: #cccccc;'>Загрязненные земли.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>8 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Загрязненные земли.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
 		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
@@ -1410,7 +1410,7 @@ const mapData = {
 	  {
 		"coords": [3520, 3632],
 		"title": "Руины зараженного города",
-		"description": "<p style='color: #cccccc;'>Руины зараженного города.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>14 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Руины зараженного города.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
 		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
@@ -1428,7 +1428,7 @@ const mapData = {
 	  {
 		"coords": [3664, 3392],
 		"title": "Загрязненная дорога",
-		"description": "<p style='color: #cccccc;'>Загрязненная дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Загрязненная дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
 		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
@@ -1446,7 +1446,7 @@ const mapData = {
 	  {
 		"coords": [3904, 608],
 		"title": "Берег острова рыб",
-		"description": "<p style='color: #cccccc;'>Берег острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>6 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Берег острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа глубинных</li>\
 		<li style='color: #993333;'>2: Волна</li>\
@@ -1462,7 +1462,7 @@ const mapData = {
 	  {
 		"coords": [3888, 688],
 		"title": "Болото острова рыб",
-		"description": "<p style='color: #cccccc;'>Болото острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>22 выносливости</span></li>\
+		"description": "<p style='color: #cccccc;'>Болото острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>11 выносливости</span></li>\
 		<li style='color: #aa4444;'>Негативные события:<ul>\
 		<li style='color: #993333;'>1: Группа глубинных</li>\
 		</ul></li>\
