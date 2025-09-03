@@ -847,6 +847,10 @@ const mapData = {
 		<li style='color: #339966;'>1: Стража Ноэра</li>\
 		<li style='color: #339966;'>2: Группа бездомных</li>\
 		<li style='color: #339966;'>3: Проповедник</li></ul>\
+		</ul></li>\
+		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
+		<li style='color: #aaaaff;'>Проституция: 3 позиции</li>\
+		<li style='color: #aaaaff;'>Дом: 1 позиция</li>\
 		</li></ul>",
 		"icon": "assets/регионы/22(УЛИЦЫ НОЭРА).png",
 		"type": "22",
