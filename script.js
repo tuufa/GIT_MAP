@@ -846,12 +846,12 @@ const mapData = {
 		<li style='color: #44aa44;'>Положительные события:<ul>\
 		<li style='color: #339966;'>1: Стража Ноэра</li>\
 		<li style='color: #339966;'>2: Группа бездомных</li>\
-		<li style='color: #339966;'>3: Проповедник</li></ul>\
+		<li style='color: #339966;'>3: Проповедник</li>\
 		</ul></li>\
 		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>Проституция: 3 позиции</li>\
-		<li style='color: #aaaaff;'>Дом: 1 позиция</li>\
-		</li></ul>",
+		<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
+		<li style='color: #aaaaff;'>2: Дом: 1 позиция</li>\
+		</ul></li></ul>",
 		"icon": "assets/регионы/22(УЛИЦЫ НОЭРА).png",
 		"type": "22",
 		"width": 384,
@@ -875,6 +875,9 @@ const mapData = {
 		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
 		<li style='color: #339966;'>4: Стража Ноэра</li>\
 		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+		</ul></li>\
+		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
+		<li style='color: #aa4444;'>нет</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/11(ДОРОГА НА СКЛОН РОСЕНДО).png",
 		"type": "11",
@@ -890,6 +893,10 @@ const mapData = {
 		</ul></li>\
 		<li style='color: #44aa44;'>Положительные события:<ul>\
 		<li style='color: #339966;'>1: Патруль стражи</li>\
+		</ul></li>\
+		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
+		<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
+		<li style='color: #aaaaff;'>2: Дом: 5 позиций</li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/12(СКЛОН РОСЕНДО).png",
 		"type": "12",
@@ -913,6 +920,10 @@ const mapData = {
 		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
 		<li style='color: #339966;'>4: Стража Ноэра</li>\
 		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+		</ul></li>\
+		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
+		<li style='color: #aaaaff;'>1: /li>\
+		<li style='color: #aaaaff;'>2: </li>\
 		</ul></li></ul>",
 		"icon": "assets/регионы/5(ХВОЙНЫЙ ЛЕС).png",
 		"type": "5",
