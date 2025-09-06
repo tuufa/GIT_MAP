@@ -668,133 +668,680 @@ const mapData = {
 	  {
 		"coords": [1611, 1232],
 		"title": "Коллекторы",
-		"description": "Коллекторы.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/КОЛЛЕКТОРЫ 1.png",
 		"type": "collectors"
 	  },
 	  {
 		"coords": [1707, 1008],
 		"title": "Коллекторы",
-		"description": "Коллекторы.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/КОЛЛЕКТОРЫ 2.png",
 		"type": "collectors"
 	  },
 	  {
 		"coords": [3596, 1617],
 		"title": "Коллекторы",
-		"description": "Коллекторы.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/КОЛЛЕКТОРЫ 3.png",
 		"type": "collectors"
 	  },
 	  {
 		"coords": [1518, 1136],
 		"title": "Коллекторы",
-		"description": "Коллекторы.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/КОЛЛЕКТОРЫ 4.png",
 		"type": "collectors"
 	  },
 	  {
 		"coords": [679, 3792],
 		"title": "Коллекторы",
-		"description": "Коллекторы.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/КОЛЛЕКТОРЫ 5.png",
 		"type": "collectors"
 	  },
 	  {
 		"coords": [2478, 3637],
 		"title": "Бандиты",
-		"description": "Бандиты.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/БАНДИТЫ 1.png",
 		"type": "bandits"
 	  },
 	  {
 		"coords": [2507, 1014],
 		"title": "Бандиты",
-		"description": "Бандиты.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/БАНДИТЫ 2.png",
 		"type": "bandits"
 	  },
 	  {
 		"coords": [3405, 2000],
 		"title": "Бандиты",
-		"description": "Бандиты.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
+					<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+					<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
+					<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/БАНДИТЫ 3.png",
 		"type": "bandits"
 	  },
 	  {
 		"coords": [2056, 1043],
 		"title": "Гоблины",
-		"description": "Гоблины.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>4 случайных гоблина</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+					<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+					<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+					<li style='color: #aaaaff;'>1 случайный орк</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/ГОБЛИНЫ 1.png",
 		"type": "orcs"
 	  },
 	  {
 		"coords": [2798, 1329],
 		"title": "Гоблины",
-		"description": "Гоблины.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>4 случайных гоблина</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+					<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+					<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+					<li style='color: #aaaaff;'>1 случайный орк</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/ГОБЛИНЫ 2.png",
 		"type": "orcs"
 	  },
 	  {
 		"coords": [2830, 1713],
 		"title": "Гоблины",
-		"description": "Гоблины.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>4 случайных гоблина</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+					<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+					<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+					<li style='color: #aaaaff;'>1 случайный орк</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/ГОБЛИНЫ 3.png",
 		"type": "orcs"
 	  },
 	  {
 		"coords": [1936, 1520],
 		"title": "Гоблины",
-		"description": "Гоблины.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>4 случайных гоблина</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+					<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+					<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+					<li style='color: #aaaaff;'>1 случайный орк</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/ГОБЛИНЫ 4.png",
 		"type": "orcs"
 	  },
 	  {
 		"coords": [3090, 3024],
 		"title": "Менеджеры абоминаций",
-		"description": "Менеджеры абоминаций.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>2 паукообразных абоминации</li>\
+					<li style='color: #aaaaff;'>2 зомби</li>\
+					<li style='color: #aaaaff;'>1 скорпионообразная абоминация</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
+					<li style='color: #aaaaff;'>2 зомби</li>\
+					<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
+					<li style='color: #aaaaff;'>2 зомби</li>\
+					<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
+					<li style='color: #aaaaff;'>1 менеджер абоминаций</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
+					<li style='color: #aaaaff;'>3 зомби</li>\
+					<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
+					<li style='color: #aaaaff;'>2 менеджер абоминаций</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/АБОМИНАЦИИ 1.png",
 		"type": "abominations"
 	  },
 	  {
 		"coords": [3669, 2868],
 		"title": "Менеджеры абоминаций",
-		"description": "Менеджеры абоминаций.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>2 паукообразных абоминации</li>\
+					<li style='color: #aaaaff;'>2 зомби</li>\
+					<li style='color: #aaaaff;'>1 скорпионообразная абоминация</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
+					<li style='color: #aaaaff;'>2 зомби</li>\
+					<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
+					<li style='color: #aaaaff;'>2 зомби</li>\
+					<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
+					<li style='color: #aaaaff;'>1 менеджер абоминаций</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
+					<li style='color: #aaaaff;'>3 зомби</li>\
+					<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
+					<li style='color: #aaaaff;'>2 менеджер абоминаций</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/АБОМИНАЦИИ 2.png",
 		"type": "abominations"
 	  },
 	  {
 		"coords": [3056, 3730],
-		"title": "Пауки абоминаций",
-		"description": "Пауки абоминаций.",
+		"title": "Паукообразные абоминаций",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>5 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>6 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>8 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>10 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/АБОМИНАЦИИ ПАУКИ 1.png",
 		"type": "abominations"
 	  },
 	  {
 		"coords": [2800, 3859],
-		"title": "Пауки абоминаций",
-		"description": "Пауки абоминаций.",
+		"title": "Паукообразные абоминаций",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>5 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>6 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>8 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>10 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/АБОМИНАЦИИ ПАУКИ 2.png",
 		"type": "abominations"
 	  },
 	  {
 		"coords": [3600, 2515],
-		"title": "Пауки абоминаций",
-		"description": "Пауки абоминаций.",
+		"title": "Паукообразные абоминаций",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>5 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>6 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>8 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>10 паукообразных абоминации</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/АБОМИНАЦИИ ПАУКИ 3.png",
 		"type": "abominations"
 	  },
 	  {
 		"coords": [2920, 3287],
 		"title": "Гончии абоминаций",
-		"description": "Гончии абоминаций.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-29\
+				<ul>\
+					<li style='color: #aaaaff;'>4 гончии абоминаций</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>30-59\
+				<ul>\
+					<li style='color: #aaaaff;'>6 гончих абоминаций</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>60-89\
+				<ul>\
+					<li style='color: #aaaaff;'>8 гончих абоминаций</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>89-100\
+				<ul>\
+					<li style='color: #aaaaff;'>10 гончих абоминаций</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/АБОМИНАЦИИ СОБАКИ 1.png",
 		"type": "abominations"
 	  },
 	  {
 		"coords": [1935, 2288],
 		"title": "Рыболюди",
-		"description": "Рыболюди.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+					<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
+					<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/РЫБЫ 1.png",
 		"type": "fishmen"
 	  },
@@ -838,20 +1385,29 @@ const mapData = {
 	  {
 		"coords": [1120, 1616],
 		"title": "Улицы Ноэртауна",
-		"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа бандитов</li>\
-		<li style='color: #993333;'>2: Коллекторы</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Стража Ноэра</li>\
-		<li style='color: #339966;'>2: Группа бездомных</li>\
-		<li style='color: #339966;'>3: Проповедник</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
-		<li style='color: #aaaaff;'>2: Дом: 1 позиция</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа бандитов</li>\
+						<li style='color: #993333;'>2: Коллекторы</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Стража Ноэра</li>\
+						<li style='color: #339966;'>2: Группа бездомных</li>\
+						<li style='color: #339966;'>3: Проповедник</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
+						<li style='color: #aaaaff;'>2: Дом: 1 позиция</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/22(УЛИЦЫ НОЭРА).png",
 		"type": "22",
 		"width": 384,
@@ -860,25 +1416,34 @@ const mapData = {
 	  {
 		"coords": [1136, 1712],
 		"title": "Дорога",
-		"description": "<p style='color: #cccccc;'>Дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li> \
-		<li style='color: #aa4444;'>Негативные события:<ul> \
-		<li style='color: #993333;'>1: Группа оркоидов</li> \
-		<li style='color: #993333;'>2: Группа волков</li> \
-		<li style='color: #993333;'>3: Группа нежити</li> \
-		<li style='color: #993333;'>4: Группа бандитов</li>\
-		<li style='color: #993333;'>5: Группа коллекторов</li>\
-		<li style='color: #993333;'>6: Засада у телеги</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Оставленная телега</li>\
-		<li style='color: #339966;'>2: Лагерь беженцев</li>\
-		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-		<li style='color: #339966;'>4: Стража Ноэра</li>\
-		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Дорога.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Группа волков</li>\
+						<li style='color: #993333;'>3: Группа нежити</li>\
+						<li style='color: #993333;'>4: Группа бандитов</li>\
+						<li style='color: #993333;'>5: Группа коллекторов</li>\
+						<li style='color: #993333;'>6: Засада у телеги</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Оставленная телега</li>\
+						<li style='color: #339966;'>2: Лагерь беженцев</li>\
+						<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
+						<li style='color: #339966;'>4: Стража Ноэра</li>\
+						<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/11(ДОРОГА НА СКЛОН РОСЕНДО).png",
 		"type": "11",
 		"width": 32,
@@ -887,18 +1452,27 @@ const mapData = {
 	  {
 		"coords": [1136, 1776],
 		"title": "Склон Росендо",
-		"description": "<p style='color: #cccccc;'>Склон Росендо.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #44aa44;'>нет</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Патруль стражи</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
-		<li style='color: #aaaaff;'>2: Дом: 5 позиций</li>\
-		<li style='color: #aaaaff;'>3: Колодец: 1 позиция</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Склон Росендо.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #44aa44;'>нет</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Патруль стражи</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
+						<li style='color: #aaaaff;'>2: Дом: 5 позиций</li>\
+						<li style='color: #aaaaff;'>3: Колодец: 1 позиция</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/12(СКЛОН РОСЕНДО).png",
 		"type": "12",
 		"width": 96,
@@ -907,31 +1481,40 @@ const mapData = {
 	  {
 		"coords": [2432, 2544],
 		"title": "Хвойный лес",
-		"description": "<p style='color: #cccccc;'>Хвойный лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа оркоидов</li>\
-		<li style='color: #993333;'>2: Группа волков</li>\
-		<li style='color: #993333;'>3: Группа нежити</li>\
-		<li style='color: #993333;'>4: Группа бандитов</li>\
-		<li style='color: #993333;'>5: Засада у телеги</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Оставленная телега</li>\
-		<li style='color: #339966;'>2: Лагерь беженцев</li>\
-		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-		<li style='color: #339966;'>4: Стража Ноэра</li>\
-		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>2: До 3 ловушек с нежитью(если монетка(100) 3 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>3: До 24 деревьев(чаще меньше/около 10)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>4: До 6 гиробов(больше 2, если монетка(50) 4 раза выпадет <= потолок)</li>\
-		<li style='color: #aaaaff;'>5: До 3 орехов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
-		<li style='color: #aaaaff;'>6: До 3 цветков Тунга(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-		<li style='color: #aaaaff;'>7: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Хвойный лес.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Группа волков</li>\
+						<li style='color: #993333;'>3: Группа нежити</li>\
+						<li style='color: #993333;'>4: Группа бандитов</li>\
+						<li style='color: #993333;'>5: Засада у телеги</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Оставленная телега</li>\
+						<li style='color: #339966;'>2: Лагерь беженцев</li>\
+						<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
+						<li style='color: #339966;'>4: Стража Ноэра</li>\
+						<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>2: До 3 ловушек с нежитью(если монетка(100) 3 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>3: До 24 деревьев(чаще меньше/около 10)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>4: До 6 гиробов(больше 2, если монетка(50) 4 раза выпадет <= потолок)</li>\
+						<li style='color: #aaaaff;'>5: До 3 орехов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
+						<li style='color: #aaaaff;'>6: До 3 цветков Тунга(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+						<li style='color: #aaaaff;'>7: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/5(ХВОЙНЫЙ ЛЕС).png",
 		"type": "5",
 		"width": 3200,
@@ -940,31 +1523,40 @@ const mapData = {
 	  {
 		"coords": [1872, 2512],
 		"title": "Тропический лес",
-		"description": "<p style='color: #cccccc;'>Тропический лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа оркоидов</li>\
-		<li style='color: #993333;'>2: Группа волков</li>\
-		<li style='color: #993333;'>3: Группа нежити</li>\
-		<li style='color: #993333;'>4: Группа бандитов</li>\
-		<li style='color: #993333;'>5: Засада у телеги</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Оставленная телега</li>\
-		<li style='color: #339966;'>2: Лагерь беженцев</li>\
-		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-		<li style='color: #339966;'>4: Стража Ноэра</li>\
-		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 2 кабанов(если монетка(100) 2 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>2: До 3 винограда(больше 1, если монетка(100) 2 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>3: До 3 голубики(больше 1, если монетка(100) 2 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>4: До 11 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>5: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-		<li style='color: #aaaaff;'>6: До 3 банановых пальм(1:монетка(100)<= 50; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-		<li style='color: #aaaaff;'>7: До 3 трав Белого Дракона(1:всегда; 2:потолок<= монетка(50); 3:потолок<= монетка(50))</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Тропический лес.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Группа волков</li>\
+						<li style='color: #993333;'>3: Группа нежити</li>\
+						<li style='color: #993333;'>4: Группа бандитов</li>\
+						<li style='color: #993333;'>5: Засада у телеги</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Оставленная телега</li>\
+						<li style='color: #339966;'>2: Лагерь беженцев</li>\
+						<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
+						<li style='color: #339966;'>4: Стража Ноэра</li>\
+						<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 2 кабанов(если монетка(100) 2 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>2: До 3 винограда(больше 1, если монетка(100) 2 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>3: До 3 голубики(больше 1, если монетка(100) 2 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>4: До 11 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>5: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+						<li style='color: #aaaaff;'>6: До 3 банановых пальм(1:монетка(100)<= 50; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+						<li style='color: #aaaaff;'>7: До 3 трав Белого Дракона(1:всегда; 2:потолок<= монетка(50); 3:потолок<= монетка(50))</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/4(ТРОПИЧЕСКИЙ ЛЕС).png",
 		"type": "4",
 		"width": 2528,
@@ -973,31 +1565,40 @@ const mapData = {
 	  {
 		"coords": [2384, 2560],
 		"title": "Горы",
-		"description": "<p style='color: #cccccc;'>Горы.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>12.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа оркоидов</li>\
-		<li style='color: #993333;'>2: Группа волков</li>\
-		<li style='color: #993333;'>3: Группа нежити</li>\
-		<li style='color: #993333;'>4: Группа бандитов</li>\
-		<li style='color: #993333;'>5: Засада у телеги</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Оставленная телега</li>\
-		<li style='color: #339966;'>2: Лагерь беженцев</li>\
-		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-		<li style='color: #339966;'>4: Стража Ноэра</li>\
-		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>1: До 1 кабана(если монетка(100) выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>2: До 3 ловушек с нежитью(если монетка(100) 3 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>4: До 7 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>5: До 6 случайных овощей(2:всегда; 4:монетка(50)<= потолок; 6:монетка(75)<= потолок)</li>\
-		<li style='color: #aaaaff;'>6: До 3 драконьего корня(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-		<li style='color: #aaaaff;'>7: До 4 фосфора(1:всегда; 2:потолок>= монетка(25); 3:потолок>= монетка(50); 4:потолок>= монетка(70))</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Горы.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>12.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Группа волков</li>\
+						<li style='color: #993333;'>3: Группа нежити</li>\
+						<li style='color: #993333;'>4: Группа бандитов</li>\
+						<li style='color: #993333;'>5: Засада у телеги</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Оставленная телега</li>\
+						<li style='color: #339966;'>2: Лагерь беженцев</li>\
+						<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
+						<li style='color: #339966;'>4: Стража Ноэра</li>\
+						<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>1: До 1 кабана(если монетка(100) выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>2: До 3 ловушек с нежитью(если монетка(100) 3 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>4: До 7 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>5: До 6 случайных овощей(2:всегда; 4:монетка(50)<= потолок; 6:монетка(75)<= потолок)</li>\
+						<li style='color: #aaaaff;'>6: До 3 драконьего корня(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+						<li style='color: #aaaaff;'>7: До 4 фосфора(1:всегда; 2:потолок>= монетка(25); 3:потолок>= монетка(50); 4:потолок>= монетка(70))</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/7(ГОРА).png",
 		"type": "7",
 		"width": 3488,
@@ -1006,25 +1607,34 @@ const mapData = {
 	  {
 		"coords": [1008, 1600],
 		"title": "Районы Ноэртауна",
-		"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа бандитов</li>\
-		<li style='color: #993333;'>2: Коллекторы</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Стража Ноэра</li>\
-		<li style='color: #339966;'>2: Группа бездомных</li>\
-		<li style='color: #339966;'>3: Проповедник</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
-		<li style='color: #aaaaff;'>2: Дом: 4 позиций</li>\
-		<li style='color: #aaaaff;'>3: Колодец: 2 позиций</li>\
-		<li style='color: #aaaaff;'>4: Рванные тряпки: 1 позиция</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 30 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>Далее потолок2 = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>5: До 2 мусора(1:потолок>= монетка(100); 2:потолок2>= монетка(100))</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа бандитов</li>\
+						<li style='color: #993333;'>2: Коллекторы</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Стража Ноэра</li>\
+						<li style='color: #339966;'>2: Группа бездомных</li>\
+						<li style='color: #339966;'>3: Проповедник</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
+						<li style='color: #aaaaff;'>2: Дом: 4 позиций</li>\
+						<li style='color: #aaaaff;'>3: Колодец: 2 позиций</li>\
+						<li style='color: #aaaaff;'>4: Рванные тряпки: 1 позиция</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 30 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>Далее потолок2 = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>5: До 2 мусора(1:потолок>= монетка(100); 2:потолок2>= монетка(100))</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/21(РАЙОНЫ НОЭРТАУНА).png",
 		"type": "21",
 		"width": 544,
@@ -1033,18 +1643,27 @@ const mapData = {
 	  {
 		"coords": [1904, 2608],
 		"title": "Главная дорога",
-		"description": "<p style='color: #cccccc;'>Главная дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа бандитов</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Лагерь беженцев</li>\
-		<li style='color: #339966;'>2: Стража Ноэра</li>\
-		<li style='color: #339966;'>3: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Главная дорога.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Лагерь беженцев</li>\
+						<li style='color: #339966;'>2: Стража Ноэра</li>\
+						<li style='color: #339966;'>3: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/23(ГЛАВНАЯ ДОРОГА).png",
 		"type": "23",
 		"width": 2336,
@@ -1053,24 +1672,33 @@ const mapData = {
 	  {
 		"coords": [2592, 2704],
 		"title": "Дорога",
-		"description": "<p style='color: #cccccc;'>Дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа оркоидов</li>\
-		<li style='color: #993333;'>2: Группа волков</li>\
-		<li style='color: #993333;'>3: Группа нежити</li>\
-		<li style='color: #993333;'>4: Группа бандитов</li>\
-		<li style='color: #993333;'>5: Коллекторы</li>\
-		<li style='color: #993333;'>6: Засада у телеги</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Лагерь беженцев</li>\
-		<li style='color: #339966;'>2: Стража Ноэра</li>\
-		<li style='color: #339966;'>3: Беженцы под атакой бандитов</li>\
-		<li style='color: #339966;'>4: Лагерь беженцев с квестом сопровождения</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Дорога.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Группа волков</li>\
+						<li style='color: #993333;'>3: Группа нежити</li>\
+						<li style='color: #993333;'>4: Группа бандитов</li>\
+						<li style='color: #993333;'>5: Коллекторы</li>\
+						<li style='color: #993333;'>6: Засада у телеги</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Лагерь беженцев</li>\
+						<li style='color: #339966;'>2: Стража Ноэра</li>\
+						<li style='color: #339966;'>3: Беженцы под атакой бандитов</li>\
+						<li style='color: #339966;'>4: Лагерь беженцев с квестом сопровождения</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/11(ДОРОГА).png",
 		"type": "11",
 		"width": 3008,
@@ -1079,29 +1707,38 @@ const mapData = {
 	  {
 		"coords": [2176, 2528],
 		"title": "Заброшенный дом",
-		"description": "<p style='color: #cccccc;'>Заброшенный дом.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа оркоидов</li>\
-		<li style='color: #993333;'>2: Группа волков</li>\
-		<li style='color: #993333;'>3: Группа нежити</li>\
-		<li style='color: #993333;'>4: Группа бандитов</li>\
-		<li style='color: #993333;'>5: Засада у телеги</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Оставленная телега</li>\
-		<li style='color: #339966;'>2: Лагерь беженцев</li>\
-		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-		<li style='color: #339966;'>4: Стража Ноэра</li>\
-		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: Проституция: до 3 позиций</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 50 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>2: Крыса(1:монетка(100)> потолок)</li>\
-		<li style='color: #aaaaff;'>3: Таракан(1:монетка(100)> потолок)</li>\
-		<li style='color: #aaaaff;'>4: Бездомный(1:монетка(100)>= 50)</li>\
-		<li style='color: #aaaaff;'>5: Бездомный гоблин(1:монетка(100)>= 50)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Заброшенный дом.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Группа волков</li>\
+						<li style='color: #993333;'>3: Группа нежити</li>\
+						<li style='color: #993333;'>4: Группа бандитов</li>\
+						<li style='color: #993333;'>5: Засада у телеги</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Оставленная телега</li>\
+						<li style='color: #339966;'>2: Лагерь беженцев</li>\
+						<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
+						<li style='color: #339966;'>4: Стража Ноэра</li>\
+						<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: Проституция: до 3 позиций</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 50 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>2: Крыса(1:монетка(100)> потолок)</li>\
+						<li style='color: #aaaaff;'>3: Таракан(1:монетка(100)> потолок)</li>\
+						<li style='color: #aaaaff;'>4: Бездомный(1:монетка(100)>= 50)</li>\
+						<li style='color: #aaaaff;'>5: Бездомный гоблин(1:монетка(100)>= 50)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/9(ЗАБРОШЕННЫЙ ДОМ).png",
 		"type": "9",
 		"width": 2752,
@@ -1110,23 +1747,32 @@ const mapData = {
 	  {
 		"coords": [2032, 2768],
 		"title": "Лагерь беженцев",
-		"description": "<p style='color: #cccccc;'>Лагерь беженцев.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа бандитов</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Стража Ноэра</li>\
-		<li style='color: #339966;'>2: Группа бездомных</li>\
-		<li style='color: #339966;'>3: Проповедник</li>\
-		<li style='color: #339966;'>4: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: Проституция: 3 позиций</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 50 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>2: Крыса(1:монетка(100)> потолок)</li>\
-		<li style='color: #aaaaff;'>3: Таракан(1:монетка(100)> потолок)</li>\
-		<li style='color: #aaaaff;'>4: Рванные тряпки: 1 позиция</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Лагерь беженцев.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Стража Ноэра</li>\
+						<li style='color: #339966;'>2: Группа бездомных</li>\
+						<li style='color: #339966;'>3: Проповедник</li>\
+						<li style='color: #339966;'>4: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: Проституция: 3 позиций</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 50 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>2: Крыса(1:монетка(100)> потолок)</li>\
+						<li style='color: #aaaaff;'>3: Таракан(1:монетка(100)> потолок)</li>\
+						<li style='color: #aaaaff;'>4: Рванные тряпки: 1 позиция</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/20(ЛАГЕРЬ БЕЖЕНЦЕВ).png",
 		"type": "20",
 		"width": 2016,
@@ -1135,23 +1781,32 @@ const mapData = {
 	  {
 		"coords": [1392, 2576],
 		"title": "Трущобы",
-		"description": "<p style='color: #cccccc;'>Трущобы.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа бандитов</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Стража Ноэра</li>\
-		<li style='color: #339966;'>2: Группа бездомных</li>\
-		<li style='color: #339966;'>3: Проповедник</li>\
-		<li style='color: #339966;'>4: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: Проституция: 3 позиций</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 50 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>2: 2 Крысы(1:монетка(100)> потолок; 2:монетка(100)> потолок)</li>\
-		<li style='color: #aaaaff;'>3: 2 Таракан(1:монетка(100)> потолок; 2:монетка(100)> потолок)</li>\
-		<li style='color: #aaaaff;'>4: Рванные тряпки: 1 позиция</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Трущобы.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Стража Ноэра</li>\
+						<li style='color: #339966;'>2: Группа бездомных</li>\
+						<li style='color: #339966;'>3: Проповедник</li>\
+						<li style='color: #339966;'>4: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: Проституция: 3 позиций</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 50 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>2: 2 Крысы(1:монетка(100)> потолок; 2:монетка(100)> потолок)</li>\
+						<li style='color: #aaaaff;'>3: 2 Таракан(1:монетка(100)> потолок; 2:монетка(100)> потолок)</li>\
+						<li style='color: #aaaaff;'>4: Рванные тряпки: 1 позиция</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/10(ТРУЩОБЫ).png",
 		"type": "10",
 		"width": 1312,
@@ -1160,27 +1815,36 @@ const mapData = {
 	  {
 		"coords": [2336, 2768],
 		"title": "Берег Ноэра",
-		"description": "<p style='color: #cccccc;'>Берег Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа оркоидов</li>\
-		<li style='color: #993333;'>2: Волна</li>\
-		<li style='color: #993333;'>3: Группа бандитов</li>\
-		<li style='color: #993333;'>4: Засада у телеги</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Оставленная телега</li>\
-		<li style='color: #339966;'>2: Лагерь беженцев</li>\
-		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-		<li style='color: #339966;'>4: Стража Ноэра</li>\
-		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 8 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>2: До 9 рыб(3:всегда; 6:монетка(50) 3 раза<= потолок; 9:монетка(50) 6 раз<= потолок)</li>\
-		<li style='color: #aaaaff;'>3: До 3 орехов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
-		<li style='color: #aaaaff;'>4: До 3 крабов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Берег Ноэра.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Волна</li>\
+						<li style='color: #993333;'>3: Группа бандитов</li>\
+						<li style='color: #993333;'>4: Засада у телеги</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Оставленная телега</li>\
+						<li style='color: #339966;'>2: Лагерь беженцев</li>\
+						<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
+						<li style='color: #339966;'>4: Стража Ноэра</li>\
+						<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 8 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>2: До 9 рыб(3:всегда; 6:монетка(50) 3 раза<= потолок; 9:монетка(50) 6 раз<= потолок)</li>\
+						<li style='color: #aaaaff;'>3: До 3 орехов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
+						<li style='color: #aaaaff;'>4: До 3 крабов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/2(БЕРЕГ НОЭРА).png",
 		"type": "2",
 		"width": 3200,
@@ -1189,27 +1853,36 @@ const mapData = {
 	  {
 		"coords": [2352, 2592],
 		"title": "Поле",
-		"description": "<p style='color: #cccccc;'>Поле.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа оркоидов</li>\
-		<li style='color: #993333;'>2: Группа волков</li>\
-		<li style='color: #993333;'>3: Группа нежити</li>\
-		<li style='color: #993333;'>4: Группа бандитов</li>\
-		<li style='color: #993333;'>5: Засада у телеги</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Оставленная телега</li>\
-		<li style='color: #339966;'>2: Лагерь беженцев</li>\
-		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-		<li style='color: #339966;'>4: Стража Ноэра</li>\
-		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 2 кроликов(если монетка(100) 2 раза выпадет >= 80)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>2: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
-		<li style='color: #aaaaff;'>3: До 6 случайных овощей(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Поле.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Группа волков</li>\
+						<li style='color: #993333;'>3: Группа нежити</li>\
+						<li style='color: #993333;'>4: Группа бандитов</li>\
+						<li style='color: #993333;'>5: Засада у телеги</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Оставленная телега</li>\
+						<li style='color: #339966;'>2: Лагерь беженцев</li>\
+						<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
+						<li style='color: #339966;'>4: Стража Ноэра</li>\
+						<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 2 кроликов(если монетка(100) 2 раза выпадет >= 80)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>2: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+						<li style='color: #aaaaff;'>3: До 6 случайных овощей(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/1(ПОЛЕ).png",
 		"type": "1",
 		"width": 3296,
@@ -1218,24 +1891,33 @@ const mapData = {
 	  {
 		"coords": [3072, 2096],
 		"title": "Болотная тропа Ноэра",
-		"description": "<p style='color: #cccccc;'>Болотная тропа Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа оркоидов</li>\
-		<li style='color: #993333;'>2: Группа глубинных</li>\
-		<li style='color: #993333;'>3: Коллекторы</li>\
-		<li style='color: #993333;'>4: Группа бандитов</li>\
-		<li style='color: #993333;'>5: Засада у телеги</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Оставленная телега</li>\
-		<li style='color: #339966;'>2: Лагерь беженцев</li>\
-		<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-		<li style='color: #339966;'>4: Стража Ноэра</li>\
-		<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 4 деревьев</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Болотная тропа Ноэра.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Группа глубинных</li>\
+						<li style='color: #993333;'>3: Коллекторы</li>\
+						<li style='color: #993333;'>4: Группа бандитов</li>\
+						<li style='color: #993333;'>5: Засада у телеги</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Оставленная телега</li>\
+						<li style='color: #339966;'>2: Лагерь беженцев</li>\
+						<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
+						<li style='color: #339966;'>4: Стража Ноэра</li>\
+						<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 4 деревьев</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/13(БОЛОТНАЯ ТРОПА НОЭРА).png",
 		"type": "13",
 		"width": 1792,
@@ -1244,16 +1926,25 @@ const mapData = {
 	  {
 		"coords": [3760, 704],
 		"title": "Болотная тропа острова рыболюдей",
-		"description": "<p style='color: #cccccc;'>Болотная тропа острова рыболюдей.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа глубинных</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 4 деревьев</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Болотная тропа острова рыболюдей.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа глубинных</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 4 деревьев</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/24(БОЛОТНАЯ ТРОПА ОСТРОВА РЫБ).png",
 		"type": "24",
 		"width": 224,
@@ -1262,28 +1953,37 @@ const mapData = {
 	  {
 		"coords": [2992, 2112],
 		"title": "Болото Ноэра",
-		"description": "<p style='color: #cccccc;'>Болото Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>11 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа глубинных</li>\
-		<li style='color: #993333;'>2: Группа оркоидов</li>\
-		<li style='color: #993333;'>3: Группа нежити</li>\
-		<li style='color: #993333;'>4: Группа волков</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>2: До 2 кабанов(если монетка(100) 2 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>2: До 3 затаившихся глубинных</li>\
-		<li style='color: #aaaaff;'>3: До 15 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>4: До 15 рыб(7:всегда; 9:монетка(25)<= потолок; 12:монетка(50)<= потолок; 15:монетка(75)<= потолок)</li>\
-		<li style='color: #aaaaff;'>5: До 3 грибов(если монетка(50) 2 раза выпадет <= потолок)</li>\
-		<li style='color: #aaaaff;'>6: До 3 голубики(если монетка(50) 2 раза выпадет <= потолок)</li>\
-		<li style='color: #aaaaff;'>7: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-		<li style='color: #aaaaff;'>8: До 3 горькой травы(1:монетка(50)<= потолок; 2:монетка(70)<= потолок; 3:монетка(80)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Болото Ноэра.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>11 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа глубинных</li>\
+						<li style='color: #993333;'>2: Группа оркоидов</li>\
+						<li style='color: #993333;'>3: Группа нежити</li>\
+						<li style='color: #993333;'>4: Группа волков</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>2: До 2 кабанов(если монетка(100) 2 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>2: До 3 затаившихся глубинных</li>\
+						<li style='color: #aaaaff;'>3: До 15 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>4: До 15 рыб(7:всегда; 9:монетка(25)<= потолок; 12:монетка(50)<= потолок; 15:монетка(75)<= потолок)</li>\
+						<li style='color: #aaaaff;'>5: До 3 грибов(если монетка(50) 2 раза выпадет <= потолок)</li>\
+						<li style='color: #aaaaff;'>6: До 3 голубики(если монетка(50) 2 раза выпадет <= потолок)</li>\
+						<li style='color: #aaaaff;'>7: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+						<li style='color: #aaaaff;'>8: До 3 горькой травы(1:монетка(50)<= потолок; 2:монетка(70)<= потолок; 3:монетка(80)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/8(БОЛОТО НОЭРА).png",
 		"type": "8",
 		"width": 1696,
@@ -1292,22 +1992,31 @@ const mapData = {
 	  {
 		"coords": [2928, 2112],
 		"title": "Топи Ноэра",
-		"description": "<p style='color: #cccccc;'>Топи Ноэра.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа глубинных</li>\
-		<li style='color: #993333;'>2: Группа оркоидов</li>\
-		<li style='color: #993333;'>3: Группа нежити</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 5 затаившихся глубинных</li>\
-		<li style='color: #aaaaff;'>2: До 4 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>3: До 10 рыб(7:всегда; 8:монетка(25)<= потолок; 9:монетка(50)<= потолок; 10:монетка(75)<= потолок)</li>\
-		<li style='color: #aaaaff;'>4: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Топи Ноэра.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа глубинных</li>\
+						<li style='color: #993333;'>2: Группа оркоидов</li>\
+						<li style='color: #993333;'>3: Группа нежити</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 5 затаившихся глубинных</li>\
+						<li style='color: #aaaaff;'>2: До 4 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>3: До 10 рыб(7:всегда; 8:монетка(25)<= потолок; 9:монетка(50)<= потолок; 10:монетка(75)<= потолок)</li>\
+						<li style='color: #aaaaff;'>4: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/15(ТОПИ НОЭРА).png",
 		"type": "15",
 		"width": 1888,
@@ -1316,20 +2025,29 @@ const mapData = {
 	  {
 		"coords": [3904, 640],
 		"title": "Топи острова рыб",
-		"description": "<p style='color: #cccccc;'>Топи острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа глубинных</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 5 затаившихся глубинных</li>\
-		<li style='color: #aaaaff;'>2: До 4 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>3: До 10 рыб(7:всегда; 8:монетка(25)<= потолок; 9:монетка(50)<= потолок; 10:монетка(75)<= потолок)</li>\
-		<li style='color: #aaaaff;'>4: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Топи острова рыб.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа глубинных</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 5 затаившихся глубинных</li>\
+						<li style='color: #aaaaff;'>2: До 4 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>3: До 10 рыб(7:всегда; 8:монетка(25)<= потолок; 9:монетка(50)<= потолок; 10:монетка(75)<= потолок)</li>\
+						<li style='color: #aaaaff;'>4: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/26(ТОПИ ОСТРОВА РЫБ).png",
 		"type": "26",
 		"width": 576,
@@ -1338,27 +2056,36 @@ const mapData = {
 	  {
 		"coords": [3152, 3136],
 		"title": "Зараженная гора",
-		"description": "<p style='color: #cccccc;'>Зараженная гора.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>12.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-		<li style='color: #993333;'>3: Группа менеджеров абоминаций</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: 2 взрывающиеся летающие споры</li>\
-		<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
-		<li style='color: #aaaaff;'>3: 2 щупальца</li>\
-		<li style='color: #aaaaff;'>4: 2 споры</li>\
-		<li style='color: #aaaaff;'>5: 2 летучие мыши</li>\
-		<li style='color: #aaaaff;'>6: 14 паразитов</li>\
-		<li style='color: #aaaaff;'>7: До 9 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>8: До 18 мутировавших грибов(6:всегда; 12:монетка(50)<= потолок; 18:монетка(75)<= потолок)</li>\
-		<li style='color: #aaaaff;'>9: До 3 камней с насекомыми(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Зараженная гора.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>12.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+						<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+						<li style='color: #993333;'>3: Группа менеджеров абоминаций</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: 2 взрывающиеся летающие споры</li>\
+						<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
+						<li style='color: #aaaaff;'>3: 2 щупальца</li>\
+						<li style='color: #aaaaff;'>4: 2 споры</li>\
+						<li style='color: #aaaaff;'>5: 2 летучие мыши</li>\
+						<li style='color: #aaaaff;'>6: 14 паразитов</li>\
+						<li style='color: #aaaaff;'>7: До 9 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>8: До 18 мутировавших грибов(6:всегда; 12:монетка(50)<= потолок; 18:монетка(75)<= потолок)</li>\
+						<li style='color: #aaaaff;'>9: До 3 камней с насекомыми(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/3(ЗАРАЖЕННАЯ ГОРА).png",
 		"type": "3",
 		"width": 1376,
@@ -1367,26 +2094,35 @@ const mapData = {
 	  {
 		"coords": [3264, 3344],
 		"title": "Мертвый лес",
-		"description": "<p style='color: #cccccc;'>Мертвый лес.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-		<li style='color: #993333;'>3: Группа менеджеров абоминаций</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: 2 взрывающиеся летающие споры</li>\
-		<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
-		<li style='color: #aaaaff;'>3: 2 щупальца</li>\
-		<li style='color: #aaaaff;'>4: 2 споры</li>\
-		<li style='color: #aaaaff;'>5: 2 летучие мыши</li>\
-		<li style='color: #aaaaff;'>6: 14 паразитов</li>\
-		<li style='color: #aaaaff;'>7: До 5 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>8: До 18 мутировавших грибов(6:всегда; 12:монетка(50)<= потолок; 18:монетка(75)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Мертвый лес.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+						<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+						<li style='color: #993333;'>3: Группа менеджеров абоминаций</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: 2 взрывающиеся летающие споры</li>\
+						<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
+						<li style='color: #aaaaff;'>3: 2 щупальца</li>\
+						<li style='color: #aaaaff;'>4: 2 споры</li>\
+						<li style='color: #aaaaff;'>5: 2 летучие мыши</li>\
+						<li style='color: #aaaaff;'>6: 14 паразитов</li>\
+						<li style='color: #aaaaff;'>7: До 5 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>8: До 18 мутировавших грибов(6:всегда; 12:монетка(50)<= потолок; 18:монетка(75)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/6(МЕРТВЫЙ ЛЕС).png",
 		"type": "6",
 		"width": 1728,
@@ -1395,24 +2131,33 @@ const mapData = {
 	  {
 		"coords": [3280, 3280],
 		"title": "Пустоши абоминаций",
-		"description": "<p style='color: #cccccc;'>Пустоши абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-		<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
-		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Беженцы под атакой</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: 4 взрывающиеся летающие споры</li>\
-		<li style='color: #aaaaff;'>2: 16 щупальцев</li>\
-		<li style='color: #aaaaff;'>3: 4 летучие мыши</li>\
-		<li style='color: #aaaaff;'>4: До 12 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>5: До 3 камней с насекомыми(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Пустоши абоминаций.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+						<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+						<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
+						<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Беженцы под атакой</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: 4 взрывающиеся летающие споры</li>\
+						<li style='color: #aaaaff;'>2: 16 щупальцев</li>\
+						<li style='color: #aaaaff;'>3: 4 летучие мыши</li>\
+						<li style='color: #aaaaff;'>4: До 12 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>5: До 3 камней с насекомыми(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/14(ПУСТОШИ АБОМИНАЦИЙ).png",
 		"type": "14",
 		"width": 1760,
@@ -1421,27 +2166,36 @@ const mapData = {
 	  {
 		"coords": [3056, 3792],
 		"title": "Зараженный край орков",
-		"description": "<p style='color: #cccccc;'>Зараженный край орков.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-		<li style='color: #993333;'>3: Группа оркоидов-наездников</li>\
-		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-		<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
-		<li style='color: #993333;'>6: Группа оркоидов</li>\
-		<li style='color: #993333;'>7: Засада у братской могилы</li>\
-		<li style='color: #993333;'>8: Группа нежити</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Лагерь беженцев</li>\
-		<li style='color: #339966;'>2: Братская могила</li>\
-		<li style='color: #339966;'>3: Беженцы под атакой</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 4 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>2: До 3 камней с насекомыми(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Зараженный край орков.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+						<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+						<li style='color: #993333;'>3: Группа оркоидов-наездников</li>\
+						<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+						<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
+						<li style='color: #993333;'>6: Группа оркоидов</li>\
+						<li style='color: #993333;'>7: Засада у братской могилы</li>\
+						<li style='color: #993333;'>8: Группа нежити</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Лагерь беженцев</li>\
+						<li style='color: #339966;'>2: Братская могила</li>\
+						<li style='color: #339966;'>3: Беженцы под атакой</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 4 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>2: До 3 камней с насекомыми(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/28(ЗАРАЖЕННЫЙ КРАЙ ОРКОВ).png",
 		"type": "28",
 		"width": 416,
@@ -1450,22 +2204,31 @@ const mapData = {
 	  {
 		"coords": [3744, 3488],
 		"title": "Руины павшей крепости абоминаций",
-		"description": "<p style='color: #cccccc;'>Руины павшей крепости абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-		<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
-		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: 1 щупальце</li>\
-		<li style='color: #aaaaff;'>2: 2 зомби</li>\
-		<li style='color: #aaaaff;'>3: 2 торса зомби</li>\
-		<li style='color: #aaaaff;'>4: 4 паразитов</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Руины павшей крепости абоминаций.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+						<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+						<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
+						<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: 1 щупальце</li>\
+						<li style='color: #aaaaff;'>2: 2 зомби</li>\
+						<li style='color: #aaaaff;'>3: 2 торса зомби</li>\
+						<li style='color: #aaaaff;'>4: 4 паразитов</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/29(РУИНЫ ПАВШЕЙ КРЕПОСТИ АБОМИНАЦИЙ).png",
 		"type": "29",
 		"width": 640,
@@ -1474,26 +2237,35 @@ const mapData = {
 	  {
 		"coords": [3472, 3904],
 		"title": "Руины павшей крепости оркоидов",
-		"description": "<p style='color: #cccccc;'>Руины павшей крепости оркоидов.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-		<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
-		<li style='color: #993333;'>6: Группа оркоидов</li>\
-		<li style='color: #993333;'>7: Засада у братской могилы</li>\
-		<li style='color: #993333;'>8: Группа нежити</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Лагерь беженцев</li>\
-		<li style='color: #339966;'>2: Братская могила</li>\
-		<li style='color: #339966;'>3: Беженцы под атакой</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: 6 скелетов</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>2: До 3 трупов(1:всегда; 2:монетка(25)<= потолок; 3:монетка(50)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Руины павшей крепости оркоидов.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+						<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+						<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+						<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
+						<li style='color: #993333;'>6: Группа оркоидов</li>\
+						<li style='color: #993333;'>7: Засада у братской могилы</li>\
+						<li style='color: #993333;'>8: Группа нежити</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Лагерь беженцев</li>\
+						<li style='color: #339966;'>2: Братская могила</li>\
+						<li style='color: #339966;'>3: Беженцы под атакой</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: 6 скелетов</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>2: До 3 трупов(1:всегда; 2:монетка(25)<= потолок; 3:монетка(50)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/30(РУИНЫ ПАВШЕЙ КРЕПОСТИ ОРКОВ).png",
 		"type": "30",
 		"width": 224,
@@ -1502,27 +2274,36 @@ const mapData = {
 	  {
 		"coords": [3456, 3760],
 		"title": "Улицы Сибариса",
-		"description": "<p style='color: #cccccc;'>Улицы Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
-		<li style='color: #993333;'>2: Группа оркоидов</li>\
-		<li style='color: #993333;'>3: Засада у братской могилы</li>\
-		<li style='color: #993333;'>4: Группа нежити</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Лагерь беженцев</li>\
-		<li style='color: #339966;'>2: Братская могила</li>\
-		<li style='color: #339966;'>3: Беженцы под атакой</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 2 ловушек с нежитью(если монетка(100)>= 50)</li>\
-		<li style='color: #aaaaff;'>2: 4 скелета</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>3: До 4 трупов(2:всегда; 4:монетка(50) 2 раза<= потолок)</li>\
-		<li style='color: #aaaaff;'>Далее потолок3 = 30 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>Далее потолок4 = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>4: До 4 мусора(2:потолок>= монетка(100); 4:потолок2>= монетка(100))</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Улицы Сибариса.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
+						<li style='color: #993333;'>2: Группа оркоидов</li>\
+						<li style='color: #993333;'>3: Засада у братской могилы</li>\
+						<li style='color: #993333;'>4: Группа нежити</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Лагерь беженцев</li>\
+						<li style='color: #339966;'>2: Братская могила</li>\
+						<li style='color: #339966;'>3: Беженцы под атакой</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 2 ловушек с нежитью(если монетка(100)>= 50)</li>\
+						<li style='color: #aaaaff;'>2: 4 скелета</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>3: До 4 трупов(2:всегда; 4:монетка(50) 2 раза<= потолок)</li>\
+						<li style='color: #aaaaff;'>Далее потолок3 = 30 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>Далее потолок4 = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>4: До 4 мусора(2:потолок>= монетка(100); 4:потолок2>= монетка(100))</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/31(УЛИЦЫ СИБАРИСА).png",
 		"type": "31",
 		"width": 256,
@@ -1531,27 +2312,36 @@ const mapData = {
 	  {
 		"coords": [3312, 3776],
 		"title": "Аллеи Сибариса",
-		"description": "<p style='color: #cccccc;'>Аллеи Сибариса.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
-		<li style='color: #993333;'>2: Группа оркоидов</li>\
-		<li style='color: #993333;'>3: Засада у братской могилы</li>\
-		<li style='color: #993333;'>4: Группа нежити</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Лагерь беженцев</li>\
-		<li style='color: #339966;'>2: Братская могила</li>\
-		<li style='color: #339966;'>3: Беженцы под атакой</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 2 ловушек с нежитью(если монетка(100)>= 50)</li>\
-		<li style='color: #aaaaff;'>2: 4 скелета</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>3: До 4 трупов(2:всегда; 4:монетка(50) 2 раза<= потолок)</li>\
-		<li style='color: #aaaaff;'>Далее потолок3 = 30 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>Далее потолок4 = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>4: До 4 мусора(2:потолок>= монетка(100); 4:потолок2>= монетка(100))</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Аллеи Сибариса.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
+						<li style='color: #993333;'>2: Группа оркоидов</li>\
+						<li style='color: #993333;'>3: Засада у братской могилы</li>\
+						<li style='color: #993333;'>4: Группа нежити</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Лагерь беженцев</li>\
+						<li style='color: #339966;'>2: Братская могила</li>\
+						<li style='color: #339966;'>3: Беженцы под атакой</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 2 ловушек с нежитью(если монетка(100)>= 50)</li>\
+						<li style='color: #aaaaff;'>2: 4 скелета</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>3: До 4 трупов(2:всегда; 4:монетка(50) 2 раза<= потолок)</li>\
+						<li style='color: #aaaaff;'>Далее потолок3 = 30 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>Далее потолок4 = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>4: До 4 мусора(2:потолок>= монетка(100); 4:потолок2>= монетка(100))</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/32(АЛЛЕЯ СИБАРИСА).png",
 		"type": "32",
 		"width": 160,
@@ -1560,24 +2350,33 @@ const mapData = {
 	  {
 		"coords": [3136, 3264],
 		"title": "Зараженный край абоминаций",
-		"description": "<p style='color: #cccccc;'>Зараженный край абоминаций.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа оркоидов</li>\
-		<li style='color: #993333;'>2: Группа нежити</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: 1 взрывающаяся летающая спора</li>\
-		<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
-		<li style='color: #aaaaff;'>3: 2 споры</li>\
-		<li style='color: #aaaaff;'>4: 2 летучие мыши</li>\
-		<li style='color: #aaaaff;'>5: 8 паразитов</li>\
-		<li style='color: #aaaaff;'>6: До 4 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>7: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Зараженный край абоминаций.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа оркоидов</li>\
+						<li style='color: #993333;'>2: Группа нежити</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: 1 взрывающаяся летающая спора</li>\
+						<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
+						<li style='color: #aaaaff;'>3: 2 споры</li>\
+						<li style='color: #aaaaff;'>4: 2 летучие мыши</li>\
+						<li style='color: #aaaaff;'>5: 8 паразитов</li>\
+						<li style='color: #aaaaff;'>6: До 4 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>7: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/16(ЗАРАЖЕННЫЙ КРАЙ АБОМИНАЦИЙ).png",
 		"type": "16",
 		"width": 1920,
@@ -1586,26 +2385,35 @@ const mapData = {
 	  {
 		"coords": [3104, 3872],
 		"title": "Загрязненные земли",
-		"description": "<p style='color: #cccccc;'>Загрязненные земли.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-		<li style='color: #993333;'>3: Группа оркоидов-наездников</li>\
-		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-		<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
-		<li style='color: #993333;'>6: Группа оркоидов</li>\
-		<li style='color: #993333;'>7: Засада у братской могилы</li>\
-		<li style='color: #993333;'>8: Группа нежити</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Лагерь беженцев</li>\
-		<li style='color: #339966;'>2: Братская могила</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 12 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>2: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Загрязненные земли.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+						<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+						<li style='color: #993333;'>3: Группа оркоидов-наездников</li>\
+						<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+						<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
+						<li style='color: #993333;'>6: Группа оркоидов</li>\
+						<li style='color: #993333;'>7: Засада у братской могилы</li>\
+						<li style='color: #993333;'>8: Группа нежити</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Лагерь беженцев</li>\
+						<li style='color: #339966;'>2: Братская могила</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 12 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>2: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/19(ЗАГРЯЗНЕННЫЕ ЗЕМЛИ).png",
 		"type": "19",
 		"width": 640,
@@ -1614,27 +2422,36 @@ const mapData = {
 	  {
 		"coords": [3520, 3632],
 		"title": "Руины зараженного города",
-		"description": "<p style='color: #cccccc;'>Руины зараженного города.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-		<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
-		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: 2 взрывающиеся летающие споры</li>\
-		<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
-		<li style='color: #aaaaff;'>3: 2 щупальца</li>\
-		<li style='color: #aaaaff;'>4: 2 споры</li>\
-		<li style='color: #aaaaff;'>5: 4 зомби</li>\
-		<li style='color: #aaaaff;'>6: 10 паразитов</li>\
-		<li style='color: #aaaaff;'>7: До 5 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>8: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Руины зараженного города.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+						<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+						<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
+						<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: 2 взрывающиеся летающие споры</li>\
+						<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
+						<li style='color: #aaaaff;'>3: 2 щупальца</li>\
+						<li style='color: #aaaaff;'>4: 2 споры</li>\
+						<li style='color: #aaaaff;'>5: 4 зомби</li>\
+						<li style='color: #aaaaff;'>6: 10 паразитов</li>\
+						<li style='color: #aaaaff;'>7: До 5 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>8: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/18(РУИНЫ ЗАРАЖЕННОГО ГОРОДА).png",
 		"type": "18",
 		"width": 1216,
@@ -1643,25 +2460,34 @@ const mapData = {
 	  {
 		"coords": [3664, 3392],
 		"title": "Загрязненная дорога",
-		"description": "<p style='color: #cccccc;'>Загрязненная дорога.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-		<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-		<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
-		<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #aa4444;'>нет</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: 1 взрывающаяся летающая спора</li>\
-		<li style='color: #aaaaff;'>2: 1 летающа спора</li>\
-		<li style='color: #aaaaff;'>4: 1 спора</li>\
-		<li style='color: #aaaaff;'>5: 3 зомби</li>\
-		<li style='color: #aaaaff;'>6: 4 паразита</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>7: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Загрязненная дорога.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
+						<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
+						<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
+						<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #aa4444;'>нет</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: 1 взрывающаяся летающая спора</li>\
+						<li style='color: #aaaaff;'>2: 1 летающа спора</li>\
+						<li style='color: #aaaaff;'>4: 1 спора</li>\
+						<li style='color: #aaaaff;'>5: 3 зомби</li>\
+						<li style='color: #aaaaff;'>6: 4 паразита</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>7: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/17(ЗАГРЯЗНЕННАЯ ДОРОГА).png",
 		"type": "17",
 		"width": 864,
@@ -1670,22 +2496,31 @@ const mapData = {
 	  {
 		"coords": [3904, 608],
 		"title": "Берег острова рыб",
-		"description": "<p style='color: #cccccc;'>Берег острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа глубинных</li>\
-		<li style='color: #993333;'>2: Волна</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 8 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>2: До 4 затаившихся глубинных(если монетка(100)>= 50 выпадает 4 раза)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>3: До 9 рыб(3:всегда; 6:монетка(50) 3 раза<= потолок; 9:монетка(50) 6 раз<= потолок)</li>\
-		<li style='color: #aaaaff;'>4: До 3 орехов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
-		<li style='color: #aaaaff;'>5: До 3 крабов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Берег острова рыб.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа глубинных</li>\
+						<li style='color: #993333;'>2: Волна</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 8 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>2: До 4 затаившихся глубинных(если монетка(100)>= 50 выпадает 4 раза)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>3: До 9 рыб(3:всегда; 6:монетка(50) 3 раза<= потолок; 9:монетка(50) 6 раз<= потолок)</li>\
+						<li style='color: #aaaaff;'>4: До 3 орехов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
+						<li style='color: #aaaaff;'>5: До 3 крабов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/27(БЕРЕГ ОСТРОВА РЫБ).png",
 		"type": "27",
 		"width": 640,
@@ -1694,25 +2529,34 @@ const mapData = {
 	  {
 		"coords": [3888, 688],
 		"title": "Болото острова рыб",
-		"description": "<p style='color: #cccccc;'>Болото острова рыб.</p><ul><li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>11 выносливости</span></li>\
-		<li style='color: #aa4444;'>Негативные события:<ul>\
-		<li style='color: #993333;'>1: Группа глубинных</li>\
-		</ul></li>\
-		<li style='color: #44aa44;'>Положительные события:<ul>\
-		<li style='color: #339966;'>1: Стража Рыбополиса</li>\
-		</ul></li>\
-		<li style='color: #8899dd;'>Ресурсы региона:<ul>\
-		<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>2: До 2 кабанов(если монетка(100) 2 раза выпадет >= 50)</li>\
-		<li style='color: #aaaaff;'>2: До 3 затаившихся глубинных</li>\
-		<li style='color: #aaaaff;'>3: До 15 деревьев(чаще меньше)</li>\
-		<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-		<li style='color: #aaaaff;'>4: До 15 рыб(7:всегда; 9:монетка(25)<= потолок; 12:монетка(50)<= потолок; 15:монетка(75)<= потолок)</li>\
-		<li style='color: #aaaaff;'>5: До 3 грибов(если монетка(50) 2 раза выпадет <= потолок)</li>\
-		<li style='color: #aaaaff;'>6: До 3 голубики(если монетка(50) 2 раза выпадет <= потолок)</li>\
-		<li style='color: #aaaaff;'>7: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-		<li style='color: #aaaaff;'>8: До 3 горькой травы(1:монетка(50)<= потолок; 2:монетка(70)<= потолок; 3:монетка(80)<= потолок)</li>\
-		</ul></li></ul>",
+		"description": "<p style='color: #cccccc;'>Болото острова рыб.</p>\
+		<ul>\
+			<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>11 выносливости</span></li>\
+				<li style='color: #aa4444;'>Негативные события:\
+					<ul>\
+						<li style='color: #993333;'>1: Группа глубинных</li>\
+					</ul>\
+				</li>\
+				<li style='color: #44aa44;'>Положительные события:\
+					<ul>\
+						<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>Ресурсы региона:\
+					<ul>\
+						<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>2: До 2 кабанов(если монетка(100) 2 раза выпадет >= 50)</li>\
+						<li style='color: #aaaaff;'>2: До 3 затаившихся глубинных</li>\
+						<li style='color: #aaaaff;'>3: До 15 деревьев(чаще меньше)</li>\
+						<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
+						<li style='color: #aaaaff;'>4: До 15 рыб(7:всегда; 9:монетка(25)<= потолок; 12:монетка(50)<= потолок; 15:монетка(75)<= потолок)</li>\
+						<li style='color: #aaaaff;'>5: До 3 грибов(если монетка(50) 2 раза выпадет <= потолок)</li>\
+						<li style='color: #aaaaff;'>6: До 3 голубики(если монетка(50) 2 раза выпадет <= потолок)</li>\
+						<li style='color: #aaaaff;'>7: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+						<li style='color: #aaaaff;'>8: До 3 горькой травы(1:монетка(50)<= потолок; 2:монетка(70)<= потолок; 3:монетка(80)<= потолок)</li>\
+					</ul>\
+				</li>\
+		</ul>",
 		"icon": "assets/регионы/25(БОЛОТО ОСТРОВА РЫБ).png",
 		"type": "25",
 		"width": 480,
