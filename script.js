@@ -1348,35 +1348,190 @@ const mapData = {
 	  {
 		"coords": [1876, 2669],
 		"title": "Рыболюди",
-		"description": "Рыболюди.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+					<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
+					<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/РЫБЫ 2.png",
 		"type": "fishmen"
 	  },
 	  {
 		"coords": [2480, 2544],
 		"title": "Рыболюди",
-		"description": "Рыболюди.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+					<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
+					<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/РЫБЫ 3.png",
 		"type": "fishmen"
 	  },
 	  {
 		"coords": [1870, 3218],
 		"title": "Рыболюди",
-		"description": "Рыболюди.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+					<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
+					<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/РЫБЫ 4.png",
 		"type": "fishmen"
 	  },
 	  {
 		"coords": [2090, 3763],
 		"title": "Рыболюди",
-		"description": "Рыболюди.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+					<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
+					<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/РЫБЫ 5.png",
 		"type": "fishmen"
 	  },
 	  {
 		"coords": [1641, 2485],
 		"title": "Рыболюди",
-		"description": "Рыболюди.",
+		"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+		<ul>\
+			<li style='color: #8899dd;'>0-25\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>25-50\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>50-75\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+					<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+				</ul>\
+			</li>\
+			<li style='color: #8899dd;'>75-100\
+				<ul>\
+					<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
+					<li style='color: #aaaaff;'>2 глубинных</li>\
+					<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
+					<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+				</ul>\
+			</li>\
+		</ul>",
 		"icon": "assets/патрули/РЫБЫ 6.png",
 		"type": "fishmen"
 	  }
