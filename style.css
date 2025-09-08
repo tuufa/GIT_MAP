@@ -355,7 +355,7 @@ input:checked + .toggle-slider:before {
 }
 
 .language-selector {
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 .language-selector select {
