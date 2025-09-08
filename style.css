@@ -353,3 +353,41 @@ input:checked + .toggle-slider:before {
 .external-link a:hover {
   text-decoration: underline;
 }
+
+.language-selector {
+  margin-bottom: 15px;
+}
+
+.language-selector select {
+  width: 100%;
+  background-color: #3a2e22;
+  color: #e0d8b0;
+  border: 1px solid #5a4a3a;
+  border-radius: 3px;
+  padding: 5px 10px;
+  font-family: 'MedievalSharp', cursive;
+  font-size: 14px;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23e0d8b0'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  background-size: 12px;
+  padding-right: 30px;
+}
+
+.language-selector select:hover {
+  background-color: #4a3a2a;
+}
+
+.language-selector select:focus {
+  outline: none;
+  border-color: #c9b583;
+}
+
+/* Для IE */
+.language-selector select::-ms-expand {
+  display: none;
+}
