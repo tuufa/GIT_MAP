@@ -1,5 +1,180 @@
-document.addEventListener('DOMContentLoaded', function() {
-  // Встроенные данные карты
+
+
+// Добавляем в начало файла script.js, перед mapData
+const translations = {
+  "ru": {
+    "menuTitle": "Меню",
+    "zoomIn": "+ Увеличить",
+    "zoomOut": "- Уменьшить",
+    "resetZoom": "Сбросить",
+    "buyGame": "Купить игру",
+    "specialThanks": "Особая благодарность российскому сообществу игры",
+    "regions": "Регионы",
+    "locations": "Локации",
+    "patrols": "Патрули",
+    "all": "Все",
+    "questLocations": "Квестовые",
+    "regularLocations": "Обычные",
+    "regionNames": {
+      "22": "Улицы Ноэртауна",
+      "11": "Дорога",
+      "12": "Склон Росендо",
+      "5": "Хвойный лес",
+      "4": "Тропический лес",
+      "7": "Горы",
+      "21": "Районы Ноэртауна",
+      "23": "Главная дорога",
+      "9": "Заброшенный дом",
+      "20": "Лагерь беженцев",
+      "10": "Трущобы",
+      "2": "Берег Ноэра",
+      "1": "Поле",
+      "13": "Болотная тропа Ноэра",
+      "24": "Болотная тропа острова рыб",
+      "8": "Болото Ноэра",
+      "15": "Топи Ноэра",
+      "26": "Топи острова рыб",
+      "3": "Зараженные горы",
+      "6": "Мертвый лес",
+      "14": "Пустоши абоминаций",
+      "28": "Зараженный край оркоидов",
+      "29": "Руины павшей крепости абоминаций",
+      "30": "Руины павшей крепости оркоидов",
+      "31": "Улицы Сибариса",
+      "32": "Аллеи Сибариса",
+      "16": "Зараженный край абоминаций",
+      "19": "Загрязненные земли",
+      "18": "Руины зараженного города",
+      "17": "Загрязненная дорога",
+      "27": "Берег острова рыб",
+      "25": "Болото острова рыб"
+    },
+    "patrolTypes": {
+      "collectors": "Коллекторы",
+      "bandits": "Бандиты",
+      "orcs": "Оркоиды",
+      "abominations": "Абоминации",
+      "fishmen": "Рыболюди"
+    },
+    "infoTitle": "Информация"
+  },
+  "en": {
+    "menuTitle": "Menu",
+    "zoomIn": "+ Zoom In",
+    "zoomOut": "- Zoom Out",
+    "resetZoom": "Reset",
+    "buyGame": "Buy Game",
+    "specialThanks": "Special thanks to the Russian game community",
+    "regions": "Regions",
+    "locations": "Locations",
+    "patrols": "Patrols",
+    "all": "All",
+    "questLocations": "Quest",
+    "regularLocations": "Regular",
+    "regionNames": {
+      "22": "Noertown Streets",
+      "11": "Road",
+      "12": "Rosendo Slope",
+      "5": "Coniferous Forest",
+      "4": "Tropical Forest",
+      "7": "Mountains",
+      "21": "Noertown Districts",
+      "23": "Main Road",
+      "9": "Abandoned House",
+      "20": "Refugee Camp",
+      "10": "Slums",
+      "2": "Noer Coast",
+      "1": "Field",
+      "13": "Noer Swamp Trail",
+      "24": "Fish Island Swamp Trail",
+      "8": "Noer Swamp",
+      "15": "Noer Swamps",
+      "26": "Fish Island Swamps",
+      "3": "Infected Mountains",
+      "6": "Dead Forest",
+      "14": "Abomination Wastelands",
+      "28": "Infected Orc Territory",
+      "29": "Ruins of Fallen Abomination Fortress",
+      "30": "Ruins of Fallen Orc Fortress",
+      "31": "Sibaris Streets",
+      "32": "Sibaris Alleys",
+      "16": "Infected Abomination Territory",
+      "19": "Polluted Lands",
+      "18": "Ruins of Infected City",
+      "17": "Polluted Road",
+      "27": "Fish Island Coast",
+      "25": "Fish Island Swamp"
+    },
+    "patrolTypes": {
+      "collectors": "Collectors",
+      "bandits": "Bandits",
+      "orcs": "Orcs",
+      "abominations": "Abominations",
+      "fishmen": "Fishmen"
+    },
+    "infoTitle": "Information"
+  },
+  "chn": {
+    "menuTitle": "菜单",
+    "zoomIn": "+ 放大",
+    "zoomOut": "- 缩小",
+    "resetZoom": "重置",
+    "buyGame": "购买游戏",
+    "specialThanks": "特别感谢俄罗斯游戏社区",
+    "regions": "区域",
+    "locations": "地点",
+    "patrols": "巡逻队",
+    "all": "全部",
+    "questLocations": "任务",
+    "regularLocations": "普通",
+    "regionNames": {
+      "22": "诺尔镇街道",
+      "11": "道路",
+      "12": "罗森多斜坡",
+      "5": "针叶林",
+      "4": "热带雨林",
+      "7": "山脉",
+      "21": "诺尔镇区域",
+      "23": "主干道",
+      "9": "废弃房屋",
+      "20": "难民营",
+      "10": "贫民窟",
+      "2": "诺尔海岸",
+      "1": "田野",
+      "13": "诺尔沼泽小径",
+      "24": "鱼人岛沼泽小径",
+      "8": "诺尔沼泽",
+      "15": "诺尔沼泽地",
+      "26": "鱼人岛沼泽地",
+      "3": "感染山脉",
+      "6": "死亡森林",
+      "14": "畸变体荒地",
+      "28": "感染兽人领地",
+      "29": "堕落畸变体堡垒废墟",
+      "30": "堕落兽人堡垒废墟",
+      "31": "西巴里斯街道",
+      "32": "西巴里斯小巷",
+      "16": "感染畸变体领地",
+      "19": "污染之地",
+      "18": "感染城市废墟",
+      "17": "污染道路",
+      "27": "鱼人岛海岸",
+      "25": "鱼人岛沼泽"
+    },
+    "patrolTypes": {
+      "collectors": "征收者",
+      "bandits": "强盗",
+      "orcs": "兽人",
+      "abominations": "畸变体",
+      "fishmen": "鱼人"
+    },
+    "infoTitle": "信息"
+  }
+};
+
+let currentLanguage = 'ru';	
+
+
 const mapData = {
   "mapImage": "assets/map.png",
   "imageWidth": 5440,
@@ -3115,6 +3290,66 @@ const mapData = {
 };
 
 
+
+
+
+
+// Функция для обновления текстов интерфейса
+function updateInterfaceLanguage() {
+  const lang = translations[currentLanguage];
+  
+  // Обновляем все элементы с классами lang-*
+  document.querySelectorAll('[class*="lang-"]').forEach(element => {
+    const classes = element.className.split(' ');
+    const langClass = classes.find(cls => cls.startsWith('lang-'));
+    
+    if (langClass) {
+      const key = langClass.replace('lang-', '');
+      if (key.includes('region-')) {
+        const regionId = key.replace('region-', '');
+        element.textContent = lang.regionNames[regionId] || element.textContent;
+      } else if (key.includes('patrol-')) {
+        const patrolType = key.replace('patrol-', '');
+        element.textContent = lang.patrolTypes[patrolType] || element.textContent;
+      } else {
+        element.textContent = lang[key] || element.textContent;
+      }
+    }
+  });
+  
+  // Обновляем информацию в панели, если она открыта
+  if (!document.getElementById('infoPanel').hidden) {
+    const infoTitle = document.getElementById('infoTitle');
+    if (infoTitle.textContent === translations['ru'].infoTitle || 
+        infoTitle.textContent === translations['en'].infoTitle) {
+      infoTitle.textContent = lang.infoTitle;
+    }
+  }
+}
+
+// Обработчик изменения языка
+document.getElementById('languageSelect').addEventListener('change', function() {
+  currentLanguage = this.value;
+  updateInterfaceLanguage();
+  
+  // Также нужно обновить информацию о регионах при переключении языка
+  document.querySelectorAll('.region-info-button').forEach(button => {
+    const regionType = button.getAttribute('data-region');
+    const region = mapData.regions.find(r => r.type === regionType);
+    if (region) {
+      // Здесь можно обновить описание региона на выбранном языке
+      // если у вас есть переводы для описаний
+    }
+  });
+});
+
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Инициализируем язык по умолчанию
+  updateInterfaceLanguage();
+  // Встроенные данные карты
   // Инициализация карты
   const map = L.map('map', {
     crs: L.CRS.Simple,
