@@ -9803,7 +9803,7 @@ document.addEventListener('DOMContentLoaded', function() {
   map = L.map('map', {
     crs: L.CRS.Simple,        // Используем простую систему координат
     minZoom: -2,              // Минимальный zoom
-    maxZoom: 1,               // Максимальный zoom
+    maxZoom: 2,               // Максимальный zoom
     attributionControl: false // Отключаем стандартную атрибуцию
   });
 
