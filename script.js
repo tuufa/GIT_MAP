@@ -3294,1050 +3294,1050 @@ const mapData = {
 		"locations": [ //y,x
 		{
 		  "coords": [2067, 2996],
-		  "title": "111111111111111Пиратская погибель",
-		  "description": "<p>Старая крепость, которую построили для борьбы с пиратами.</p>\
+		  "title": "Pirate's Demise",
+		  "description": "<p>An old fortress built to fight pirates.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует таверна с квестами</li>\
-			  <li style='color:#64B5F6;'>Присутствует дилижанс</li>\
-			  <li style='color:#64B5F6;'>Присутствует рынок</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Has a tavern with quests</li>\
+			  <li style='color:#64B5F6;'>Has a stagecoach</li>\
+			  <li style='color:#64B5F6;'>Has a market</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПИРАТСКАЯ ПОГИБЕЛЬ.png",
 		  "type": "regular"
-		},
+		},		
 		{
 		  "coords": [3600, 1588],
-		  "title": "Твердыня рока",
-		  "description": "<p>\"Как видишь, ни зеленокожие, ни демоны плоти не могут одолеть Твердыню Рока!\"</p>\
+		  "title": "Fortress of doom",
+		  "description": "<p>\"As you can see, neither the green-skinned nor the demons of the flesh can overcome the Fortress of Rock!\"</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует таверна с квестами</li>\
-			  <li style='color:#64B5F6;'>Присутствует дилижанс</li>\
-			  <li style='color:#64B5F6;'>Присутствует рынок</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains a tavern with quests</li>\
+			  <li style='color:#64B5F6;'>Contains a stagecoach</li>\
+			  <li style='color:#64B5F6;'>Contains a market</li>\
 		  </ul>",
 		  "icon": "assets/локи/ТВЕРДЫНЯ РОКА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1488, 1136],
-		  "title": "Порт Ноэртауна",
-		  "description": "<p>Порт Ноэртауна, тут находится ваш единственный билет с острова.</p>\
+		  "title": "Noertown Port",
+		  "description": "<p>Noertown Port, this is where your only ticket off the island is located.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует паромщик</li>\
-			  <li style='color:#64B5F6;'>Присутствует лавка</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains a ferryman</li>\
+			  <li style='color:#64B5F6;'>Contains a shop</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПОРТ НОЭРА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1581, 1072],
-		  "title": "Таверна \"Горящий Боченок\"",
-		  "description": "<p>Таверна \"Горящий Боченок\"</p>\
+		  "title": "\"The Burning Barrel\" Tavern",
+		  "description": "<p>\"The Burning Barrel\" Tavern</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует представитель гильдии с квестами</li>\
-			  <li style='color:#64B5F6;'>Присутствует продажа комнат для отдыха</li>\
-			  <li style='color:#64B5F6;'>Присутствует работа</li>\
-			  <li style='color:#64B5F6;'>Заниженные требования контингента к \"параметрам тела\"</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains a guild representative with quests</li>\
+			  <li style='color:#64B5F6;'>Contains room rentals for rest</li>\
+			  <li style='color:#64B5F6;'>Contains work</li>\
+			  <li style='color:#64B5F6;'>Lowered clientele requirements regarding \"body parameters\"</li>\
 		  </ul>",
 		  "icon": "assets/локи/ГОРЯЩИЙ БОЧЕНОК.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1550, 1136],
-		  "title": "Рынок Ноэртауна",
-		  "description": "<p>Рынок Ноэртауна. Много товаров ширпотреба.</p>\
+		  "title": "Noertown Market",
+		  "description": "<p>Noertown Market. Lots of consumer goods.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует множество лавок</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains many shops</li>\
 		  </ul>",
 		  "icon": "assets/локи/РЫНОК НОЭРА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1486, 978],
-		  "title": "Западный р-н, Береговая дорога, Ряд 9, дом 8 №6-4.",
-		  "description": "<p>Один из множества домов в Ноэртауне, куда Лоне надо доставить письмо.</p>\
+		  "title": "Western District, Coastal Road, Row 9, House 8 No. 6-4.",
+		  "description": "<p>One of the many houses in Noertown where Lona needs to deliver a letter.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Это даже не локация, просто ивент для взаимодействия, который вызывает диалог по заданию.</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>This is not even a location, just an event for interaction that triggers a dialogue for the quest.</li>\
 		  </ul>",
 		  "icon": "assets/локи/Западный р-н, Береговая дорога, Ряд 9, дом 8 №6-4_.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [1553, 816],
-		  "title": "Склад номер 13. Запад. Убежище бандитов.",
-		  "description": "<p>Убежище бандитов. Не стоит сюда идти неподготовленной.</p>\
+		  "title": "Warehouse number 13. West. Bandit Hideout.",
+		  "description": "<p>Bandit Hideout. You shouldn't come here unprepared.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Присутствует сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Contains a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/СКЛАД НОМЕР 13. ЗАПАД. УБЕЖИЩЕ БАНДИТОВ_.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1620, 948],
-		  "title": "Сталь и изделия из стали железного Буббы.",
-		  "description": "<p>Кузнеца Буббы, тут Лона может купить продвинутуе оружие.</p>\
+		  "title": "Iron Bubba's Steel and Steel Products",
+		  "description": "<p>Bubba the Blacksmith's, here Lona can buy advanced weapons.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует лавка</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains a shop</li>\
 		  </ul>",
 		  "icon": "assets/локи/СТАЛЬ И ИЗДЕЛИЯ ИЗ СТАЛИ ЖЕЛЕЗНОГО БУББЫ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1649, 881],
-		  "title": "Дом игрушек плохого дракона.",
-		  "description": "<p>Дом игрушек плохого дракона. Не стоит тут задерживаться надолго, особенно не стоит неудачно падать.</p>\
+		  "title": "Bad Dragon's Toy House",
+		  "description": "<p>Bad Dragon's Toy House. You shouldn't stay here for long, especially you shouldn't fall unsuccessfully.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует транс</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains trans</li>\
 		  </ul>",
 		  "icon": "assets/локи/ДОМ ИГРУШЕК ПЛОХОГО ДРАКОНА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1743, 753],
-		  "title": "Кладбище.",
-		  "description": "<p>Кладбище. Не стоит сюда идти неподготовленной. Мертвым тоже не нравится происходящее на острове...</p>\
+		  "title": "Cemetery",
+		  "description": "<p>Cemetery. You shouldn't come here unprepared. The dead don't like what's happening on the island either...</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средне-высокая</li>\
-			  <li style='color:#64B5F6;'>Присутствует сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium-high</li>\
+			  <li style='color:#64B5F6;'>Contains a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/КЛАДБИЩЕ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1743, 851],
-		  "title": "Тюрьма.",
-		  "description": "<p>Тюрьма Ноэртауна. Законопослушной Лоне тут делать нечего.</p>\
+		  "title": "Prison",
+		  "description": "<p>Noertown Prison. Law-abiding Lona has no business here.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
 		  </ul>",
 		  "icon": "assets/локи/ТЮРЬМА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1712, 976],
-		  "title": "Укрытие банды Широкое Лезвие, территория плохих парней.",
-		  "description": "<p>Убежище бандитов. Не стоит сюда идти неподготовленной. Открывается при выполнении сюжетной ветки Сесилии.</p>\
+		  "title": "Broad Blade Gang Hideout, Bad Guys' Territory",
+		  "description": "<p>Bandit Hideout. You shouldn't come here unprepared. Opens during Cecilia's story branch.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Присутствует сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Contains a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/Укрытие банды Широкое Лезвие, территория плохих парней_.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [1678, 1008],
-		  "title": "Закоулки Ноэртауна.",
-		  "description": "<p>Закоулки Ноэртауна. Место не очень легальных услуг.</p>\
+		  "title": "Noertown Backstreets",
+		  "description": "<p>Noertown Backstreets. A place for not very legal services.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует лавка</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains a shop</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЗАКОУЛКИ НОЭРТАУНА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1711, 1041],
-		  "title": "Канализация.",
-		  "description": "<p>Канализация. Место сбора обездоленных.</p>\
+		  "title": "Sewers",
+		  "description": "<p>Sewers. A gathering place for the destitute.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/КАНАЛИЗАЦИЯ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1808, 912],
-		  "title": "Пещера у Ноэртауна.",
-		  "description": "<p>Пещера у Ноэртауна. Осторожнее, если не хотите потерять стать многодетной матерью неблагодарных детей.</p>\
+		  "title": "Cave near Noertown",
+		  "description": "<p>Cave near Noertown. Be careful if you don't want to become a mother of many ungrateful children.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует логово монстров</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Contains a monster den</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПЕЩЕРА У НОЭРА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1744, 1008],
-		  "title": "КПП у северных ворот Ноэра.",
-		  "description": "<p>КПП у северных ворот Ноэра.</p>\
+		  "title": "Checkpoint at the Northern Gates of Noer",
+		  "description": "<p>Checkpoint at the Northern Gates of Noer.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Это даже не локация, ивент для прохода/выхода в/из Ноэртауна</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>This is not even a location, an event for entering/exiting to/from Noertown</li>\
 		  </ul>",
 		  "icon": "assets/локи/СЕВЕРНОЕ КПП НОЭРА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1650, 1074],
-		  "title": "Восточная торговля.",
-		  "description": "<p>Восточная торговля. Место, где вас хотят развести на деньги</p>\
+		  "title": "Eastern Trade",
+		  "description": "<p>Eastern Trade. A place where they want to scam you out of your money.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует лавка</li>\
-			  <li style='color:#64B5F6;'>Место просмотра CG сцен</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains a shop</li>\
+			  <li style='color:#64B5F6;'>A place to view CG scenes</li>\
 		  </ul>",
 		  "icon": "assets/локи/ВОСТОЧНАЯ ТОРГОВЛЯ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1712, 1136],
-		  "title": "КПП на склон Рудесиндов.",
-		  "description": "<p>КПП на склон Рудесиндов.</p>\
+		  "title": "Checkpoint to the Rudesinds Slope",
+		  "description": "<p>Checkpoint to the Rudesinds Slope.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Это даже не локация, ивент для прохода/выхода на/со склона Рудесиндов</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>This is not even a location, an event for entering/exiting to/from the Rudesinds Slope</li>\
 		  </ul>",
 		  "icon": "assets/локи/КПП НА СКЛОН РУДЕСИНДОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1763, 1167],
-		  "title": "Золотой слиток.",
-		  "description": "<p>Золотой слиток. Место сбора состоятельных людей Ноэртауна. Хорошее место чтобы продать свою красоту.</p>\
+		  "title": "The Gold Ingot",
+		  "description": "<p>The Gold Ingot. A gathering place for the wealthy people of Noertown. A good place to sell your beauty.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует лавка</li>\
-			  <li style='color:#64B5F6;'>Присутствует работа</li>\
-			  <li style='color:#64B5F6;'>У контингента высокие запросы на внешность.</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains a shop</li>\
+			  <li style='color:#64B5F6;'>Contains work</li>\
+			  <li style='color:#64B5F6;'>The clientele has high demands for appearance.</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЗОЛОТОЙ СЛИТОК.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1614, 1137],
-		  "title": "Колизей Ноэртауна.",
-		  "description": "<p>Колизей Ноэртауна. Место развлечения людских масс.</p>\
+		  "title": "Noertown Coliseum",
+		  "description": "<p>Noertown Coliseum. A place for mass entertainment.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#4CAF50;'>Опасность: средняя(в случае участия в боях непосредственно)</li>\
-			  <li style='color:#64B5F6;'>Присутствует лавка</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#4CAF50;'>Danger: medium (if participating in fights directly)</li>\
+			  <li style='color:#64B5F6;'>Contains a shop</li>\
 		  </ul>",
 		  "icon": "assets/локи/КОЛИЗЕЙ НОЭРА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1646, 1200],
-		  "title": "Клиника Элиса.",
-		  "description": "<p>Клиника Элиса. Место, где тебе вылечат все.</p>\
+		  "title": "Elise's Clinic",
+		  "description": "<p>Elise's Clinic. A place where they will cure everything for you.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно-средняя(в случае спуска в подвал)</li>\
-			  <li style='color:#64B5F6;'>Присутствует лавка</li>\
-			  <li style='color:#64B5F6;'>Единственное место для лечения сложных травм, будте аккуратнее.</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#4CAF50;'>Danger: safe-medium (if going down to the basement)</li>\
+			  <li style='color:#64B5F6;'>Contains a shop</li>\
+			  <li style='color:#64B5F6;'>The only place to treat serious injuries, be careful.</li>\
 		  </ul>",
 		  "icon": "assets/локи/КЛИНИКА ЭЛИСА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1580, 1202],
-		  "title": "Банк Ноэртауна.",
-		  "description": "<p>Банк Ноэртауна. Место, где можно хранить золото(\"белое\" в том числе)</p>\
+		  "title": "Noertown Bank",
+		  "description": "<p>Noertown Bank. A place to store gold (\"white\" included).</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует обменный пункт</li>\
-			  <li style='color:#64B5F6;'>Единственное место где можно сохранить свои вещи, будте аккуратнее.</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains an exchange office</li>\
+			  <li style='color:#64B5F6;'>The only place to store your items, be careful.</li>\
 		  </ul>",
 		  "icon": "assets/локи/БАНК НОЭРА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1680, 1265],
-		  "title": "Черный рынок.",
-		  "description": "<p>Убежище бандитов. Не стоит сюда идти неподготовленной. В этом месте вас продадут, если схватят люди.</p>\
+		  "title": "Black Market",
+		  "description": "<p>Bandit Hideout. You shouldn't come here unprepared. In this place, you will be sold if caught by people.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Присутствует сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Contains a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЧЕРНЫЙ РЫНОК.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1615, 1266],
-		  "title": "Плацдарм Ноэртауна.",
-		  "description": "<p>Плацдарм Ноэртауна. Место для быстрых путешествий по еще безопасным оплотам людей на острове.</p>\
+		  "title": "Noertown Stronghold",
+		  "description": "<p>Noertown Stronghold. A place for fast travel to other still safe human strongholds on the island.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует лавка</li>\
-			  <li style='color:#64B5F6;'>Присутствует дилижанс</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains a shop</li>\
+			  <li style='color:#64B5F6;'>Contains a stagecoach</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПЛАЦДАРМ НОЭРТАУНА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1616, 1288],
-		  "title": "КПП у восточных ворот Ноэртауна.",
-		  "description": "<p>КПП у северных ворот Ноэра.</p>\
+		  "title": "Checkpoint at the Eastern Gates of Noertown",
+		  "description": "<p>Checkpoint at the Northern Gates of Noer.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Это даже не локация, ивент для прохода/выхода в/из Ноэртауна</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>This is not even a location, an event for entering/exiting to/from Noertown</li>\
 		  </ul>",
 		  "icon": "assets/локи/ВОСТОЧНОЕ КПП НОЭРА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1616, 1329],
-		  "title": "Вход через восточные ворота Ноэртауна.",
-		  "description": "<p>Вход через восточные ворота Ноэртауна. Место концентрации тех, кто жаждет проникнуть в город.</p>\
+		  "title": "Entrance through the Eastern Gates of Noertown",
+		  "description": "<p>Entrance through the Eastern Gates of Noertown. A place concentrating those who crave to enter the city.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Тут особо ничего и нет, кроме возможности \"расслабиться\" с нищими беженцами.</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>There's not much here except the opportunity to \"relax\" with poor refugees.</li>\
 		  </ul>",
 		  "icon": "assets/локи/ВХОД ЧЕРЕЗ ВОСТОЧНЫЕ ВОРОТА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1903, 1329],
-		  "title": "Заброшенный дом, привал Адама.",
-		  "description": "<p>Заброшенный дом, привал Адама.</p>\
+		  "title": "Abandoned House, Adam's Rest",
+		  "description": "<p>Abandoned House, Adam's Rest.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#4CAF50;'>Опасность: средняя(в случае, если вы мудак и захотите убить милашку Адама)</li>\
-			  <li style='color:#64B5F6;'>С виду обычный заброшенный дом, но может тут собираются интересные личности?</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#4CAF50;'>Danger: medium (if you are an asshole and want to kill the cutie Adam)</li>\
+			  <li style='color:#64B5F6;'>Looks like an ordinary abandoned house, but maybe interesting personalities gather here?</li>\
 		  </ul>",
 		  "icon": "assets/локи/КВЕСТОВЫЙ ЗАБРОШЕННЫЙ ДОМ АДАМА.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [2032, 1232],
-		  "title": "Тропический лес.",
-		  "description": "<p>Тропический лес. Обычный тропический лес, куда приводит подсказка при задании на сбор травы.</p>\
+		  "title": "Tropical Forest",
+		  "description": "<p>Tropical Forest. An ordinary tropical forest, where the hint leads for the herb gathering quest.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/КВЕСТОВЫЙ ЛЕС ЭЛИСА 2.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [1520, 1520],
-		  "title": "Тропический лес.",
-		  "description": "<p>Тропический лес. Обычный тропический лес, куда приводит подсказка при задании на сбор травы.</p>\
+		  "title": "Tropical Forest",
+		  "description": "<p>Tropical Forest. An ordinary tropical forest, where the hint leads for the herb gathering quest.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/КВЕСТОВЫЙ ЛЕС ЭЛИСА 1.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [2159, 1074],
-		  "title": "Сторожевая башня северного перевала.",
-		  "description": "<p>Сторожевая башня северного перевала. Осторожнее, если не хотите потерять стать многодетной матерью неблагодарных детей.</p>\
+		  "title": "Watchtower of the Northern Pass",
+		  "description": "<p>Watchtower of the Northern Pass. Be careful if you don't want to become a mother of many ungrateful children.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует логово монстров</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Contains a monster den</li>\
 		  </ul>",
 		  "icon": "assets/локи/СТОРОЖЕВАЯ БАШНЯ СЕВЕРНОГО ПЕРЕВАЛА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2254, 1137],
-		  "title": "Лагерь беженцев при монастыре.",
-		  "description": "<p>Лагерь беженцев при монастыре. Типичный лагерь беженцев, коих много.</p>\
+		  "title": "Refugee Camp near the Monastery",
+		  "description": "<p>Refugee Camp near the Monastery. A typical refugee camp, of which there are many.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует мини игра \"размаж яйца\"</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains the minigame \"smear eggs\"</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛАГЕРЬ БЕЖЕНЦЕВ ПРИ МОНАСТЫРЕ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2286, 1072],
-		  "title": "Монастырь святых.",
-		  "description": "<p>Лагерь беженцев при монастыре. Типичный лагерь беженцев, коих много.</p>\
+		  "title": "Monastery of Saints",
+		  "description": "<p>Refugee Camp near the Monastery. A typical refugee camp, of which there are many.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#4CAF50;'>Опасность: опасно(если спуститься в подвал)</li>\
-			  <li style='color:#64B5F6;'>Присутствует лавка</li>\
-			  <li style='color:#64B5F6;'>Присутствует возможность сдать ребенка</li>\
-			  <li style='color:#64B5F6;'>Присутствует возможность пожертвовать деньги(повышает репутацию)</li>\
-			  <li style='color:#64B5F6;'>Если лона девственница - ее не будут \"трогать\" во время цикла рабства</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous (if going down to the basement)</li>\
+			  <li style='color:#64B5F6;'>Contains a shop</li>\
+			  <li style='color:#64B5F6;'>Contains the option to give up a child</li>\
+			  <li style='color:#64B5F6;'>Contains the option to donate money (increases reputation)</li>\
+			  <li style='color:#64B5F6;'>If Lona is a virgin - she won't be \"touched\" during the slavery cycle</li>\
 		  </ul>",
 		  "icon": "assets/локи/МОНАСТЫРЬ СВЯТЫХ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2579, 848],
-		  "title": "Убежище бандитов.",
-		  "description": "<p>Убежище бандитов. Лагерь, где бандиты восстанавливают силы.</p>\
+		  "title": "Bandit Hideout",
+		  "description": "<p>Bandit Hideout. A camp where bandits recover their strength.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Присутствует уникальный союзник</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Contains a unique ally</li>\
 		  </ul>",
 		  "icon": "assets/локи/УБЕЖИЩЕ БАНДИТОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2320, 1232],
-		  "title": "Место исследований Элиса.",
-		  "description": "<p>Место исследований Элиса. Сюда вас приведет элис для своих изысканий.</p>\
+		  "title": "Elise's Research Site",
+		  "description": "<p>Elise's Research Site. Elise will bring you here for her research.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/МЕСТО ИССЛЕДОВАНИЙ ЭЛИСА.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [2640, 1202],
-		  "title": "Повозка с людьми у заброшенного дома.",
-		  "description": "<p>Повозка с людьми у заброшенного дома. Кто то захотел помочь голодающим.</p>\
+		  "title": "Cart with People near an Abandoned House",
+		  "description": "<p>Cart with People near an Abandoned House. Someone wanted to help the starving.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Задание по сопровождению нпс до Твердыни рока.</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Quest to escort NPCs to the Fortress of Rock.</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЗАБРОШЕННЫЙ ДОМ ГРАБЕЖА.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [3248, 1364],
-		  "title": "Караван работорговцев.",
-		  "description": "<p>Караван работорговцев. Квестовая локация при прохождении сюжетной ветки Сесилии.</p>\
+		  "title": "Slave Traders' Caravan",
+		  "description": "<p>Slave Traders' Caravan. A quest location during Cecilia's story branch.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Не будь мудаком - помоги милашке Сесилии и ее другу</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Don't be an asshole - help the cutie Cecilia and her friend</li>\
 		  </ul>",
 		  "icon": "assets/локи/КВЕСТ СЕСИЛИИ ПО ОСВОБОЖДЕНИЮ РАБОВ.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [3184, 1650],
-		  "title": "Поместье Вудсонов.",
-		  "description": "<p>Поместье Вудсонов. Островок спокойствия и домашнего очага в океане хаоса.</p>\
+		  "title": "Woodson Estate",
+		  "description": "<p>Woodson Estate. An island of calm and home in an ocean of chaos.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Не стоит следовать традициям и принимать приглашение на ужин.</li>\
-			  <li style='color:#FFD700;'>ПРИСУТСВУЕТ ЕДИНСТВЕННАЯ В ИГРЕ СЦЕНА СЕСБИЙСКОГО ЛЕКСА!!!!!!</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>You shouldn't follow traditions and accept the dinner invitation.</li>\
+			  <li style='color:#FFD700;'>CONTAINS THE ONLY LESBIAN SEX SCENE IN THE GAME!!!!!!</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПОМЕСТЬЕ ВУДСАНОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3502, 1745],
-		  "title": "Оружейная Твердыни рока.",
-		  "description": "<p>Оружейная Твердыни рока. Хочешь украсть - действуй быстро.</p>\
+		  "title": "Fortress of Rock Armory",
+		  "description": "<p>Fortress of Rock Armory. If you want to steal - act fast.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Локация крайне узкая, так что могут быть проблемы с проникновением</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>The location is extremely narrow, so there might be penetration problems</li>\
 		  </ul>",
 		  "icon": "assets/локи/ОРУЖЕЙНАЯ.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [3472, 1936],
-		  "title": "Лагерь беженцев у Твердыни рока.",
-		  "description": "<p>Лагерь беженцев у Твердыни рока. Толпы обездоленных... Проповедники, кричащие о скором конце... Ничего необычного.</p>\
+		  "title": "Refugee Camp near Fortress of Rock",
+		  "description": "<p>Refugee Camp near Fortress of Rock. Crowds of destitute... Preachers screaming about the imminent end... Nothing unusual.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛАГЕРЬ БЕЖЕНЦЕВ ТВЕРДЫНИ РОКА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3375, 2129],
-		  "title": "Водная пещера культистов.",
-		  "description": "<p>Водная пещера культистов. Местная вонь вызывает протечки из множества отверстий.</p>\
+		  "title": "Cultists' Water Cave",
+		  "description": "<p>Cultists' Water Cave. The local stench causes leaks from many holes.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Локация крайне узкая, так что могут быть проблемы с проникновением</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>The location is extremely narrow, so there might be penetration problems</li>\
 		  </ul>",
 		  "icon": "assets/локи/ВОДНАЯ ПЕЩЕРА.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [3694, 2321],
-		  "title": "Восточный КПП Твердыни рока.",
-		  "description": "<p>Восточный КПП Твердыни рока. Ворота в ад(или в рай, зависит от фетишей и пола).</p>\
+		  "title": "Eastern Checkpoint of Fortress of Rock",
+		  "description": "<p>Eastern Checkpoint of Fortress of Rock. Gates to hell (or heaven, depends on fetishes and gender).</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Можно бесплатно поучить 2 алебарды</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>You can get 2 halberds for free</li>\
 		  </ul>",
 		  "icon": "assets/локи/ВОСТОЧНЫЙ КПП КРЕПОСТИ ОБРЕЧЕННЫХ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3248, 2098],
-		  "title": "Племя девяти дюймов.",
-		  "description": "<p>Племя девяти дюймов. Мелкое поселение, состоящее из потомков сбежавшего когда-то раба.</p>\
+		  "title": "Nine-Inch Tribe",
+		  "description": "<p>Nine-Inch Tribe. A small settlement consisting of descendants of a runaway slave.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Проституция приносит много вина</li>\
-			  <li style='color:#64B5F6;'>Их ликвидация того не стоит</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Prostitution brings a lot of wine</li>\
+			  <li style='color:#64B5F6;'>Their elimination is not worth it</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПЛЕМЯ ДЕВЯТИ ДЮЙМОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3185, 2160],
-		  "title": "Спиральный лес.",
-		  "description": "<p>Спиральный лес. Логово мутантов.</p>\
+		  "title": "Spiral Forest",
+		  "description": "<p>Spiral Forest. Mutants' lair.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/СПИРАЛЬНЫЙ ЛЕС.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [2860, 1711],
-		  "title": "Хижина, захваченная оркоидами.",
-		  "description": "<p>Хижина, захваченная оркоидами. Характерная вонь чувствуется далеко...</p>\
+		  "title": "Hut Captured by Orcoids",
+		  "description": "<p>Hut Captured by Orcoids. The characteristic stench is felt from afar...</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/МАЛЕНЬКАЯ ХИЖИНА, В КОТОРОЙ ТЕПЕРЬ ОБИТАЮТ МОНСТРЫ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2632, 1778],
-		  "title": "Горный монастырь.",
-		  "description": "<p>Горный монастырь. Контингент монастыря намного лучше их коллег с запада.</p>\
+		  "title": "Mountain Monastery",
+		  "description": "<p>Mountain Monastery. The monastery's contingent is much better than their western colleagues.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Цены в лавке дешевле, чем в другом монастыре</li>\
-			  <li style='color:#64B5F6;'>Есть безопасное спальное место</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Shop prices are cheaper than in the other monastery</li>\
+			  <li style='color:#64B5F6;'>Has a safe sleeping place</li>\
 		  </ul>",
 		  "icon": "assets/локи/ГОРНЫЙ МОНАСТЫРЬ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2638, 1552],
-		  "title": "Заброшенная медная шахта.",
-		  "description": "<p>Заброшенная медная шахта. Обиталище кролика-мутанта.</p>\
+		  "title": "Abandoned Copper Mine",
+		  "description": "<p>Abandoned Copper Mine. Habitat of a mutant rabbit.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЗАБРОШЕННАЯ МЕДНАЯ ШАХТА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2480, 1600],
-		  "title": "Облачная деревня.",
-		  "description": "<p>Облачная деревня. Они не те, за кого себя выдают.</p>\
+		  "title": "Cloud Village",
+		  "description": "<p>Cloud Village. They are not who they claim to be.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
-			  <li style='color:#64B5F6;'>Присутствует потерянная посылка лавочника из Восточной торговли</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
+			  <li style='color:#64B5F6;'>Contains the lost parcel from the Eastern Trade shopkeeper</li>\
 		  </ul>",
 		  "icon": "assets/локи/ОБЛАЧНАЯ ДЕРЕВНЯ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2159, 1648],
-		  "title": "Пещера оркоидов 3.",
-		  "description": "<p>Пещера оркоидов. Одна из нескольких доступных для рейда пещер оркоидов</p>\
+		  "title": "Orcoid Cave 3",
+		  "description": "<p>Orcoid Cave. One of several orcoid caves available for raiding</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
-			  <li style='color:#64B5F6;'>Очень тесная локация, осторожно</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
+			  <li style='color:#64B5F6;'>Very tight location, be careful</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПЕЩЕРА ОРКОИДОВ 3.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1935, 1620],
-		  "title": "Пропавший караван.",
-		  "description": "<p>Пропавший караван. Бедолаги, обреченные на жалкое существование инкубатором и превращение в жирное подобие человека с одной целью - рожать.</p>\
+		  "title": "Missing Caravan",
+		  "description": "<p>Missing Caravan. Poor souls doomed to a miserable existence as an incubator and turning into a fat semblance of a human with one purpose - to give birth.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
-			  <li style='color:#64B5F6;'>Нужно спасти всех, не бросай их</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
+			  <li style='color:#64B5F6;'>Need to save everyone, don't abandon them</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПРОПАВШИЙ КАРАВАН.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1800, 1586],
-		  "title": "Разбитая группа.",
-		  "description": "<p>Разбитая группа. Крики, издающиеся из леса - настораживают.</p>\
+		  "title": "Broken Group",
+		  "description": "<p>Broken Group. The screams coming from the forest are alarming.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/РАЗБИТАЯ ГРУППА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1774, 1712],
-		  "title": "Шахта у Ноэртауна.",
-		  "description": "<p>Шахта у Ноэртауна. Обычная шахта.</p>\
+		  "title": "Noertown Mine",
+		  "description": "<p>Noertown Mine. An ordinary mine.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
-			  <li style='color:#4CAF50;'>Опасность: средняя(если Лона в цикле рабства)</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
-			  <li style='color:#64B5F6;'>Можно легко зарабатывать деньги, используя задание гильдии на зачистку</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
+			  <li style='color:#4CAF50;'>Danger: medium (if Lona is in the slavery cycle)</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
+			  <li style='color:#64B5F6;'>Easy to earn money using the guild's clearing quest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ШАХТА НОЭРА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1750, 1943],
-		  "title": "Восточный КПП у Ноэртауна.",
-		  "description": "<p>Восточный КПП у Ноэртауна.</p>\
+		  "title": "Eastern Checkpoint near Noertown",
+		  "description": "<p>Eastern Checkpoint near Noertown.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
-			  <li style='color:#64B5F6;'>Присутствует мини-игра с пушкой</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
+			  <li style='color:#64B5F6;'>Contains a cannon minigame</li>\
 		  </ul>",
 		  "icon": "assets/локи/ВОСТОЧНЫЙ КПП.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1775, 2288],
-		  "title": "Деревня Арис.",
-		  "description": "<p>Деревня Арис. Местные крайне не любят любого из рыболюдей.</p>\
+		  "title": "Aris Village",
+		  "description": "<p>Aris Village. The locals extremely dislike any of the fish-people.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
 		  </ul>",
 		  "icon": "assets/локи/Деревня Арис.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1871, 2545],
-		  "title": "Неизвестный лагерь.",
-		  "description": "<p>Неизвестный лагерь. Разбитый караван.</p>\
+		  "title": "Unknown Camp",
+		  "description": "<p>Unknown Camp. A destroyed caravan.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/НЕИЗВЕСТНЫЙ ЛАГЕРЬ.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [2064, 2448],
-		  "title": "Пещера рыболюдей 1B2.",
-		  "description": "<p>Пещера рыболюдей 1B2.</p>\
+		  "title": "Fish-People Cave 1B2",
+		  "description": "<p>Fish-People Cave 1B2.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#4CAF50;'>Опасность: низкая(если пропустить через комнату с кнопками на полу)</li>\
-			  <li style='color:#64B5F6;'>Из стен доносятся звуки печали</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#4CAF50;'>Danger: low (if passing through the room with floor buttons)</li>\
+			  <li style='color:#64B5F6;'>Sounds of sorrow can be heard from the walls</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПЕЩЕРА РЫБОЛЮДЕЙ 1B2.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2095, 2320],
-		  "title": "Лагерь рыболюдей.",
-		  "description": "<p>Неизвестный лагерь. Лагерь разумных рыболюдей, пытающихся разобраться в происходящем.</p>\
+		  "title": "Fish-People Camp",
+		  "description": "<p>Unknown Camp. A camp of intelligent fish-people trying to figure out what's happening.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛАГЕРЬ РЫБОЛЮДЕЙ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2157, 2385],
-		  "title": "Пещера рыболюдей 1.",
-		  "description": "<p>Пещера рыболюдей 1. Стоит быть осторожнее, они прячуться в лужах.</p>\
+		  "title": "Fish-People Cave 1",
+		  "description": "<p>Fish-People Cave 1. Be careful, they hide in puddles.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПЕЩЕРА РЫБОЛЮДЕЙ 1.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2095, 3024],
-		  "title": "Лагерь беженцев у Пиратской погибели.",
-		  "description": "<p>Лагерь беженцев у Пиратской погибели.</p>\
+		  "title": "Refugee Camp near Pirate's Demise",
+		  "description": "<p>Refugee Camp near Pirate's Demise.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
-			  <li style='color:#64B5F6;'>Это не локация, это ивент, вызывающий диалог.</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
+			  <li style='color:#64B5F6;'>This is not a location, it's an event that triggers dialogue.</li>\
 		  </ul>",
 		  "icon": "assets/локи/КВЕСТОВЫЙ ЛАГЕРЬ ДЛЯ ПЕРЕДАЧИ ПИСЬМА.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [2152, 3028],
-		  "title": "Бобо.",
-		  "description": "<p>Бобо. Тропический лес, где обитает любимый муж Лоны.</p>\
+		  "title": "Bobo",
+		  "description": "<p>Bobo. A tropical forest where Lona's beloved husband lives.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
 		  </ul>",
 		  "icon": "assets/локи/БОБО.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2061, 3152],
-		  "title": "Братская могила.",
-		  "description": "<p>Братская могила.</p>\
+		  "title": "Mass Grave",
+		  "description": "<p>Mass Grave.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Тут много нежити.</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>There's a lot of undead here.</li>\
 		  </ul>",
 		  "icon": "assets/локи/БРАТСКАЯ МОГИЛА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [1903, 3472],
-		  "title": "Лагерь на болотах.",
-		  "description": "<p>Лагерь на болотах. Наемники против рыболюдей.</p>\
+		  "title": "Swamp Camp",
+		  "description": "<p>Swamp Camp. Mercenaries against fish-people.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛАГЕРЬ НА БОЛОТАХ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2224, 3760],
-		  "title": "Пещера рыболюдей 2.",
-		  "description": "<p>Пещера рыболюдей 2. Стоит быть осторожнее, они прячуться в лужах.</p>\
+		  "title": "Fish-People Cave 2",
+		  "description": "<p>Fish-People Cave 2. Be careful, they hide in puddles.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПЕЩЕРА РЫБОЛЮДЕЙ 2.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2416, 3920],
-		  "title": "Разграбленный караван.",
-		  "description": "<p>Разграбленный караван. Разбойники не дремлют</p>\
+		  "title": "Looted Caravan",
+		  "description": "<p>Looted Caravan. Bandits don't sleep</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/РАЗГРАБЛЕННЫЙ КОНВОЙ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2576, 3504],
-		  "title": "Заброшенный город у медной шахты.",
-		  "description": "<p>Заброшенный город у медной шахты. Пункт сбора плохих парней.</p>\
+		  "title": "Abandoned Town near Copper Mine",
+		  "description": "<p>Abandoned Town near Copper Mine. A gathering point for bad guys.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЗАБРОШЕННЫЙ ГОРОД У МЕДНОЙ ШАХТЫ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2544, 3184],
-		  "title": "Пещера оркоидов 4.",
-		  "description": "<p>Пещера оркоидов. Одна из нескольких доступных для рейда пещер оркоидов</p>\
+		  "title": "Orcoid Cave 4",
+		  "description": "<p>Orcoid Cave. One of several orcoid caves available for raiding</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
-			  <li style='color:#64B5F6;'>Очень тесная локация, осторожно</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
+			  <li style='color:#64B5F6;'>Very tight location, be careful</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПЕЩЕРА ОРКОИДОВ 4.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2352, 3183],
-		  "title": "Лес оркоидов.",
-		  "description": "<p>Лес оркоидов. Место привала для зеленокожих.</p>\
+		  "title": "Orcoid Forest",
+		  "description": "<p>Orcoid Forest. A resting place for the green-skinned.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛЕС ОРКОИДОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2576, 2925],
-		  "title": "Северный форпост Пиратской погибели.",
-		  "description": "<p>Северный форпост Пиратской погибели. Они стерегут болото от нападок абоминаций.</p>\
+		  "title": "Northern Outpost of Pirate's Demise",
+		  "description": "<p>Northern Outpost of Pirate's Demise. They guard the swamp from abomination attacks.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/СЕВЕРНЫЙ ФОРПОСТ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2416, 2224],
-		  "title": "Гробница берсерка.",
-		  "description": "<p>Гробница берсерка. Он ожидает достойного.</p>\
+		  "title": "Berserker's Tomb",
+		  "description": "<p>Berserker's Tomb. He awaits a worthy one.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть уникальное оружие</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a unique weapon</li>\
 		  </ul>",
 		  "icon": "assets/локи/ГРОБНИЦА БЕРСЕРКА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2990, 3056],
-		  "title": "Логово тварей 2.",
-		  "description": "<p>Логово тварей. Лучше избегать, если у вас ничего не чешется.</p>\
+		  "title": "Creature Lair 2",
+		  "description": "<p>Creature Lair. Better to avoid if nothing itches.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛОГОВО ТВАРЕЙ 2.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3022, 3760],
-		  "title": "Инкубатор к западу лагеря.",
-		  "description": "<p>Инкубатор к западу лагеря. Лучше избегать, если у вас ничего не чешется, но выбора то нет особо...</p>\
+		  "title": "Incubator West of Camp",
+		  "description": "<p>Incubator West of Camp. Better to avoid if nothing itches, but there's not much choice...</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
 		  </ul>",
 		  "icon": "assets/локи/ИНКУБАТОР ЗАПАДНЫЙ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3056, 3920],
-		  "title": "Лагерь у южных ворот Сибариса.",
-		  "description": "<p>Лагерь у южных ворот Сибариса. Обжитые выжившими руины.</p>\
+		  "title": "Camp at Southern Gates of Sybaris",
+		  "description": "<p>Camp at Southern Gates of Sybaris. Ruins inhabited by survivors.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
-			  <li style='color:#64B5F6;'>Присутствует таверна с квестами</li>\
-			  <li style='color:#64B5F6;'>Присутствует дилижанс(в случае зачистки западного инкубатора)</li>\
-			  <li style='color:#64B5F6;'>Присутствует рынок(в случае зачистки западного инкубатора)</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
+			  <li style='color:#64B5F6;'>Contains a tavern with quests</li>\
+			  <li style='color:#64B5F6;'>Contains a stagecoach (if western incubator is cleared)</li>\
+			  <li style='color:#64B5F6;'>Contains a market (if western incubator is cleared)</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛАГЕРЬ У ЮЖНЫХ ВОРОТ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [2990, 4049],
-		  "title": "Инкубатор к востоку лагеря.",
-		  "description": "<p>Инкубатор к востоку лагеря. Лучше избегать, если у вас ничего не чешется.</p>\
+		  "title": "Incubator East of Camp",
+		  "description": "<p>Incubator East of Camp. Better to avoid if nothing itches.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
 		  </ul>",
 		  "icon": "assets/локи/ИНКУБАТОР ВОСТОЧНЫЙ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3183, 3984],
-		  "title": "Артиллерийская позиция.",
-		  "description": "<p>Артиллерийская позиция. Тут будет жарко.</p>\
+		  "title": "Artillery Position",
+		  "description": "<p>Artillery Position. It will be hot here.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/АРТИЛЛЕРИЙСКАЯ ПОЗИЦИЯ.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [3281, 3693],
-		  "title": "Амбар у Юго-Западных Ворот Сибариса.",
-		  "description": "<p>Амбар у Юго-Западных Ворот Сибариса. Им не стоит доверять.</p>\
+		  "title": "Barn at Southwestern Gates of Sybaris",
+		  "description": "<p>Barn at Southwestern Gates of Sybaris. They shouldn't be trusted.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/Амбар у Юго-Западных Ворот Сибариса.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [3310, 3792],
-		  "title": "Юго-Западные Ворота Сибариса.",
-		  "description": "<p>Юго-Западные Ворота Сибариса. Руины некогда процветающего места...</p>\
+		  "title": "Southwestern Gates of Sybaris",
+		  "description": "<p>Southwestern Gates of Sybaris. Ruins of a once prosperous place...</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
 		  </ul>",
 		  "icon": "assets/локи/Юго-Западные Ворота Сибариса.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [3436, 3956],
-		  "title": "Логово тварей 3.",
-		  "description": "<p>Логово тварей. Лучше избегать, если у вас ничего не чешется.</p>\
+		  "title": "Creature Lair 3",
+		  "description": "<p>Creature Lair. Better to avoid if nothing itches.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛОГОВО ТВАРЕЙ 3.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3435, 3288],
-		  "title": "Логово летучих мышей.",
-		  "description": "<p>Логово летучих мышей. Лучше избегать, они больно кусаются.</p>\
+		  "title": "Bat Lair",
+		  "description": "<p>Bat Lair. Better to avoid, they bite painfully.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛОГОВО ЛЕТУЧИХ МЫШЕЙ-МУТАНТОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3551, 3246],
-		  "title": "Форт у моста.",
-		  "description": "<p>Форт у моста.</p>\
+		  "title": "Fort by the Bridge",
+		  "description": "<p>Fort by the Bridge.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
-			  <li style='color:#64B5F6;'>Присутствует таверна с квестами</li>\
-			  <li style='color:#64B5F6;'>Присутствует дилижанс</li>\
-			  <li style='color:#64B5F6;'>Присутствует рынок</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
+			  <li style='color:#64B5F6;'>Contains a tavern with quests</li>\
+			  <li style='color:#64B5F6;'>Contains a stagecoach</li>\
+			  <li style='color:#64B5F6;'>Contains a market</li>\
 		  </ul>",
 		  "icon": "assets/локи/ФОРТ У МОСТА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3892, 3471],
-		  "title": "Павшая крепость.",
-		  "description": "<p>Павшая крепость. Тут сидит их вождь</p>\
+		  "title": "Fallen Fortress",
+		  "description": "<p>Fallen Fortress. Their leader sits here</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: крайне опасно. Оно того стоит?</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
-			  <li style='color:#64B5F6;'>Уникальный лут с босса.</li>\
+			  <li style='color:#4CAF50;'>Danger: extremely dangerous. Is it worth it?</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
+			  <li style='color:#64B5F6;'>Unique loot from the boss.</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПАВШАЯ КРЕПОСТЬ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3888, 3248],
-		  "title": "Деревня Перранвей, перевалочная станция охотников.",
-		  "description": "<p>Деревня Перранвей, перевалочная станция охотников.</p>\
+		  "title": "Perranway Village, Hunter Waystation",
+		  "description": "<p>Perranway Village, Hunter Waystation.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ДЕРЕВНЯ ПЕРРАНВЕЙ, ПЕРЕВАЛОЧНАЯ СТАНЦИЯ ОХОТНИКОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3855, 3126],
-		  "title": "Лагерь наемников.",
-		  "description": "<p>Лагерь наемников.</p>\
+		  "title": "Mercenary Camp",
+		  "description": "<p>Mercenary Camp.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Уникальный лут с босса.</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Unique loot from the boss.</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛАГЕРЬ НАЕМНИКОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3824, 2928],
-		  "title": "Южное Зернохранилище 12, захваченное монстрами.",
-		  "description": "<p>Южное Зернохранилище 12, захваченное монстрами.</p>\
+		  "title": "Southern Granary 12, Captured by Monsters",
+		  "description": "<p>Southern Granary 12, Captured by Monsters.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/Южное Зернохранилище 12, захваченное монстрами.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [4016, 2896],
-		  "title": "Прибрежная крепость.",
-		  "description": "<p>Прибрежная крепость.</p>\
+		  "title": "Coastal Fortress",
+		  "description": "<p>Coastal Fortress.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
-			  <li style='color:#64B5F6;'>Присутствует таверна с квестами</li>\
-			  <li style='color:#64B5F6;'>Присутствует дилижанс</li>\
-			  <li style='color:#64B5F6;'>Присутствует рынок</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
+			  <li style='color:#64B5F6;'>Contains a tavern with quests</li>\
+			  <li style='color:#64B5F6;'>Contains a stagecoach</li>\
+			  <li style='color:#64B5F6;'>Contains a market</li>\
 		  </ul>",
 		  "icon": "assets/локи/ПРИБРЕЖНАЯ КРЕПОСТЬ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [3501, 2546],
-		  "title": "Логово тварей 1.",
-		  "description": "<p>Логово тварей. Лучше избегать, если у вас ничего не чешется.</p>\
+		  "title": "Creature Lair 1",
+		  "description": "<p>Creature Lair. Better to avoid if nothing itches.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: опасно</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛОГОВО ТВАРЕЙ 1.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [722, 3632],
-		  "title": "Берег останков.",
-		  "description": "<p>Берег останков. Место погребения усопших.</p>\
+		  "title": "Shore of Remains",
+		  "description": "<p>Shore of Remains. A burial place for the deceased.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
 		  </ul>",
 		  "icon": "assets/локи/БЕРЕГ ОСТАНКОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [752, 3760],
-		  "title": "Храм торнов.",
-		  "description": "<p>Храм торнов. Святилище морской расы.</p>\
+		  "title": "Thorn Temple",
+		  "description": "<p>Thorn Temple. Sanctuary of the sea race.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#4CAF50;'>Опасность: опасно(в случае рейда за лутом)</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#4CAF50;'>Danger: dangerous (if raiding for loot)</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/ХРАМ ТОРНОВ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [655, 3760],
-		  "title": "Рынок Рыбополиса.",
-		  "description": "<p>Рынок Рыбополиса. Много товаров ширпотреба.</p>\
+		  "title": "Fishopolis Market",
+		  "description": "<p>Fishopolis Market. Lots of consumer goods.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: безопасно</li>\
-			  <li style='color:#64B5F6;'>Присутствует множество лавок</li>\
+			  <li style='color:#4CAF50;'>Danger: safe</li>\
+			  <li style='color:#64B5F6;'>Contains many shops</li>\
 		  </ul>",
 		  "icon": "assets/локи/РЫНОК РЫБОПОЛИСА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [655, 3793],
-		  "title": "Деревня Рыбополиса.",
-		  "description": "<p>Деревня Рыбополиса. Если вы сюда попали - лучше не стройте из себя сильную и независимую.</p>\
+		  "title": "Fishopolis Village",
+		  "description": "<p>Fishopolis Village. If you ended up here - better not act strong and independent.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
-			  <li style='color:#FFD700;'>Если держать уровень слабости крайне высоким при беременности - вас не будут заставлять обслуживать население.</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
+			  <li style='color:#FFD700;'>If you keep the weakness level extremely high during pregnancy - you won't be forced to service the population.</li>\
 		  </ul>",
 		  "icon": "assets/локи/ДЕРЕВНЯ РЫБОПОЛИСА.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [721, 3858],
-		  "title": "Магазин горшков Красти Краба.",
-		  "description": "<p>Магазин горшков Красти Краба.</p>\
+		  "title": "Krusty Krab Pot Shop",
+		  "description": "<p>Krusty Krab Pot Shop.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
 		  </ul>",
 		  "icon": "assets/локи/Магазин горшков Красти Краба.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [534, 3954],
-		  "title": "Лагерь беглых рабынь.",
-		  "description": "<p>Лагерь беглых рабынь.</p>\
+		  "title": "Camp of Escaped Slaves",
+		  "description": "<p>Camp of Escaped Slaves.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: низкая</li>\
-			  <li style='color:#64B5F6;'>Их смерть того стоит?</li>\
+			  <li style='color:#4CAF50;'>Danger: low</li>\
+			  <li style='color:#64B5F6;'>Is their death worth it?</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЛАГЕРЬ БЕГЛЫХ РАБОВ.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [655, 3988],
-		  "title": "Святилище Плодородия.",
-		  "description": "<p>Святилище Плодородия. Богиня должна обитать сдесь, но почему же всесто нее тут только тупая грудастая шлюха?</p>\
+		  "title": "Sanctuary of Fertility",
+		  "description": "<p>Sanctuary of Fertility. The goddess should reside here, but why is there only a dumb big-titted slut instead of her?</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Есть сундук с лутом</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Has a loot chest</li>\
 		  </ul>",
 		  "icon": "assets/локи/СВЯТИЛИЩЕ ПЛОДОРОДИЯ.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [752, 4016],
-		  "title": "Затерянный храм.",
-		  "description": "<p>Затерянный храм. Наполнен самками рыболюдей.</p>\
+		  "title": "Lost Temple",
+		  "description": "<p>Lost Temple. Filled with female fish-people.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
 		  </ul>",
 		  "icon": "assets/локи/ЗАТЕРЯННЫЙ ХРАМ.png",
 		  "type": "quest"
 		},
 		{
 		  "coords": [818, 4080],
-		  "title": "Водный путь.",
-		  "description": "<p>Водный путь. \"Шанс! Он не получка, не аванс, он выпадает только раз, фортуна в дверь стучит, а вас - дома нет!\"</p>\
+		  "title": "Waterway",
+		  "description": "<p>Waterway. \"Chance! It's not a salary, not an advance, it comes only once, fortune knocks on the door, but you're not home!\"</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: средняя</li>\
-			  <li style='color:#64B5F6;'>Есть плот для побега с острова</li>\
+			  <li style='color:#4CAF50;'>Danger: medium</li>\
+			  <li style='color:#64B5F6;'>Has a raft to escape the island</li>\
 		  </ul>",
 		  "icon": "assets/локи/ВОДНЫЙ ПУТЬ.png",
 		  "type": "regular"
 		},
 		{
 		  "coords": [400, 2257],
-		  "title": "Остров добра.",
-		  "description": "<p>Остров добра. Лучшее место, куда только можно угодить.</p>\
+		  "title": "Island of Good",
+		  "description": "<p>Island of Good. The best place one could end up in.</p>\
 		  <ul>\
-			  <li style='color:#4CAF50;'>Опасность: абсолютно безопасно</li>\
-			  <li style='color:#64B5F6;'>Есть плот для возвращения на Ноэр</li>\
+			  <li style='color:#4CAF50;'>Danger: absolutely safe</li>\
+			  <li style='color:#64B5F6;'>Has a raft to return to Noer</li>\
 		  </ul>",
 		  "icon": "assets/локи/ОСТРОВ ЕБЛИ.png",
 		  "type": "regular"
@@ -4346,38 +4346,38 @@ const mapData = {
 		"patrols": [ //y,x
 		  {
 			"coords": [1611, 1232],
-			"title": "Коллекторы",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Collectors",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
+						<li style='color: #aaaaff;'>1 shady type-warrior</li>\
+						<li style='color: #aaaaff;'>1 shady type-elite warrior</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4386,38 +4386,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [1707, 1008],
-			"title": "Коллекторы",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Collectors",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
+						<li style='color: #aaaaff;'>1 shady type-warrior</li>\
+						<li style='color: #aaaaff;'>1 shady type-elite warrior</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4426,38 +4426,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [3596, 1617],
-			"title": "Коллекторы",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Collectors",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
+						<li style='color: #aaaaff;'>1 shady type-warrior</li>\
+						<li style='color: #aaaaff;'>1 shady type-elite warrior</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4466,38 +4466,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [1518, 1136],
-			"title": "Коллекторы",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Collectors",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
+						<li style='color: #aaaaff;'>1 shady type-warrior</li>\
+						<li style='color: #aaaaff;'>1 shady type-elite warrior</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4506,38 +4506,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [679, 3792],
-			"title": "Коллекторы",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Collectors",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
+						<li style='color: #aaaaff;'>1 shady type-warrior</li>\
+						<li style='color: #aaaaff;'>1 shady type-elite warrior</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4546,38 +4546,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [2478, 3637],
-			"title": "Бандиты",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Bandits",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
+						<li style='color: #aaaaff;'>1 shady type-warrior</li>\
+						<li style='color: #aaaaff;'>1 shady type-elite warrior</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4586,38 +4586,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [2507, 1014],
-			"title": "Бандиты",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Bandits",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
+						<li style='color: #aaaaff;'>1 shady type-warrior</li>\
+						<li style='color: #aaaaff;'>1 shady type-elite warrior</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4626,38 +4626,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [3405, 2000],
-			"title": "Бандиты",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Bandits",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 мутных типа с копьями</li>\
-						<li style='color: #aaaaff;'>2 мутных типа с людоловами</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с дубинкой</li>\
-						<li style='color: #aaaaff;'>1 мутный тип с луком</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-воин</li>\
-						<li style='color: #aaaaff;'>1 мутный тип-элитный воин</li>\
+						<li style='color: #aaaaff;'>3 shady types with spears</li>\
+						<li style='color: #aaaaff;'>2 shady types with mancatchers</li>\
+						<li style='color: #aaaaff;'>1 shady type with a club</li>\
+						<li style='color: #aaaaff;'>1 shady type with a bow</li>\
+						<li style='color: #aaaaff;'>1 shady type-warrior</li>\
+						<li style='color: #aaaaff;'>1 shady type-elite warrior</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4666,30 +4666,30 @@ const mapData = {
 		  },
 		  {
 			"coords": [2056, 1043],
-			"title": "Гоблины",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Goblins",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>4 случайных гоблина</li>\
+						<li style='color: #aaaaff;'>4 random goblins</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
-						<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
+						<li style='color: #aaaaff;'>1 random hobgoblin</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
-						<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
-						<li style='color: #aaaaff;'>1 случайный орк</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
+						<li style='color: #aaaaff;'>1 random hobgoblin</li>\
+						<li style='color: #aaaaff;'>1 random orc</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4698,30 +4698,30 @@ const mapData = {
 		  },
 		  {
 			"coords": [2798, 1329],
-			"title": "Гоблины",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Goblins",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>4 случайных гоблина</li>\
+						<li style='color: #aaaaff;'>4 random goblins</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
-						<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
+						<li style='color: #aaaaff;'>1 random hobgoblin</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
-						<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
-						<li style='color: #aaaaff;'>1 случайный орк</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
+						<li style='color: #aaaaff;'>1 random hobgoblin</li>\
+						<li style='color: #aaaaff;'>1 random orc</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4730,30 +4730,30 @@ const mapData = {
 		  },
 		  {
 			"coords": [2830, 1713],
-			"title": "Гоблины",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Goblins",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>4 случайных гоблина</li>\
+						<li style='color: #aaaaff;'>4 random goblins</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
-						<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
+						<li style='color: #aaaaff;'>1 random hobgoblin</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
-						<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
-						<li style='color: #aaaaff;'>1 случайный орк</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
+						<li style='color: #aaaaff;'>1 random hobgoblin</li>\
+						<li style='color: #aaaaff;'>1 random orc</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4762,30 +4762,30 @@ const mapData = {
 		  },
 		  {
 			"coords": [1936, 1520],
-			"title": "Гоблины",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Goblins",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>4 случайных гоблина</li>\
+						<li style='color: #aaaaff;'>4 random goblins</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
-						<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
+						<li style='color: #aaaaff;'>1 random hobgoblin</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>5 случайных гоблина</li>\
-						<li style='color: #aaaaff;'>1 случайный хобгоблин</li>\
-						<li style='color: #aaaaff;'>1 случайный орк</li>\
+						<li style='color: #aaaaff;'>5 random goblins</li>\
+						<li style='color: #aaaaff;'>1 random hobgoblin</li>\
+						<li style'='color: #aaaaff;'>1 random orc</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4794,37 +4794,37 @@ const mapData = {
 		  },
 		  {
 			"coords": [3090, 3024],
-			"title": "Менеджеры абоминаций",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Abomination Managers",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>2 паукообразных абоминации</li>\
-						<li style='color: #aaaaff;'>2 зомби</li>\
-						<li style='color: #aaaaff;'>1 скорпионообразная абоминация</li>\
+						<li style='color: #aaaaff;'>2 spider-like abominations</li>\
+						<li style='color: #aaaaff;'>2 zombies</li>\
+						<li style='color: #aaaaff;'>1 scorpion-like abomination</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
-						<li style='color: #aaaaff;'>2 зомби</li>\
-						<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
+						<li style='color: #aaaaff;'>3 spider-like abominations</li>\
+						<li style='color: #aaaaff;'>2 zombies</li>\
+						<li style='color: #aaaaff;'>2 scorpion-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
-						<li style='color: #aaaaff;'>2 зомби</li>\
-						<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
-						<li style='color: #aaaaff;'>1 менеджер абоминаций</li>\
+						<li style='color: #aaaaff;'>3 spider-like abominations</li>\
+						<li style='color: #aaaaff;'>2 zombies</li>\
+						<li style='color: #aaaaff;'>2 scorpion-like abominations</li>\
+						<li style='color: #aaaaff;'>1 abomination manager</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
-						<li style='color: #aaaaff;'>3 зомби</li>\
-						<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
-						<li style='color: #aaaaff;'>2 менеджер абоминаций</li>\
+						<li style='color: #aaaaff;'>3 spider-like abominations</li>\
+						<li style='color: #aaaaff;'>3 zombies</li>\
+						<li style='color: #aaaaff;'>2 scorpion-like abominations</li>\
+						<li style='color: #aaaaff;'>2 abomination managers</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4833,37 +4833,37 @@ const mapData = {
 		  },
 		  {
 			"coords": [3669, 2868],
-			"title": "Менеджеры абоминаций",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Abomination Managers",
+			"description": "<p style'='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>2 паукообразных абоминации</li>\
-						<li style='color: #aaaaff;'>2 зомби</li>\
-						<li style='color: #aaaaff;'>1 скорпионообразная абоминация</li>\
+						<li style='color: #aaaaff;'>2 spider-like abominations</li>\
+						<li style='color: #aaaaff;'>2 zombies</li>\
+						<li style='color: #aaaaff;'>1 scorpion-like abomination</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
-						<li style='color: #aaaaff;'>2 зомби</li>\
-						<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
+						<li style='color: #aaaaff;'>3 spider-like abominations</li>\
+						<li style='color: #aaaaff;'>2 zombies</li>\
+						<li style='color: #aaaaff;'>2 scorpion-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
-						<li style='color: #aaaaff;'>2 зомби</li>\
-						<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
-						<li style='color: #aaaaff;'>1 менеджер абоминаций</li>\
+						<li style='color: #aaaaff;'>3 spider-like abominations</li>\
+						<li style='color: #aaaaff;'>2 zombies</li>\
+						<li style='color: #aaaaff;'>2 scorpion-like abominations</li>\
+						<li style='color: #aaaaff;'>1 abomination manager</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>3 паукообразных абоминации</li>\
-						<li style='color: #aaaaff;'>3 зомби</li>\
-						<li style='color: #aaaaff;'>2 скорпионообразная абоминация</li>\
-						<li style='color: #aaaaff;'>2 менеджер абоминаций</li>\
+						<li style='color: #aaaaff;'>3 spider-like abominations</li>\
+						<li style='color: #aaaaff;'>3 zombies</li>\
+						<li style='color: #aaaaff;'>2 scorpion-like abominations</li>\
+						<li style='color: #aaaaff;'>2 abomination managers</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4872,27 +4872,27 @@ const mapData = {
 		  },
 		  {
 			"coords": [3056, 3730],
-			"title": "Паукообразные абоминаций",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Spider-like Abominations",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>5 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>5 spider-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>6 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>6 spider-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>8 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>8 spider-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>10 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>10 spider-like abominations</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4901,27 +4901,27 @@ const mapData = {
 		  },
 		  {
 			"coords": [2800, 3859],
-			"title": "Паукообразные абоминаций",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Spider-like Abominations",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>5 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>5 spider-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>6 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>6 spider-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>8 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>8 spider-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>10 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>10 spider-like abominations</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4930,27 +4930,27 @@ const mapData = {
 		  },
 		  {
 			"coords": [3600, 2515],
-			"title": "Паукообразные абоминаций",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Spider-like Abominations",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>5 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>5 spider-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>6 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>6 spider-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>8 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>8 spider-like abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>10 паукообразных абоминации</li>\
+						<li style='color: #aaaaff;'>10 spider-like abominations</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4959,27 +4959,27 @@ const mapData = {
 		  },
 		  {
 			"coords": [2920, 3287],
-			"title": "Гончии абоминаций",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Hound Abominations",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-29\
 					<ul>\
-						<li style='color: #aaaaff;'>4 гончии абоминаций</li>\
+						<li style='color: #aaaaff;'>4 hound abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>30-59\
 					<ul>\
-						<li style='color: #aaaaff;'>6 гончих абоминаций</li>\
+						<li style='color: #aaaaff;'>6 hound abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>60-89\
 					<ul>\
-						<li style='color: #aaaaff;'>8 гончих абоминаций</li>\
+						<li style='color: #aaaaff;'>8 hound abominations</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>89-100\
 					<ul>\
-						<li style='color: #aaaaff;'>10 гончих абоминаций</li>\
+						<li style='color: #aaaaff;'>10 hound abominations</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -4988,36 +4988,36 @@ const mapData = {
 		  },
 		  {
 			"coords": [1935, 2288],
-			"title": "Рыболюди",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Fish-People",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
-						<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller fatso</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
-						<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers with spears</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller fatsos</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -5026,36 +5026,36 @@ const mapData = {
 		  },
 		  {
 			"coords": [1876, 2669],
-			"title": "Рыболюди",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Fish-People",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
-						<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller fatso</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
-						<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers with spears</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller fatsos</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -5064,36 +5064,36 @@ const mapData = {
 		  },
 		  {
 			"coords": [2480, 2544],
-			"title": "Рыболюди",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Fish-People",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
-						<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller fatso</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
-						<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers with spears</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller fatsos</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -5102,36 +5102,36 @@ const mapData = {
 		  },
 		  {
 			"coords": [1870, 3218],
-			"title": "Рыболюди",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Fish-People",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
-						<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller fatso</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
-						<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers with spears</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller fatsos</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -5140,36 +5140,36 @@ const mapData = {
 		  },
 		  {
 			"coords": [2090, 3763],
-			"title": "Рыболюди",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Fish-People",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
-						<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller fatso</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
-						<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers with spears</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller fatsos</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -5178,36 +5178,36 @@ const mapData = {
 		  },
 		  {
 			"coords": [1641, 2485],
-			"title": "Рыболюди",
-			"description": "<p style='color: #cccccc;'>Опасность группы злопыхателей зависит от уровня опасности мира.</p>\
+			"title": "Fish-People",
+			"description": "<p style='color: #cccccc;'>The danger of the ill-wishers group depends on the world's danger level.</p>\
 			<ul>\
 				<li style='color: #8899dd;'>0-25\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>25-50\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>50-75\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>1 глубинный с копьем</li>\
-						<li style='color: #aaaaff;'>1 глубинный-жирдяй</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller with spear</li>\
+						<li style='color: #aaaaff;'>1 deep-dweller fatso</li>\
 					</ul>\
 				</li>\
 				<li style='color: #8899dd;'>75-100\
 					<ul>\
-						<li style='color: #aaaaff;'>2 глубинных-ползуна</li>\
-						<li style='color: #aaaaff;'>2 глубинных</li>\
-						<li style='color: #aaaaff;'>2 глубинных с копьем</li>\
-						<li style='color: #aaaaff;'>2 глубинных-жирдяя</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller crawlers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers</li>\
+						<li style='color: #aaaaff;'>2 deep-dwellers with spears</li>\
+						<li style='color: #aaaaff;'>2 deep-dweller fatsos</li>\
 					</ul>\
 				</li>\
 			</ul>",
@@ -5218,27 +5218,27 @@ const mapData = {
 		"regions": [ //x,y
 		  {
 			"coords": [1120, 1616],
-			"title": "1111111111111111111Улицы Ноэртауна",
-			"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p>\
+			"title": "Noertown Streets",
+			"description": "<p style='color: #cccccc;'>Noertown Streets.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>2.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа бандитов</li>\
-							<li style='color: #993333;'>2: Коллекторы</li>\
+							<li style='color: #993333;'>1: Bandit group</li>\
+							<li style='color: #993333;'>2: Collectors</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Стража Ноэра</li>\
-							<li style='color: #339966;'>2: Группа бездомных</li>\
-							<li style='color: #339966;'>3: Проповедник</li>\
+							<li style='color: #339966;'>1: Noer guard patrol</li>\
+							<li style='color: #339966;'>2: Group of homeless</li>\
+							<li style='color: #339966;'>3: Preacher</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
-							<li style='color: #aaaaff;'>2: Дом: 1 позиция</li>\
+							<li style='color: #aaaaff;'>1: Prostitution: 3 positions</li>\
+							<li style='color: #aaaaff;'>2: House: 1 position</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5249,32 +5249,32 @@ const mapData = {
 		  },
 		  {
 			"coords": [1136, 1712],
-			"title": "Дорога",
-			"description": "<p style='color: #cccccc;'>Дорога.</p>\
+			"title": "Road",
+			"description": "<p style='color: #cccccc;'>Road.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Группа волков</li>\
-							<li style='color: #993333;'>3: Группа нежити</li>\
-							<li style='color: #993333;'>4: Группа бандитов</li>\
-							<li style='color: #993333;'>5: Группа коллекторов</li>\
-							<li style='color: #993333;'>6: Засада у телеги</li>\
+							<li style='color: #993333;'>1: Orcoid group</li>\
+							<li style='color: #993333;'>2: Wolf group</li>\
+							<li style='color: #993333;'>3: Undead group</li>\
+							<li style='color: #993333;'>4: Bandit group</li>\
+							<li style='color: #993333;'>5: Collectors group</li>\
+							<li style='color: #993333;'>6: Cart ambush</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Оставленная телега</li>\
-							<li style='color: #339966;'>2: Лагерь беженцев</li>\
-							<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-							<li style='color: #339966;'>4: Стража Ноэра</li>\
-							<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Abandoned cart</li>\
+							<li style='color: #339966;'>2: Refugee camp</li>\
+							<li style='color: #339966;'>3: Refugee camp with escort quest</li>\
+							<li style='color: #339966;'>4: Noer guard patrol</li>\
+							<li style='color: #339966;'>5: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5285,25 +5285,25 @@ const mapData = {
 		  },
 		  {
 			"coords": [1136, 1776],
-			"title": "Склон Росендо",
-			"description": "<p style='color: #cccccc;'>Склон Росендо.</p>\
+			"title": "Rosendo Slope",
+			"description": "<p style='color: #cccccc;'>Rosendo Slope.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #44aa44;'>нет</li>\
+							<li style='color: #44aa44;'>none</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Патруль стражи</li>\
+							<li style='color: #339966;'>1: Guard patrol</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
-							<li style='color: #aaaaff;'>2: Дом: 5 позиций</li>\
-							<li style='color: #aaaaff;'>3: Колодец: 1 позиция</li>\
+							<li style='color: #aaaaff;'>1: Prostitution: 3 positions</li>\
+							<li style='color: #aaaaff;'>2: House: 5 positions</li>\
+							<li style='color: #aaaaff;'>3: Well: 1 position</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5314,38 +5314,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [2432, 2544],
-			"title": "Хвойный лес",
-			"description": "<p style='color: #cccccc;'>Хвойный лес.</p>\
+			"title": "Coniferous Forest",
+			"description": "<p style='color: #cccccc;'>Coniferous Forest.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>10 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Группа волков</li>\
-							<li style='color: #993333;'>3: Группа нежити</li>\
-							<li style='color: #993333;'>4: Группа бандитов</li>\
-							<li style='color: #993333;'>5: Засада у телеги</li>\
+							<li style='color: #993333;'>1: Orcoid group</li>\
+							<li style='color: #993333;'>2: Wolf group</li>\
+							<li style='color: #993333;'>3: Undead group</li>\
+							<li style='color: #993333;'>4: Bandit group</li>\
+							<li style='color: #993333;'>5: Cart ambush</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Оставленная телега</li>\
-							<li style='color: #339966;'>2: Лагерь беженцев</li>\
-							<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-							<li style='color: #339966;'>4: Стража Ноэра</li>\
-							<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Abandoned cart</li>\
+							<li style='color: #339966;'>2: Refugee camp</li>\
+							<li style='color: #339966;'>3: Refugee camp with escort quest</li>\
+							<li style='color: #339966;'>4: Noer guard patrol</li>\
+							<li style='color: #339966;'>5: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>2: До 3 ловушек с нежитью(если монетка(100) 3 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>3: До 24 деревьев(чаще меньше/около 10)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>4: До 6 гиробов(больше 2, если монетка(50) 4 раза выпадет <= потолок)</li>\
-							<li style='color: #aaaaff;'>5: До 3 орехов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
-							<li style='color: #aaaaff;'>6: До 3 цветков Тунга(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-							<li style='color: #aaaaff;'>7: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 2 wolves (if coin(100) rolls >=50 twice)</li>\
+							<li style='color: #aaaaff;'>2: Up to 3 undead traps (if coin(100) rolls >=50 three times)</li>\
+							<li style='color: #aaaaff;'>3: Up to 24 trees (usually less/around 10)</li>\
+							<li style='color: #aaaaff;'>Ceiling = 1 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>4: Up to 6 gyrobes (more than 2 if coin(50) rolls <= ceiling four times)</li>\
+							<li style='color: #aaaaff;'>5: Up to 3 nuts (1:coin(50)<=ceiling; 2:coin(75)<=ceiling; 3:coin(100)<=ceiling)</li>\
+							<li style='color: #aaaaff;'>6: Up to 3 Tung flowers (1:coin(10)<=ceiling; 2:coin(50)<=ceiling; 3:coin(70)<=ceiling)</li>\
+							<li style='color: #aaaaff;'>7: Up to 3 insect stones (1:coin(25)<=ceiling; 2:coin(50)<=ceiling; 3:coin(75)<=ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5356,38 +5356,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [1872, 2512],
-			"title": "Тропический лес",
-			"description": "<p style='color: #cccccc;'>Тропический лес.</p>\
+			"title": "Tropical Forest",
+			"description": "<p style='color: #cccccc;'>Tropical Forest.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>10 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Группа волков</li>\
-							<li style='color: #993333;'>3: Группа нежити</li>\
-							<li style='color: #993333;'>4: Группа бандитов</li>\
-							<li style='color: #993333;'>5: Засада у телеги</li>\
+							<li style='color: #993333;'>1: Orcoid group</li>\
+							<li style='color: #993333;'>2: Wolf group</li>\
+							<li style='color: #993333;'>3: Undead group</li>\
+							<li style='color: #993333;'>4: Bandit group</li>\
+							<li style='color: #993333;'>5: Cart ambush</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Оставленная телега</li>\
-							<li style='color: #339966;'>2: Лагерь беженцев</li>\
-							<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-							<li style='color: #339966;'>4: Стража Ноэра</li>\
-							<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Abandoned cart</li>\
+							<li style='color: #339966;'>2: Refugee camp</li>\
+							<li style='color: #339966;'>3: Refugee camp with escort quest</li>\
+							<li style='color: #339966;'>4: Noer guard patrol</li>\
+							<li style='color: #339966;'>5: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 2 кабанов(если монетка(100) 2 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>2: До 3 винограда(больше 1, если монетка(100) 2 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>3: До 3 голубики(больше 1, если монетка(100) 2 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>4: До 11 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>5: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-							<li style='color: #aaaaff;'>6: До 3 банановых пальм(1:монетка(100)<= 50; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-							<li style='color: #aaaaff;'>7: До 3 трав Белого Дракона(1:всегда; 2:потолок<= монетка(50); 3:потолок<= монетка(50))</li>\
+							<li style='color: #aaaaff;'>1: Up to 2 boars (if coin(100) rolls >=50 twice)</li>\
+							<li style='color: #aaaaff;'>2: Up to 3 grapes (more than 1 if coin(100) rolls >=50 twice)</li>\
+							<li style='color: #aaaaff;'>3: Up to 3 blueberries (more than 1 if coin(100) rolls >=50 twice)</li>\
+							<li style='color: #aaaaff;'>4: Up to 11 trees (usually less)</li>\
+							<li style='color: #aaaaff;'>Ceiling = 1 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>5: Up to 3 tomatoes (1:coin(10)<=ceiling; 2:coin(50)<=ceiling; 3:coin(70)<=ceiling)</li>\
+							<li style='color: #aaaaff;'>6: Up to 3 banana palms (1:coin(100)<=50; 2:coin(50)<=ceiling; 3:coin(70)<=ceiling)</li>\
+							<li style='color: #aaaaff;'>7: Up to 3 White Dragon herbs (1:always; 2:ceiling<=coin(50); 3:ceiling<=coin(50))</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5398,38 +5398,38 @@ const mapData = {
 		  },
 		  {
 			"coords": [2384, 2560],
-			"title": "Горы",
-			"description": "<p style='color: #cccccc;'>Горы.</p>\
+			"title": "Mountains",
+			"description": "<p style='color: #cccccc;'>Mountains.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>12.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>12.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Группа волков</li>\
-							<li style='color: #993333;'>3: Группа нежити</li>\
-							<li style='color: #993333;'>4: Группа бандитов</li>\
-							<li style='color: #993333;'>5: Засада у телеги</li>\
+							<li style='color: #993333;'>1: Orcoid group</li>\
+							<li style='color: #993333;'>2: Wolf group</li>\
+							<li style='color: #993333;'>3: Undead group</li>\
+							<li style='color: #993333;'>4: Bandit group</li>\
+							<li style='color: #993333;'>5: Cart ambush</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Оставленная телега</li>\
-							<li style='color: #339966;'>2: Лагерь беженцев</li>\
-							<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-							<li style='color: #339966;'>4: Стража Ноэра</li>\
-							<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Abandoned cart</li>\
+							<li style='color: #339966;'>2: Refugee camp</li>\
+							<li style='color: #339966;'>3: Refugee camp with escort quest</li>\
+							<li style='color: #339966;'>4: Noer guard patrol</li>\
+							<li style='color: #339966;'>5: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>1: До 1 кабана(если монетка(100) выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>2: До 3 ловушек с нежитью(если монетка(100) 3 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>4: До 7 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>5: До 6 случайных овощей(2:всегда; 4:монетка(50)<= потолок; 6:монетка(75)<= потолок)</li>\
-							<li style='color: #aaaaff;'>6: До 3 драконьего корня(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-							<li style='color: #aaaaff;'>7: До 4 фосфора(1:всегда; 2:потолок>= монетка(25); 3:потолок>= монетка(50); 4:потолок>= монетка(70))</li>\
+							<li style='color: #aaaaff;'>1: Up to 2 wolves (if coin(100) rolls >=50 twice)</li>\
+							<li style='color: #aaaaff;'>1: Up to 1 boar (if coin(100) rolls >=50)</li>\
+							<li style='color: #aaaaff;'>2: Up to 3 undead traps (if coin(100) rolls >=50 three times)</li>\
+							<li style='color: #aaaaff;'>4: Up to 7 trees (usually less)</li>\
+							<li style='color: #aaaaff;'>Ceiling = 1 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>5: Up to 6 random vegetables (2:always; 4:coin(50)<=ceiling; 6:coin(75)<=ceiling)</li>\
+							<li style='color: #aaaaff;'>6: Up to 3 dragon root (1:coin(10)<=ceiling; 2:coin(50)<=ceiling; 3:coin(70)<=ceiling)</li>\
+							<li style='color: #aaaaff;'>7: Up to 4 phosphorus (1:always; 2:ceiling>=coin(25); 3:ceiling>=coin(50); 4:ceiling>=coin(70))</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5440,32 +5440,32 @@ const mapData = {
 		  },
 		  {
 			"coords": [1008, 1600],
-			"title": "Районы Ноэртауна",
-			"description": "<p style='color: #cccccc;'>Улицы Ноэртауна.</p>\
+			"title": "Noertown Districts",
+			"description": "<p style='color: #cccccc;'>Noertown Streets.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>2.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа бандитов</li>\
-							<li style='color: #993333;'>2: Коллекторы</li>\
+							<li style='color: #993333;'>1: Bandit group</li>\
+							<li style='color: #993333;'>2: Collectors</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Стража Ноэра</li>\
-							<li style='color: #339966;'>2: Группа бездомных</li>\
-							<li style='color: #339966;'>3: Проповедник</li>\
+							<li style='color: #339966;'>1: Noer guard patrol</li>\
+							<li style='color: #339966;'>2: Group of homeless</li>\
+							<li style='color: #339966;'>3: Preacher</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: Проституция: 3 позиции</li>\
-							<li style='color: #aaaaff;'>2: Дом: 4 позиций</li>\
-							<li style='color: #aaaaff;'>3: Колодец: 2 позиций</li>\
-							<li style='color: #aaaaff;'>4: Рванные тряпки: 1 позиция</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 30 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>Далее потолок2 = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>5: До 2 мусора(1:потолок>= монетка(100); 2:потолок2>= монетка(100))</li>\
+							<li style='color: #aaaaff;'>1: Prostitution: 3 positions</li>\
+							<li style='color: #aaaaff;'>2: House: 4 positions</li>\
+							<li style='color: #aaaaff;'>3: Well: 2 positions</li>\
+							<li style='color: #aaaaff;'>4: Torn rags: 1 position</li>\
+							<li style='color: #aaaaff;'>Ceiling = 30 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>Ceiling2 = 1 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>5: Up to 2 trash items (1:ceiling>=coin(100); 2:ceiling2>=coin(100))</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5476,25 +5476,25 @@ const mapData = {
 		  },
 		  {
 			"coords": [1904, 2608],
-			"title": "Главная дорога",
-			"description": "<p style='color: #cccccc;'>Главная дорога.</p>\
+			"title": "Main Road",
+			"description": "<p style='color: #cccccc;'>Main Road.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>2.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>2.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа бандитов</li>\
+							<li style='color: #993333;'>1: Bandit group</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Лагерь беженцев</li>\
-							<li style='color: #339966;'>2: Стража Ноэра</li>\
-							<li style='color: #339966;'>3: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Refugee camp</li>\
+							<li style='color: #339966;'>2: Noer guard patrol</li>\
+							<li style='color: #339966;'>3: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5505,31 +5505,31 @@ const mapData = {
 		  },
 		  {
 			"coords": [2592, 2704],
-			"title": "Дорога",
-			"description": "<p style='color: #cccccc;'>Дорога.</p>\
+			"title": "Road",
+			"description": "<p style='color: #cccccc;'>Road.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Группа волков</li>\
-							<li style='color: #993333;'>3: Группа нежити</li>\
-							<li style='color: #993333;'>4: Группа бандитов</li>\
-							<li style='color: #993333;'>5: Коллекторы</li>\
-							<li style='color: #993333;'>6: Засада у телеги</li>\
+							<li style='color: #993333;'>1: Orcoid group</li>\
+							<li style='color: #993333;'>2: Wolf group</li>\
+							<li style='color: #993333;'>3: Undead group</li>\
+							<li style='color: #993333;'>4: Bandit group</li>\
+							<li style='color: #993333;'>5: Collectors</li>\
+							<li style='color: #993333;'>6: Cart ambush</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Лагерь беженцев</li>\
-							<li style='color: #339966;'>2: Стража Ноэра</li>\
-							<li style='color: #339966;'>3: Беженцы под атакой бандитов</li>\
-							<li style='color: #339966;'>4: Лагерь беженцев с квестом сопровождения</li>\
+							<li style='color: #339966;'>1: Refugee camp</li>\
+							<li style='color: #339966;'>2: Noer guard patrol</li>\
+							<li style='color: #339966;'>3: Refugees under bandit attack</li>\
+							<li style='color: #339966;'>4: Refugee camp with escort quest</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5540,36 +5540,36 @@ const mapData = {
 		  },
 		  {
 			"coords": [2176, 2528],
-			"title": "Заброшенный дом",
-			"description": "<p style='color: #cccccc;'>Заброшенный дом.</p>\
+			"title": "Abandoned House",
+			"description": "<p style='color: #cccccc;'>Abandoned House.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>4 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Группа волков</li>\
-							<li style='color: #993333;'>3: Группа нежити</li>\
-							<li style='color: #993333;'>4: Группа бандитов</li>\
-							<li style='color: #993333;'>5: Засада у телеги</li>\
+							<li style='color: #993333;'>1: Orcoid group</li>\
+							<li style='color: #993333;'>2: Wolf group</li>\
+							<li style='color: #993333;'>3: Undead group</li>\
+							<li style='color: #993333;'>4: Bandit group</li>\
+							<li style='color: #993333;'>5: Cart ambush</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Оставленная телега</li>\
-							<li style='color: #339966;'>2: Лагерь беженцев</li>\
-							<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-							<li style='color: #339966;'>4: Стража Ноэра</li>\
-							<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Abandoned cart</li>\
+							<li style='color: #339966;'>2: Refugee camp</li>\
+							<li style='color: #339966;'>3: Refugee camp with escort quest</li>\
+							<li style='color: #339966;'>4: Noer guard patrol</li>\
+							<li style='color: #339966;'>5: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: Проституция: до 3 позиций</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 50 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>2: Крыса(1:монетка(100)> потолок)</li>\
-							<li style='color: #aaaaff;'>3: Таракан(1:монетка(100)> потолок)</li>\
-							<li style='color: #aaaaff;'>4: Бездомный(1:монетка(100)>= 50)</li>\
-							<li style='color: #aaaaff;'>5: Бездомный гоблин(1:монетка(100)>= 50)</li>\
+							<li style='color: #aaaaff;'>1: Prostitution: up to 3 positions</li>\
+							<li style='color: #aaaaff;'>Ceiling = 50 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>2: Rat (1:coin(100)>ceiling)</li>\
+							<li style='color: #aaaaff;'>3: Cockroach (1:coin(100)>ceiling)</li>\
+							<li style='color: #aaaaff;'>4: Homeless person (1:coin(100)>=50)</li>\
+							<li style='color: #aaaaff;'>5: Homeless goblin (1:coin(100)>=50)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5580,30 +5580,30 @@ const mapData = {
 		  },
 		  {
 			"coords": [2032, 2768],
-			"title": "Лагерь беженцев",
-			"description": "<p style='color: #cccccc;'>Лагерь беженцев.</p>\
+			"title": "Refugee Camp",
+			"description": "<p style='color: #cccccc;'>Refugee Camp.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа бандитов</li>\
+							<li style='color: #993333;'>1: Bandit group</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Стража Ноэра</li>\
-							<li style='color: #339966;'>2: Группа бездомных</li>\
-							<li style='color: #339966;'>3: Проповедник</li>\
-							<li style='color: #339966;'>4: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Noer guard patrol</li>\
+							<li style='color: #339966;'>2: Group of homeless</li>\
+							<li style='color: #339966;'>3: Preacher</li>\
+							<li style='color: #339966;'>4: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: Проституция: 3 позиций</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 50 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>2: Крыса(1:монетка(100)> потолок)</li>\
-							<li style='color: #aaaaff;'>3: Таракан(1:монетка(100)> потолок)</li>\
-							<li style='color: #aaaaff;'>4: Рванные тряпки: 1 позиция</li>\
+							<li style='color: #aaaaff;'>1: Prostitution: 3 positions</li>\
+							<li style='color: #aaaaff;'>Ceiling = 50 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>2: Rat (1:coin(100)>ceiling)</li>\
+							<li style='color: #aaaaff;'>3: Cockroach (1:coin(100)>ceiling)</li>\
+							<li style='color: #aaaaff;'>4: Torn rags: 1 position</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5614,30 +5614,30 @@ const mapData = {
 		  },
 		  {
 			"coords": [1392, 2576],
-			"title": "Трущобы",
-			"description": "<p style='color: #cccccc;'>Трущобы.</p>\
+			"title": "Slums",
+			"description": "<p style='color: #cccccc;'>Slums.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа бандитов</li>\
+							<li style='color: #993333;'>1: Bandit group</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Стража Ноэра</li>\
-							<li style='color: #339966;'>2: Группа бездомных</li>\
-							<li style='color: #339966;'>3: Проповедник</li>\
-							<li style='color: #339966;'>4: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Noer guard patrol</li>\
+							<li style='color: #339966;'>2: Group of homeless</li>\
+							<li style='color: #339966;'>3: Preacher</li>\
+							<li style='color: #339966;'>4: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: Проституция: 3 позиций</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 50 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>2: 2 Крысы(1:монетка(100)> потолок; 2:монетка(100)> потолок)</li>\
-							<li style='color: #aaaaff;'>3: 2 Таракан(1:монетка(100)> потолок; 2:монетка(100)> потолок)</li>\
-							<li style='color: #aaaaff;'>4: Рванные тряпки: 1 позиция</li>\
+							<li style='color: #aaaaff;'>1: Prostitution: 3 positions</li>\
+							<li style='color: #aaaaff;'>Ceiling = 50 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>2: 2 Rats (1:coin(100)>ceiling; 2:coin(100)>ceiling)</li>\
+							<li style='color: #aaaaff;'>3: 2 Cockroaches (1:coin(100)>ceiling; 2:coin(100)>ceiling)</li>\
+							<li style='color: #aaaaff;'>4: Torn rags: 1 position</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5648,34 +5648,34 @@ const mapData = {
 		  },
 		  {
 			"coords": [2336, 2768],
-			"title": "Берег Ноэра",
-			"description": "<p style='color: #cccccc;'>Берег Ноэра.</p>\
+			"title": "Noer Coast",
+			"description": "<p style='color: #cccccc;'>Noer Coast.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Волна</li>\
-							<li style='color: #993333;'>3: Группа бандитов</li>\
-							<li style='color: #993333;'>4: Засада у телеги</li>\
+							<li style='color: #993333;'>1: Orcoid group</li>\
+							<li style='color: #993333;'>2: Wave</li>\
+							<li style='color: #993333;'>3: Bandit group</li>\
+							<li style='color: #993333;'>4: Cart ambush</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Оставленная телега</li>\
-							<li style='color: #339966;'>2: Лагерь беженцев</li>\
-							<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-							<li style='color: #339966;'>4: Стража Ноэра</li>\
-							<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Abandoned cart</li>\
+							<li style='color: #339966;'>2: Refugee camp</li>\
+							<li style='color: #339966;'>3: Refugee camp with escort quest</li>\
+							<li style='color: #339966;'>4: Noer guard patrol</li>\
+							<li style='color: #339966;'>5: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 8 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>2: До 9 рыб(3:всегда; 6:монетка(50) 3 раза<= потолок; 9:монетка(50) 6 раз<= потолок)</li>\
-							<li style='color: #aaaaff;'>3: До 3 орехов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
-							<li style='color: #aaaaff;'>4: До 3 крабов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 8 trees (usually less)</li>\
+							<li style='color: #aaaaff;'>Ceiling = 1 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>2: Up to 9 fish (3:always; 6:coin(50)<=ceiling 3 times; 9:coin(50)<=ceiling 6 times)</li>\
+							<li style='color: #aaaaff;'>3: Up to 3 nuts (1:coin(50)<=ceiling; 2:coin(75)<=ceiling; 3:coin(100)<=ceiling)</li>\
+							<li style='color: #aaaaff;'>4: Up to 3 crabs (1:coin(50)<=ceiling; 2:coin(75)<=ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5686,34 +5686,34 @@ const mapData = {
 		  },
 		  {
 			"coords": [2352, 2592],
-			"title": "Поле",
-			"description": "<p style='color: #cccccc;'>Поле.</p>\
+			"title": "Field",
+			"description": "<p style='color: #cccccc;'>Field.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Группа волков</li>\
-							<li style='color: #993333;'>3: Группа нежити</li>\
-							<li style='color: #993333;'>4: Группа бандитов</li>\
-							<li style='color: #993333;'>5: Засада у телеги</li>\
+							<li style='color: #993333;'>1: Orcoid group</li>\
+							<li style='color: #993333;'>2: Wolf group</li>\
+							<li style='color: #993333;'>3: Undead group</li>\
+							<li style='color: #993333;'>4: Bandit group</li>\
+							<li style='color: #993333;'>5: Cart ambush</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Оставленная телега</li>\
-							<li style='color: #339966;'>2: Лагерь беженцев</li>\
-							<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-							<li style='color: #339966;'>4: Стража Ноэра</li>\
-							<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Abandoned cart</li>\
+							<li style='color: #339966;'>2: Refugee camp</li>\
+							<li style='color: #339966;'>3: Refugee camp with escort quest</li>\
+							<li style='color: #339966;'>4: Noer guard patrol</li>\
+							<li style='color: #339966;'>5: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 2 кроликов(если монетка(100) 2 раза выпадет >= 80)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>2: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
-							<li style='color: #aaaaff;'>3: До 6 случайных овощей(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 2 rabbits (if coin(100) rolls >=80 twice)</li>\
+							<li style='color: #aaaaff;'>Ceiling = 1 + wisdom + 2 * survival</li>\
+							<li style='color: #aaaaff;'>2: Up to 3 insect stones (1:coin(25)<=ceiling; 2:coin(50)<=ceiling; 3:coin(75)<=ceiling)</li>\
+							<li style='color: #aaaaff;'>3: Up to 6 random vegetables (1:coin(25)<=ceiling; 2:coin(50)<=ceiling; 3:coin(75)<=ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5724,31 +5724,31 @@ const mapData = {
 		  },
 		  {
 			"coords": [3072, 2096],
-			"title": "Болотная тропа Ноэра",
-			"description": "<p style='color: #cccccc;'>Болотная тропа Ноэра.</p>\
+			"title": "Noer Swamp Path",
+			"description": "<p style='color: #cccccc;'>Noer Swamp Path.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Группа глубинных</li>\
-							<li style='color: #993333;'>3: Коллекторы</li>\
-							<li style='color: #993333;'>4: Группа бандитов</li>\
-							<li style='color: #993333;'>5: Засада у телеги</li>\
+							<li style='color: #993333;'>1: Orcoid group</li>\
+							<li style='color: #993333;'>2: Deep-dweller group</li>\
+							<li style='color: #993333;'>3: Collectors</li>\
+							<li style='color: #993333;'>4: Bandit group</li>\
+							<li style='color: #993333;'>5: Cart ambush</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Оставленная телега</li>\
-							<li style='color: #339966;'>2: Лагерь беженцев</li>\
-							<li style='color: #339966;'>3: Лагерь беженцев с квестом сопровождения</li>\
-							<li style='color: #339966;'>4: Стража Ноэра</li>\
-							<li style='color: #339966;'>5: Беженцы под атакой бандитов</li>\
+							<li style='color: #339966;'>1: Abandoned cart</li>\
+							<li style='color: #339966;'>2: Refugee camp</li>\
+							<li style='color: #339966;'>3: Refugee camp with escort quest</li>\
+							<li style='color: #339966;'>4: Noer guard patrol</li>\
+							<li style='color: #339966;'>5: Refugees under bandit attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 4 деревьев</li>\
+							<li style='color: #aaaaff;'>1: Up to 4 trees</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5759,23 +5759,23 @@ const mapData = {
 		  },
 		  {
 			"coords": [3760, 704],
-			"title": "Болотная тропа острова рыболюдей",
-			"description": "<p style='color: #cccccc;'>Болотная тропа острова рыболюдей.</p>\
+			"title": "Swamp Trail of the Fishfolk Island",
+			"description": "<p style='color: #cccccc;'>Swamp Trail of the Fishfolk Island.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа глубинных</li>\
+							<li style='color: #993333;'>1: Group of Deep Ones</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+							<li style='color: #339966;'>1: Fishopolis Guard</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 4 деревьев</li>\
+							<li style='color: #aaaaff;'>1: Up to 4 trees</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5786,35 +5786,35 @@ const mapData = {
 		  },
 		  {
 			"coords": [2992, 2112],
-			"title": "Болото Ноэра",
-			"description": "<p style='color: #cccccc;'>Болото Ноэра.</p>\
+			"title": "Noera Swamp",
+			"description": "<p style='color: #cccccc;'>Noera Swamp.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>11 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>11 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа глубинных</li>\
-							<li style='color: #993333;'>2: Группа оркоидов</li>\
-							<li style='color: #993333;'>3: Группа нежити</li>\
-							<li style='color: #993333;'>4: Группа волков</li>\
+							<li style='color: #993333;'>1: Group of Deep Ones</li>\
+							<li style='color: #993333;'>2: Group of Humanoids</li>\
+							<li style='color: #993333;'>3: Group of Undead</li>\
+							<li style='color: #993333;'>4: Group of Wolves</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>2: До 2 кабанов(если монетка(100) 2 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>2: До 3 затаившихся глубинных</li>\
-							<li style='color: #aaaaff;'>3: До 15 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>4: До 15 рыб(7:всегда; 9:монетка(25)<= потолок; 12:монетка(50)<= потолок; 15:монетка(75)<= потолок)</li>\
-							<li style='color: #aaaaff;'>5: До 3 грибов(если монетка(50) 2 раза выпадет <= потолок)</li>\
-							<li style='color: #aaaaff;'>6: До 3 голубики(если монетка(50) 2 раза выпадет <= потолок)</li>\
-							<li style='color: #aaaaff;'>7: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-							<li style='color: #aaaaff;'>8: До 3 горькой травы(1:монетка(50)<= потолок; 2:монетка(70)<= потолок; 3:монетка(80)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 2 wolves (if coin(100) 2 times roll >= 50)</li>\
+							<li style='color: #aaaaff;'>2: Up to 2 boars (if coin(100) 2 times roll >= 50)</li>\
+							<li style='color: #aaaaff;'>2: Up to 3 lurking Deep Ones</li>\
+							<li style='color: #aaaaff;'>3: Up to 15 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>4: Up to 15 fish (7:always; 9:coin(25)<= ceiling; 12:coin(50)<= ceiling; 15:coin(75)<= ceiling)</li>\
+							<li style='color: #aaaaff;'>5: Up to 3 mushrooms (if coin(50) 2 times roll <= ceiling)</li>\
+							<li style='color: #aaaaff;'>6: Up to 3 blueberries (if coin(50) 2 times roll <= ceiling)</li>\
+							<li style='color: #aaaaff;'>7: Up to 3 tomatoes (1:coin(10)<= ceiling; 2:coin(50)<= ceiling; 3:coin(70)<= ceiling)</li>\
+							<li style='color: #aaaaff;'>8: Up to 3 bitter herbs (1:coin(50)<= ceiling; 2:coin(70)<= ceiling; 3:coin(80)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5825,29 +5825,29 @@ const mapData = {
 		  },
 		  {
 			"coords": [2928, 2112],
-			"title": "Топи Ноэра",
-			"description": "<p style='color: #cccccc;'>Топи Ноэра.</p>\
+			"title": "Noera Quagmire",
+			"description": "<p style='color: #cccccc;'>Noera Quagmire.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>7 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа глубинных</li>\
-							<li style='color: #993333;'>2: Группа оркоидов</li>\
-							<li style='color: #993333;'>3: Группа нежити</li>\
+							<li style='color: #993333;'>1: Group of Deep Ones</li>\
+							<li style='color: #993333;'>2: Group of Humanoids</li>\
+							<li style='color: #993333;'>3: Group of Undead</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 5 затаившихся глубинных</li>\
-							<li style='color: #aaaaff;'>2: До 4 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>3: До 10 рыб(7:всегда; 8:монетка(25)<= потолок; 9:монетка(50)<= потолок; 10:монетка(75)<= потолок)</li>\
-							<li style='color: #aaaaff;'>4: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 5 lurking Deep Ones</li>\
+							<li style='color: #aaaaff;'>2: Up to 4 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>3: Up to 10 fish (7:always; 8:coin(25)<= ceiling; 9:coin(50)<= ceiling; 10:coin(75)<= ceiling)</li>\
+							<li style='color: #aaaaff;'>4: Up to 3 tomatoes (1:coin(10)<= ceiling; 2:coin(50)<= ceiling; 3:coin(70)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5858,27 +5858,27 @@ const mapData = {
 		  },
 		  {
 			"coords": [3904, 640],
-			"title": "Топи острова рыб",
-			"description": "<p style='color: #cccccc;'>Топи острова рыб.</p>\
+			"title": "Quagmire of the Fish Island",
+			"description": "<p style='color: #cccccc;'>Quagmire of the Fish Island.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>7 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа глубинных</li>\
+							<li style='color: #993333;'>1: Group of Deep Ones</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+							<li style='color: #339966;'>1: Fishopolis Guard</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 5 затаившихся глубинных</li>\
-							<li style='color: #aaaaff;'>2: До 4 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>3: До 10 рыб(7:всегда; 8:монетка(25)<= потолок; 9:монетка(50)<= потолок; 10:монетка(75)<= потолок)</li>\
-							<li style='color: #aaaaff;'>4: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 5 lurking Deep Ones</li>\
+							<li style='color: #aaaaff;'>2: Up to 4 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>3: Up to 10 fish (7:always; 8:coin(25)<= ceiling; 9:coin(50)<= ceiling; 10:coin(75)<= ceiling)</li>\
+							<li style='color: #aaaaff;'>4: Up to 3 tomatoes (1:coin(10)<= ceiling; 2:coin(50)<= ceiling; 3:coin(70)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5889,34 +5889,34 @@ const mapData = {
 		  },
 		  {
 			"coords": [3152, 3136],
-			"title": "Зараженная гора",
-			"description": "<p style='color: #cccccc;'>Зараженная гора.</p>\
+			"title": "Infected Mountain",
+			"description": "<p style='color: #cccccc;'>Infected Mountain.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>12.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>12.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-							<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-							<li style='color: #993333;'>3: Группа менеджеров абоминаций</li>\
+							<li style='color: #993333;'>1: Group of Arachnid Abominations</li>\
+							<li style='color: #993333;'>2: Group of Hound Abominations</li>\
+							<li style='color: #993333;'>3: Group of Manager Abominations</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: 2 взрывающиеся летающие споры</li>\
-							<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
-							<li style='color: #aaaaff;'>3: 2 щупальца</li>\
-							<li style='color: #aaaaff;'>4: 2 споры</li>\
-							<li style='color: #aaaaff;'>5: 2 летучие мыши</li>\
-							<li style='color: #aaaaff;'>6: 14 паразитов</li>\
-							<li style='color: #aaaaff;'>7: До 9 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>8: До 18 мутировавших грибов(6:всегда; 12:монетка(50)<= потолок; 18:монетка(75)<= потолок)</li>\
-							<li style='color: #aaaaff;'>9: До 3 камней с насекомыми(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: 2 Exploding Flying Spores</li>\
+							<li style='color: #aaaaff;'>2: 2 Flying Spores</li>\
+							<li style='color: #aaaaff;'>3: 2 Tentacles</li>\
+							<li style='color: #aaaaff;'>4: 2 Spores</li>\
+							<li style='color: #aaaaff;'>5: 2 Bats</li>\
+							<li style='color: #aaaaff;'>6: 14 Parasites</li>\
+							<li style='color: #aaaaff;'>7: Up to 9 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>8: Up to 18 Mutated Mushrooms (6:always; 12:coin(50)<= ceiling; 18:coin(75)<= ceiling)</li>\
+							<li style='color: #aaaaff;'>9: Up to 3 Insect Stones (1:coin(50)<= ceiling; 2:coin(75)<= ceiling; 3:coin(100)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5927,33 +5927,33 @@ const mapData = {
 		  },
 		  {
 			"coords": [3264, 3344],
-			"title": "Мертвый лес",
-			"description": "<p style='color: #cccccc;'>Мертвый лес.</p>\
+			"title": "Dead Forest",
+			"description": "<p style='color: #cccccc;'>Dead Forest.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>10 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>10 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-							<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-							<li style='color: #993333;'>3: Группа менеджеров абоминаций</li>\
+							<li style='color: #993333;'>1: Group of Arachnid Abominations</li>\
+							<li style='color: #993333;'>2: Group of Hound Abominations</li>\
+							<li style='color: #993333;'>3: Group of Manager Abominations</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: 2 взрывающиеся летающие споры</li>\
-							<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
-							<li style='color: #aaaaff;'>3: 2 щупальца</li>\
-							<li style='color: #aaaaff;'>4: 2 споры</li>\
-							<li style='color: #aaaaff;'>5: 2 летучие мыши</li>\
-							<li style='color: #aaaaff;'>6: 14 паразитов</li>\
-							<li style='color: #aaaaff;'>7: До 5 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>8: До 18 мутировавших грибов(6:всегда; 12:монетка(50)<= потолок; 18:монетка(75)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: 2 Exploding Flying Spores</li>\
+							<li style='color: #aaaaff;'>2: 2 Flying Spores</li>\
+							<li style='color: #aaaaff;'>3: 2 Tentacles</li>\
+							<li style='color: #aaaaff;'>4: 2 Spores</li>\
+							<li style='color: #aaaaff;'>5: 2 Bats</li>\
+							<li style='color: #aaaaff;'>6: 14 Parasites</li>\
+							<li style='color: #aaaaff;'>7: Up to 5 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>8: Up to 18 Mutated Mushrooms (6:always; 12:coin(50)<= ceiling; 18:coin(75)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5964,31 +5964,31 @@ const mapData = {
 		  },
 		  {
 			"coords": [3280, 3280],
-			"title": "Пустоши абоминаций",
-			"description": "<p style='color: #cccccc;'>Пустоши абоминаций.</p>\
+			"title": "Abomination Wastelands",
+			"description": "<p style='color: #cccccc;'>Abomination Wastelands.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>4 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-							<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-							<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
-							<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+							<li style='color: #993333;'>1: Group of Arachnid Abominations</li>\
+							<li style='color: #993333;'>2: Group of Hound Abominations</li>\
+							<li style='color: #993333;'>3: Ambush of Hound Abominations</li>\
+							<li style='color: #993333;'>4: Group of Manager Abominations</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Беженцы под атакой</li>\
+							<li style='color: #339966;'>1: Refugees Under Attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: 4 взрывающиеся летающие споры</li>\
-							<li style='color: #aaaaff;'>2: 16 щупальцев</li>\
-							<li style='color: #aaaaff;'>3: 4 летучие мыши</li>\
-							<li style='color: #aaaaff;'>4: До 12 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>5: До 3 камней с насекомыми(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: 4 Exploding Flying Spores</li>\
+							<li style='color: #aaaaff;'>2: 16 Tentacles</li>\
+							<li style='color: #aaaaff;'>3: 4 Bats</li>\
+							<li style='color: #aaaaff;'>4: Up to 12 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>5: Up to 3 Insect Stones (1:coin(50)<= ceiling; 2:coin(75)<= ceiling; 3:coin(100)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -5999,34 +5999,34 @@ const mapData = {
 		  },
 		  {
 			"coords": [3056, 3792],
-			"title": "Зараженный край орков",
-			"description": "<p style='color: #cccccc;'>Зараженный край орков.</p>\
+			"title": "Infected Orc Borderlands",
+			"description": "<p style='color: #cccccc;'>Infected Orc Borderlands.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-							<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-							<li style='color: #993333;'>3: Группа оркоидов-наездников</li>\
-							<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-							<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
-							<li style='color: #993333;'>6: Группа оркоидов</li>\
-							<li style='color: #993333;'>7: Засада у братской могилы</li>\
-							<li style='color: #993333;'>8: Группа нежити</li>\
+							<li style='color: #993333;'>1: Group of Arachnid Abominations</li>\
+							<li style='color: #993333;'>2: Group of Hound Abominations</li>\
+							<li style='color: #993333;'>3: Group of Humanoid Riders</li>\
+							<li style='color: #993333;'>4: Group of Manager Abominations</li>\
+							<li style='color: #993333;'>5: Humanoid Playground</li>\
+							<li style='color: #993333;'>6: Group of Humanoids</li>\
+							<li style='color: #993333;'>7: Ambush at the Mass Grave</li>\
+							<li style='color: #993333;'>8: Group of Undead</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Лагерь беженцев</li>\
-							<li style='color: #339966;'>2: Братская могила</li>\
-							<li style='color: #339966;'>3: Беженцы под атакой</li>\
+							<li style='color: #339966;'>1: Refugee Camp</li>\
+							<li style='color: #339966;'>2: Mass Grave</li>\
+							<li style='color: #339966;'>3: Refugees Under Attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 4 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>2: До 3 камней с насекомыми(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 4 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>2: Up to 3 Insect Stones (1:coin(50)<= ceiling; 2:coin(75)<= ceiling; 3:coin(100)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6037,29 +6037,29 @@ const mapData = {
 		  },
 		  {
 			"coords": [3744, 3488],
-			"title": "Руины павшей крепости абоминаций",
-			"description": "<p style='color: #cccccc;'>Руины павшей крепости абоминаций.</p>\
+			"title": "Ruins of the Fallen Abomination Fortress",
+			"description": "<p style='color: #cccccc;'>Ruins of the Fallen Abomination Fortress.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>7.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-							<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-							<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
-							<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+							<li style='color: #993333;'>1: Group of Arachnid Abominations</li>\
+							<li style='color: #993333;'>2: Group of Hound Abominations</li>\
+							<li style='color: #993333;'>3: Ambush of Hound Abominations</li>\
+							<li style='color: #993333;'>4: Group of Manager Abominations</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: 1 щупальце</li>\
-							<li style='color: #aaaaff;'>2: 2 зомби</li>\
-							<li style='color: #aaaaff;'>3: 2 торса зомби</li>\
-							<li style='color: #aaaaff;'>4: 4 паразитов</li>\
+							<li style='color: #aaaaff;'>1: 1 Tentacle</li>\
+							<li style='color: #aaaaff;'>2: 2 Zombies</li>\
+							<li style='color: #aaaaff;'>3: 2 Zombie Torsos</li>\
+							<li style='color: #aaaaff;'>4: 4 Parasites</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6070,33 +6070,33 @@ const mapData = {
 		  },
 		  {
 			"coords": [3472, 3904],
-			"title": "Руины павшей крепости оркоидов",
-			"description": "<p style='color: #cccccc;'>Руины павшей крепости оркоидов.</p>\
+			"title": "Ruins of the Fallen Humanoid Fortress",
+			"description": "<p style='color: #cccccc;'>Ruins of the Fallen Humanoid Fortress.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>7.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-							<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-							<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-							<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
-							<li style='color: #993333;'>6: Группа оркоидов</li>\
-							<li style='color: #993333;'>7: Засада у братской могилы</li>\
-							<li style='color: #993333;'>8: Группа нежити</li>\
+							<li style='color: #993333;'>1: Group of Arachnid Abominations</li>\
+							<li style='color: #993333;'>2: Group of Hound Abominations</li>\
+							<li style='color: #993333;'>4: Group of Manager Abominations</li>\
+							<li style='color: #993333;'>5: Humanoid Playground</li>\
+							<li style='color: #993333;'>6: Group of Humanoids</li>\
+							<li style='color: #993333;'>7: Ambush at the Mass Grave</li>\
+							<li style='color: #993333;'>8: Group of Undead</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Лагерь беженцев</li>\
-							<li style='color: #339966;'>2: Братская могила</li>\
-							<li style='color: #339966;'>3: Беженцы под атакой</li>\
+							<li style='color: #339966;'>1: Refugee Camp</li>\
+							<li style='color: #339966;'>2: Mass Grave</li>\
+							<li style='color: #339966;'>3: Refugees Under Attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: 6 скелетов</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>2: До 3 трупов(1:всегда; 2:монетка(25)<= потолок; 3:монетка(50)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: 6 Skeletons</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>2: Up to 3 corpses (1:always; 2:coin(25)<= ceiling; 3:coin(50)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6107,34 +6107,34 @@ const mapData = {
 		  },
 		  {
 			"coords": [3456, 3760],
-			"title": "Улицы Сибариса",
-			"description": "<p style='color: #cccccc;'>Улицы Сибариса.</p>\
+			"title": "Streets of Sybaris",
+			"description": "<p style='color: #cccccc;'>Streets of Sybaris.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3.5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3.5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
-							<li style='color: #993333;'>2: Группа оркоидов</li>\
-							<li style='color: #993333;'>3: Засада у братской могилы</li>\
-							<li style='color: #993333;'>4: Группа нежити</li>\
+							<li style='color: #993333;'>1: Humanoid Playground</li>\
+							<li style='color: #993333;'>2: Group of Humanoids</li>\
+							<li style='color: #993333;'>3: Ambush at the Mass Grave</li>\
+							<li style='color: #993333;'>4: Group of Undead</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Лагерь беженцев</li>\
-							<li style='color: #339966;'>2: Братская могила</li>\
-							<li style='color: #339966;'>3: Беженцы под атакой</li>\
+							<li style='color: #339966;'>1: Refugee Camp</li>\
+							<li style='color: #339966;'>2: Mass Grave</li>\
+							<li style='color: #339966;'>3: Refugees Under Attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 2 ловушек с нежитью(если монетка(100)>= 50)</li>\
-							<li style='color: #aaaaff;'>2: 4 скелета</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>3: До 4 трупов(2:всегда; 4:монетка(50) 2 раза<= потолок)</li>\
-							<li style='color: #aaaaff;'>Далее потолок3 = 30 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>Далее потолок4 = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>4: До 4 мусора(2:потолок>= монетка(100); 4:потолок2>= монетка(100))</li>\
+							<li style='color: #aaaaff;'>1: Up to 2 undead traps (if coin(100)>= 50)</li>\
+							<li style='color: #aaaaff;'>2: 4 Skeletons</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>3: Up to 4 corpses (2:always; 4:coin(50) 2 times<= ceiling)</li>\
+							<li style='color: #aaaaff;'>Further ceiling3 = 30 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>Further ceiling4 = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>4: Up to 4 debris (2:ceiling>= coin(100); 4:ceiling2>= coin(100))</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6145,34 +6145,34 @@ const mapData = {
 		  },
 		  {
 			"coords": [3312, 3776],
-			"title": "Аллеи Сибариса",
-			"description": "<p style='color: #cccccc;'>Аллеи Сибариса.</p>\
+			"title": "Alleys of Sybaris",
+			"description": "<p style='color: #cccccc;'>Alleys of Sybaris.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>7 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Игровая площадка оркоидов</li>\
-							<li style='color: #993333;'>2: Группа оркоидов</li>\
-							<li style='color: #993333;'>3: Засада у братской могилы</li>\
-							<li style='color: #993333;'>4: Группа нежити</li>\
+							<li style='color: #993333;'>1: Humanoid Playground</li>\
+							<li style='color: #993333;'>2: Group of Humanoids</li>\
+							<li style='color: #993333;'>3: Ambush at the Mass Grave</li>\
+							<li style='color: #993333;'>4: Group of Undead</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Лагерь беженцев</li>\
-							<li style='color: #339966;'>2: Братская могила</li>\
-							<li style='color: #339966;'>3: Беженцы под атакой</li>\
+							<li style='color: #339966;'>1: Refugee Camp</li>\
+							<li style='color: #339966;'>2: Mass Grave</li>\
+							<li style='color: #339966;'>3: Refugees Under Attack</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 2 ловушек с нежитью(если монетка(100)>= 50)</li>\
-							<li style='color: #aaaaff;'>2: 4 скелета</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>3: До 4 трупов(2:всегда; 4:монетка(50) 2 раза<= потолок)</li>\
-							<li style='color: #aaaaff;'>Далее потолок3 = 30 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>Далее потолок4 = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>4: До 4 мусора(2:потолок>= монетка(100); 4:потолок2>= монетка(100))</li>\
+							<li style='color: #aaaaff;'>1: Up to 2 undead traps (if coin(100)>= 50)</li>\
+							<li style='color: #aaaaff;'>2: 4 Skeletons</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>3: Up to 4 corpses (2:always; 4:coin(50) 2 times<= ceiling)</li>\
+							<li style='color: #aaaaff;'>Further ceiling3 = 30 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>Further ceiling4 = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>4: Up to 4 debris (2:ceiling>= coin(100); 4:ceiling2>= coin(100))</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6183,31 +6183,31 @@ const mapData = {
 		  },
 		  {
 			"coords": [3136, 3264],
-			"title": "Зараженный край абоминаций",
-			"description": "<p style='color: #cccccc;'>Зараженный край абоминаций.</p>\
+			"title": "Infected Abomination Borderlands",
+			"description": "<p style='color: #cccccc;'>Infected Abomination Borderlands.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа оркоидов</li>\
-							<li style='color: #993333;'>2: Группа нежити</li>\
+							<li style='color: #993333;'>1: Group of Humanoids</li>\
+							<li style='color: #993333;'>2: Group of Undead</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: 1 взрывающаяся летающая спора</li>\
-							<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
-							<li style='color: #aaaaff;'>3: 2 споры</li>\
-							<li style='color: #aaaaff;'>4: 2 летучие мыши</li>\
-							<li style='color: #aaaaff;'>5: 8 паразитов</li>\
-							<li style='color: #aaaaff;'>6: До 4 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>7: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: 1 Exploding Flying Spore</li>\
+							<li style='color: #aaaaff;'>2: 2 Flying Spores</li>\
+							<li style='color: #aaaaff;'>3: 2 Spores</li>\
+							<li style='color: #aaaaff;'>4: 2 Bats</li>\
+							<li style='color: #aaaaff;'>5: 8 Parasites</li>\
+							<li style='color: #aaaaff;'>6: Up to 4 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>7: Up to 3 Insect Stones (1:coin(25)<= ceiling; 2:coin(50)<= ceiling; 3:coin(75)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6218,33 +6218,33 @@ const mapData = {
 		  },
 		  {
 			"coords": [3104, 3872],
-			"title": "Загрязненные земли",
-			"description": "<p style='color: #cccccc;'>Загрязненные земли.</p>\
+			"title": "Polluted Lands",
+			"description": "<p style='color: #cccccc;'>Polluted Lands.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>4 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>4 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-							<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-							<li style='color: #993333;'>3: Группа оркоидов-наездников</li>\
-							<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
-							<li style='color: #993333;'>5: Игровая площадка оркоидов</li>\
-							<li style='color: #993333;'>6: Группа оркоидов</li>\
-							<li style='color: #993333;'>7: Засада у братской могилы</li>\
-							<li style='color: #993333;'>8: Группа нежити</li>\
+							<li style='color: #993333;'>1: Group of Arachnid Abominations</li>\
+							<li style='color: #993333;'>2: Group of Hound Abominations</li>\
+							<li style='color: #993333;'>3: Group of Humanoid Riders</li>\
+							<li style='color: #993333;'>4: Group of Manager Abominations</li>\
+							<li style='color: #993333;'>5: Humanoid Playground</li>\
+							<li style='color: #993333;'>6: Group of Humanoids</li>\
+							<li style='color: #993333;'>7: Ambush at the Mass Grave</li>\
+							<li style='color: #993333;'>8: Group of Undead</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Лагерь беженцев</li>\
-							<li style='color: #339966;'>2: Братская могила</li>\
+							<li style='color: #339966;'>1: Refugee Camp</li>\
+							<li style='color: #339966;'>2: Mass Grave</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 12 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>2: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 12 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>2: Up to 3 Insect Stones (1:coin(25)<= ceiling; 2:coin(50)<= ceiling; 3:coin(75)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6255,34 +6255,34 @@ const mapData = {
 		  },
 		  {
 			"coords": [3520, 3632],
-			"title": "Руины зараженного города",
-			"description": "<p style='color: #cccccc;'>Руины зараженного города.</p>\
+			"title": "Ruins of the Infected City",
+			"description": "<p style='color: #cccccc;'>Ruins of the Infected City.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>7 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>7 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-							<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-							<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
-							<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+							<li style='color: #993333;'>1: Group of Arachnid Abominations</li>\
+							<li style='color: #993333;'>2: Group of Hound Abominations</li>\
+							<li style='color: #993333;'>3: Ambush of Hound Abominations</li>\
+							<li style='color: #993333;'>4: Group of Manager Abominations</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: 2 взрывающиеся летающие споры</li>\
-							<li style='color: #aaaaff;'>2: 2 летающие споры</li>\
-							<li style='color: #aaaaff;'>3: 2 щупальца</li>\
-							<li style='color: #aaaaff;'>4: 2 споры</li>\
-							<li style='color: #aaaaff;'>5: 4 зомби</li>\
-							<li style='color: #aaaaff;'>6: 10 паразитов</li>\
-							<li style='color: #aaaaff;'>7: До 5 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>8: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: 2 Exploding Flying Spores</li>\
+							<li style='color: #aaaaff;'>2: 2 Flying Spores</li>\
+							<li style='color: #aaaaff;'>3: 2 Tentacles</li>\
+							<li style='color: #aaaaff;'>4: 2 Spores</li>\
+							<li style='color: #aaaaff;'>5: 4 Zombies</li>\
+							<li style='color: #aaaaff;'>6: 10 Parasites</li>\
+			<li style='color: #aaaaff;'>7: Up to 5 trees (often less)</li>\
+			<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+			<li style='color: #aaaaff;'>8: Up to 3 Insect Stones (1:coin(25)<= ceiling; 2:coin(50)<= ceiling; 3:coin(75)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6293,32 +6293,32 @@ const mapData = {
 		  },
 		  {
 			"coords": [3664, 3392],
-			"title": "Загрязненная дорога",
-			"description": "<p style='color: #cccccc;'>Загрязненная дорога.</p>\
+			"title": "Polluted Road",
+			"description": "<p style='color: #cccccc;'>Polluted Road.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>5 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>5 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа паукообразных абоминаций</li>\
-							<li style='color: #993333;'>2: Группа гончих абоминаций</li>\
-							<li style='color: #993333;'>3: Засада гончих абоминаций</li>\
-							<li style='color: #993333;'>4: Группа менеджеров абоминаций</li>\
+							<li style='color: #993333;'>1: Group of Arachnid Abominations</li>\
+							<li style='color: #993333;'>2: Group of Hound Abominations</li>\
+							<li style='color: #993333;'>3: Ambush of Hound Abominations</li>\
+							<li style='color: #993333;'>4: Group of Manager Abominations</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #aa4444;'>нет</li>\
+							<li style='color: #aa4444;'>none</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: 1 взрывающаяся летающая спора</li>\
-							<li style='color: #aaaaff;'>2: 1 летающа спора</li>\
-							<li style='color: #aaaaff;'>4: 1 спора</li>\
-							<li style='color: #aaaaff;'>5: 3 зомби</li>\
-							<li style='color: #aaaaff;'>6: 4 паразита</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>7: До 3 камней с насекомыми(1:монетка(25)<= потолок; 2:монетка(50)<= потолок; 3:монетка(75)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: 1 Exploding Flying Spore</li>\
+							<li style='color: #aaaaff;'>2: 1 Flying Spore</li>\
+							<li style='color: #aaaaff;'>4: 1 Spore</li>\
+							<li style='color: #aaaaff;'>5: 3 Zombies</li>\
+							<li style='color: #aaaaff;'>6: 4 Parasites</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>7: Up to 3 Insect Stones (1:coin(25)<= ceiling; 2:coin(50)<= ceiling; 3:coin(75)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6329,29 +6329,29 @@ const mapData = {
 		  },
 		  {
 			"coords": [3904, 608],
-			"title": "Берег острова рыб",
-			"description": "<p style='color: #cccccc;'>Берег острова рыб.</p>\
+			"title": "Shore of the Fish Island",
+			"description": "<p style='color: #cccccc;'>Shore of the Fish Island.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>3 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>3 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа глубинных</li>\
-							<li style='color: #993333;'>2: Волна</li>\
+							<li style='color: #993333;'>1: Group of Deep Ones</li>\
+							<li style='color: #993333;'>2: Wave</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+							<li style='color: #339966;'>1: Fishopolis Guard</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 8 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>2: До 4 затаившихся глубинных(если монетка(100)>= 50 выпадает 4 раза)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>3: До 9 рыб(3:всегда; 6:монетка(50) 3 раза<= потолок; 9:монетка(50) 6 раз<= потолок)</li>\
-							<li style='color: #aaaaff;'>4: До 3 орехов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок; 3:монетка(100)<= потолок)</li>\
-							<li style='color: #aaaaff;'>5: До 3 крабов(1:монетка(50)<= потолок; 2:монетка(75)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 8 trees (often less)</li>\
+							<li style='color: #aaaaff;'>2: Up to 4 lurking Deep Ones (if coin(100)>= 50 rolls 4 times)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>3: Up to 9 fish (3:always; 6:coin(50) 3 times<= ceiling; 9:coin(50) 6 times<= ceiling)</li>\
+							<li style='color: #aaaaff;'>4: Up to 3 nuts (1:coin(50)<= ceiling; 2:coin(75)<= ceiling; 3:coin(100)<= ceiling)</li>\
+							<li style='color: #aaaaff;'>5: Up to 3 crabs (1:coin(50)<= ceiling; 2:coin(75)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6362,32 +6362,32 @@ const mapData = {
 		  },
 		  {
 			"coords": [3888, 688],
-			"title": "Болото острова рыб",
-			"description": "<p style='color: #cccccc;'>Болото острова рыб.</p>\
+			"title": "Swamp of the Fish Island",
+			"description": "<p style='color: #cccccc;'>Swamp of the Fish Island.</p>\
 			<ul>\
-				<li style='color: #8899aa;'>Стоимость перехода: <span style='color: #ffaa00;'>11 выносливости</span></li>\
-					<li style='color: #aa4444;'>Негативные события:\
+				<li style='color: #8899aa;'>Transition cost: <span style='color: #ffaa00;'>11 stamina</span></li>\
+					<li style='color: #aa4444;'>Negative events:\
 						<ul>\
-							<li style='color: #993333;'>1: Группа глубинных</li>\
+							<li style='color: #993333;'>1: Group of Deep Ones</li>\
 						</ul>\
 					</li>\
-					<li style='color: #44aa44;'>Положительные события:\
+					<li style='color: #44aa44;'>Positive events:\
 						<ul>\
-							<li style='color: #339966;'>1: Стража Рыбополиса</li>\
+							<li style='color: #339966;'>1: Fishopolis Guard</li>\
 						</ul>\
 					</li>\
-					<li style='color: #8899dd;'>Ресурсы региона:\
+					<li style='color: #8899dd;'>Region resources:\
 						<ul>\
-							<li style='color: #aaaaff;'>1: До 2 волков(если монетка(100) 2 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>2: До 2 кабанов(если монетка(100) 2 раза выпадет >= 50)</li>\
-							<li style='color: #aaaaff;'>2: До 3 затаившихся глубинных</li>\
-							<li style='color: #aaaaff;'>3: До 15 деревьев(чаще меньше)</li>\
-							<li style='color: #aaaaff;'>Далее потолок = 1 + мудрость + 2 * выживание</li>\
-							<li style='color: #aaaaff;'>4: До 15 рыб(7:всегда; 9:монетка(25)<= потолок; 12:монетка(50)<= потолок; 15:монетка(75)<= потолок)</li>\
-							<li style='color: #aaaaff;'>5: До 3 грибов(если монетка(50) 2 раза выпадет <= потолок)</li>\
-							<li style='color: #aaaaff;'>6: До 3 голубики(если монетка(50) 2 раза выпадет <= потолок)</li>\
-							<li style='color: #aaaaff;'>7: До 3 помидоров(1:монетка(10)<= потолок; 2:монетка(50)<= потолок; 3:монетка(70)<= потолок)</li>\
-							<li style='color: #aaaaff;'>8: До 3 горькой травы(1:монетка(50)<= потолок; 2:монетка(70)<= потолок; 3:монетка(80)<= потолок)</li>\
+							<li style='color: #aaaaff;'>1: Up to 2 wolves (if coin(100) 2 times roll >= 50)</li>\
+							<li style='color: #aaaaff;'>2: Up to 2 boars (if coin(100) 2 times roll >= 50)</li>\
+							<li style='color: #aaaaff;'>2: Up to 3 lurking Deep Ones</li>\
+							<li style='color: #aaaaff;'>3: Up to 15 trees (often less)</li>\
+							<li style='color: #aaaaff;'>Further ceiling = 1 + Wisdom + 2 * Survival</li>\
+							<li style='color: #aaaaff;'>4: Up to 15 fish (7:always; 9:coin(25)<= ceiling; 12:coin(50)<= ceiling; 15:coin(75)<= ceiling)</li>\
+							<li style='color: #aaaaff;'>5: Up to 3 mushrooms (if coin(50) 2 times roll <= ceiling)</li>\
+							<li style='color: #aaaaff;'>6: Up to 3 blueberries (if coin(50) 2 times roll <= ceiling)</li>\
+							<li style='color: #aaaaff;'>7: Up to 3 tomatoes (1:coin(10)<= ceiling; 2:coin(50)<= ceiling; 3:coin(70)<= ceiling)</li>\
+							<li style='color: #aaaaff;'>8: Up to 3 bitter herbs (1:coin(50)<= ceiling; 2:coin(70)<= ceiling; 3:coin(80)<= ceiling)</li>\
 						</ul>\
 					</li>\
 			</ul>",
@@ -6400,21 +6400,3144 @@ const mapData = {
 						
 	},
 	"chn": {
-							
+	
+		
+		"locations": [ //y,x
+		{
+		  "coords": [2067, 2996],
+		  "title": "海盗覆灭之地",
+		  "description": "<p>为对抗海盗而建造的古老堡垒。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有带任务的酒馆</li>\
+			  <li style='color:#64B5F6;'>设有公共马车</li>\
+			  <li style='color:#64B5F6;'>设有市场</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПИРАТСКАЯ ПОГИБЕЛЬ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3600, 1588],
+		  "title": "命运堡垒",
+		  "description": "<p>“如你所见，无论是绿皮还是血肉恶魔都无法攻破命运堡垒！”</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有带任务的酒馆</li>\
+			  <li style='color:#64B5F6;'>设有公共马车</li>\
+			  <li style='color:#64B5F6;'>设有市场</li>\
+		  </ul>",
+		  "icon": "assets/локи/ТВЕРДЫНЯ РОКА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1488, 1136],
+		  "title": "诺尔镇港口",
+		  "description": "<p>诺尔镇港口，这是你离开岛屿的唯一途径。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有渡船服务</li>\
+			  <li style='color:#64B5F6;'>设有商店</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПОРТ НОЭРА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1581, 1072],
+		  "title": "“燃烧的小桶”酒馆",
+		  "description": "<p>“燃烧的小桶”酒馆</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有发布任务的公会代表</li>\
+			  <li style='color:#64B5F6;'>提供休息房间租赁</li>\
+			  <li style='color:#64B5F6;'>提供工作机会</li>\
+			  <li style='color:#64B5F6;'>对从业者的“身体参数”要求较低</li>\
+		  </ul>",
+		  "icon": "assets/локи/ГОРЯЩИЙ БОЧЕНОК.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1550, 1136],
+		  "title": "诺尔镇市场",
+		  "description": "<p>诺尔镇市场。有许多日用品。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有多家商店</li>\
+		  </ul>",
+		  "icon": "assets/локи/РЫНОК НОЭРА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1486, 978],
+		  "title": "西区，海岸路，9排，8号楼 №6-4",
+		  "description": "<p>诺尔镇众多房屋之一，萝娜需要送信至此。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>这甚至不是一个地点，只是一个用于触发任务对话的交互事件。</li>\
+		  </ul>",
+		  "icon": "assets/локи/Западный р-н, Береговая дорога, Ряд 9, дом 8 №6-4_.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [1553, 816],
+		  "title": "13号仓库。西区。匪徒藏身处。",
+		  "description": "<p>匪徒藏身处。没有准备不要前来。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>设有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/СКЛАД НОМЕР 13. ЗАПАД. УБЕЖИЩЕ БАНДИТОВ_.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1620, 948],
+		  "title": "铁腕巴布的钢铁与制品",
+		  "description": "<p>铁匠巴布的铁匠铺，萝娜可以在这里购买高级武器。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有商店</li>\
+		  </ul>",
+		  "icon": "assets/локи/СТАЛЬ И ИЗДЕЛИЯ ИЗ СТАЛИ ЖЕЛЕЗНОГО БУББЫ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1649, 881],
+		  "title": "坏龙玩具屋",
+		  "description": "<p>坏龙玩具屋。不宜久留，尤其注意不要失足摔倒。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有变身者/跨性别者(根据上下文理解)</li>\
+		  </ul>",
+		  "icon": "assets/локи/ДОМ ИГРУШЕК ПЛОХОГО ДРАКОНА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1743, 753],
+		  "title": "墓地",
+		  "description": "<p>墓地。没有准备不要前来。亡者们也对岛上发生的事感到不满……</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中高</li>\
+			  <li style='color:#64B5F6;'>设有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/КЛАДБИЩЕ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1743, 851],
+		  "title": "监狱",
+		  "description": "<p>诺尔镇监狱。守法的萝娜与此地无关。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+		  </ul>",
+		  "icon": "assets/локи/ТЮРЬМА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1712, 976],
+		  "title": "宽刃帮藏身处，坏家伙的地盘",
+		  "description": "<p>匪徒藏身处。没有准备不要前来。完成塞西莉亚的故事线后开启。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>设有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/Укрытие банды Широкое Лезвие, территория плохих парней_.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [1678, 1008],
+		  "title": "诺尔镇暗巷",
+		  "description": "<p>诺尔镇暗巷。提供不太合法的服务的地方。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有商店</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЗАКОУЛКИ НОЭРТАУНА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1711, 1041],
+		  "title": "下水道",
+		  "description": "<p>下水道。贫困者的聚集地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/КАНАЛИЗАЦИЯ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1808, 912],
+		  "title": "诺尔镇附近洞穴",
+		  "description": "<p>诺尔镇附近洞穴。小心，除非你想成为一群不知感恩的孩子的多子母亲。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>设有怪物巢穴</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПЕЩЕРА У НОЭРА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1744, 1008],
+		  "title": "诺尔镇北门检查站",
+		  "description": "<p>诺尔镇北门检查站。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>这甚至不是一个地点，是用于进出诺尔镇的事件</li>\
+		  </ul>",
+		  "icon": "assets/локи/СЕВЕРНОЕ КПП НОЭРА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1650, 1074],
+		  "title": "东方贸易站",
+		  "description": "<p>东方贸易站。一个想骗你钱的地方</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有商店</li>\
+			  <li style='color:#64B5F6;'>CG场景观看点</li>\
+		  </ul>",
+		  "icon": "assets/локи/ВОСТОЧНАЯ ТОРГОВЛЯ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1712, 1136],
+		  "title": "鲁德辛德山坡检查站",
+		  "description": "<p>鲁德辛德山坡检查站。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>这甚至不是一个地点，是用于进出鲁德辛德山坡的事件</li>\
+		  </ul>",
+		  "icon": "assets/локи/КПП НА СКЛОН РУДЕСИНДОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1763, 1167],
+		  "title": "金锭",
+		  "description": "<p>金锭。诺尔镇富人的聚集地。出售你美貌的好地方。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有商店</li>\
+			  <li style='color:#64B5F6;'>提供工作机会</li>\
+			  <li style='color:#64B5F6;'>对从业者的外貌要求很高。</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЗОЛОТОЙ СЛИТОК.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1614, 1137],
+		  "title": "诺尔镇竞技场",
+		  "description": "<p>诺尔镇竞技场。大众娱乐场所。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#4CAF50;'>危险等级: 中等(如果直接参与战斗)</li>\
+			  <li style='color:#64B5F6;'>设有商店</li>\
+		  </ul>",
+		  "icon": "assets/локи/КОЛИЗЕЙ НОЭРА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1646, 1200],
+		  "title": "艾丽莎诊所",
+		  "description": "<p>艾丽莎诊所。一个能治愈你所有伤病的地方。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#4CAF50;'>危险等级: 安全-中等(如果进入地下室)</li>\
+			  <li style='color:#64B5F6;'>设有商店</li>\
+			  <li style='color:#64B5F6;'>治疗严重伤害的唯一场所，请小心。</li>\
+		  </ul>",
+		  "icon": "assets/локи/КЛИНИКА ЭЛИСА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1580, 1202],
+		  "title": "诺尔镇银行",
+		  "description": "<p>诺尔镇银行。可以存储金币（“白色”的也可以）的地方</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有兑换点</li>\
+			  <li style='color:#64B5F6;'>保存物品的唯一场所，请小心。</li>\
+		  </ul>",
+		  "icon": "assets/локи/БАНК НОЭРА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1680, 1265],
+		  "title": "黑市",
+		  "description": "<p>匪徒藏身处。没有准备不要前来。如果你被这里的人抓住，你将被卖掉。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>设有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЧЕРНЫЙ РЫНОК.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1615, 1266],
+		  "title": "诺尔镇广场",
+		  "description": "<p>诺尔镇广场。快速前往岛上其他人类安全据点的地点。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有商店</li>\
+			  <li style='color:#64B5F6;'>设有公共马车</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПЛАЦДАРМ НОЭРТАУНА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1616, 1288],
+		  "title": "诺尔镇东门检查站",
+		  "description": "<p>诺尔镇东门检查站。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>这甚至不是一个地点，是用于进出诺尔镇的事件</li>\
+		  </ul>",
+		  "icon": "assets/локи/ВОСТОЧНОЕ КПП НОЭРА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1616, 1329],
+		  "title": "诺尔镇东门入口",
+		  "description": "<p>诺尔镇东门入口。渴望进入城市之人的聚集地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>这里除了与贫穷的难民“放松”的可能性之外，没什么特别的。</li>\
+		  </ul>",
+		  "icon": "assets/локи/ВХОД ЧЕРЕЗ ВОСТОЧНЫЕ ВОРОТА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1903, 1329],
+		  "title": "废弃房屋，亚当的营地",
+		  "description": "<p>废弃房屋，亚当的营地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#4CAF50;'>危险等级: 中等(如果你是个混蛋想杀死可爱的亚当)</li>\
+			  <li style='color:#64B5F6;'>看起来是个普通的废弃房屋，但也许有趣的人会在这里聚会？</li>\
+		  </ul>",
+		  "icon": "assets/локи/КВЕСТОВЫЙ ЗАБРОШЕННЫЙ ДОМ АДАМА.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [2032, 1232],
+		  "title": "热带雨林",
+		  "description": "<p>热带雨林。普通的热带雨林，是采集草药任务的提示地点。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/КВЕСТОВЫЙ ЛЕС ЭЛИСА 2.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [1520, 1520],
+		  "title": "热带雨林",
+		  "description": "<p>热带雨林。普通的热带雨林，是采集草药任务的提示地点。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/КВЕСТОВЫЙ ЛЕС ЭЛИСА 1.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [2159, 1074],
+		  "title": "北部关隘哨塔",
+		  "description": "<p>北部关隘哨塔。小心，除非你想成为一群不知感恩的孩子的多子母亲。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>设有怪物巢穴</li>\
+		  </ul>",
+		  "icon": "assets/локи/СТОРОЖЕВАЯ БАШНЯ СЕВЕРНОГО ПЕРЕВАЛА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2254, 1137],
+		  "title": "修道院难民营地",
+		  "description": "<p>修道院难民营地。典型的难民营地，这样的营地有很多。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有“涂抹蛋液”小游戏</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛАГЕРЬ БЕЖЕНЦЕВ ПРИ МОНАСТЫРЕ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2286, 1072],
+		  "title": "圣徒修道院",
+		  "description": "<p>修道院难民营地。典型的难民营地，这样的营地有很多。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#4CAF50;'>危险等级: 危险(如果进入地下室)</li>\
+			  <li style='color:#64B5F6;'>设有商店</li>\
+			  <li style='color:#64B5F6;'>可以上交孩子</li>\
+			  <li style='color:#64B5F6;'>可以捐赠金钱(提高声望)</li>\
+			  <li style='color:#64B5F6;'>如果萝娜是处女 - 在奴役周期内不会被“触碰”</li>\
+		  </ul>",
+		  "icon": "assets/локи/МОНАСТЫРЬ СВЯТЫХ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2579, 848],
+		  "title": "匪徒藏身处",
+		  "description": "<p>匪徒藏身处。匪徒恢复力量的营地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>设有独特的盟友</li>\
+		  </ul>",
+		  "icon": "assets/локи/УБЕЖИЩЕ БАНДИТОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2320, 1232],
+		  "title": "艾丽莎的研究地点",
+		  "description": "<p>艾丽莎的研究地点。艾丽莎会带你来这里进行研究。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/МЕСТО ИССЛЕДОВАНИЙ ЭЛИСА.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [2640, 1202],
+		  "title": "废弃房屋旁的载人马车",
+		  "description": "<p>废弃房屋旁的载人马车。有人想帮助饥饿的人们。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>护送NPC到命运堡垒的任务。</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЗАБРОШЕННЫЙ ДОМ ГРАБЕЖА.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [3248, 1364],
+		  "title": "奴隶贩子商队",
+		  "description": "<p>奴隶贩子商队。完成塞西莉亚故事线时的任务地点。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>别当混蛋 - 帮助可爱的塞西莉亚和她的朋友</li>\
+		  </ul>",
+		  "icon": "assets/локи/КВЕСТ СЕСИЛИИ ПО ОСВОБОЖДЕНИЮ РАБОВ.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [3184, 1650],
+		  "title": "伍德森庄园",
+		  "description": "<p>伍德森庄园。混乱海洋中的宁静与家园的岛屿。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>不应遵循传统接受晚餐邀请。</li>\
+			  <li style='color:#FFD700;'>有游戏中唯一的女同性恋场景!!!!!!</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПОМЕСТЬЕ ВУДСАНОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3502, 1745],
+		  "title": "命运堡垒军械库",
+		  "description": "<p>命运堡垒军械库。想偷就快点行动。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>地点非常狭窄，潜入可能会有问题</li>\
+		  </ul>",
+		  "icon": "assets/локи/ОРУЖЕЙНАЯ.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [3472, 1936],
+		  "title": "命运堡垒难民营地",
+		  "description": "<p>命运堡垒难民营地。成群的贫困者... 宣扬末日的传教士... 没什么不寻常的。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛАГЕРЬ БЕЖЕНЦЕВ ТВЕРДЫНИ РОКА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3375, 2129],
+		  "title": "邪教徒水洞",
+		  "description": "<p>邪教徒水洞。当地的恶臭导致多个孔洞泄漏。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>地点非常狭窄，潜入可能会有问题</li>\
+		  </ul>",
+		  "icon": "assets/локи/ВОДНАЯ ПЕЩЕРА.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [3694, 2321],
+		  "title": "命运堡垒东部检查站",
+		  "description": "<p>命运堡垒东部检查站。通往地狱（或天堂，取决于癖好和性别）的大门。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>可以免费学习2种长戟技能</li>\
+		  </ul>",
+		  "icon": "assets/локи/ВОСТОЧНЫЙ КПП КРЕПОСТИ ОБРЕЧЕННЫХ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3248, 2098],
+		  "title": "九英寸部落",
+		  "description": "<p>九英寸部落。由曾经逃跑的奴隶后代组成的小定居点。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>卖淫能赚很多酒</li>\
+			  <li style='color:#64B5F6;'>消灭他们不值得</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПЛЕМЯ ДЕВЯТИ ДЮЙМОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3185, 2160],
+		  "title": "螺旋森林",
+		  "description": "<p>螺旋森林。变异体的巢穴。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/СПИРАЛЬНЫЙ ЛЕС.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [2860, 1711],
+		  "title": "被兽人占领的小屋",
+		  "description": "<p>被兽人占领的小屋。特有的恶臭很远就能闻到……</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/МАЛЕНЬКАЯ ХИЖИНА, В КОТОРОЙ ТЕПЕРЬ ОБИТАЮТ МОНСТРЫ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2632, 1778],
+		  "title": "山地修道院",
+		  "description": "<p>山地修道院。这里的修士比西边的同行好得多。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>商店价格比另一个修道院便宜</li>\
+			  <li style='color:#64B5F6;'>有安全的睡眠地点</li>\
+		  </ul>",
+		  "icon": "assets/локи/ГОРНЫЙ МОНАСТЫРЬ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2638, 1552],
+		  "title": "废弃铜矿",
+		  "description": "<p>废弃铜矿。变异兔子的栖息地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЗАБРОШЕННАЯ МЕДНАЯ ШАХТА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2480, 1600],
+		  "title": "云村",
+		  "description": "<p>云村。他们并非表面看起来的那样。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+			  <li style='color:#64B5F6;'>有东方贸易站店主丢失的包裹</li>\
+		  </ul>",
+		  "icon": "assets/локи/ОБЛАЧНАЯ ДЕРЕВНЯ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2159, 1648],
+		  "title": "兽人洞穴 3",
+		  "description": "<p>兽人洞穴。几个可供袭击的兽人洞穴之一</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+			  <li style='color:#64B5F6;'>地点非常狭窄，小心</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПЕЩЕРА ОРКОИДОВ 3.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1935, 1620],
+		  "title": "失踪商队",
+		  "description": "<p>失踪商队。可怜的家伙们，注定要成为孵化器悲惨生存并变成肥胖类人生物，只有一个目的 - 生育。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+			  <li style='color:#64B5F6;'>需要拯救所有人，不要抛弃他们</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПРОПАВШИЙ КАРАВАН.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1800, 1586],
+		  "title": "溃散小队",
+		  "description": "<p>溃散小队。森林中传来的叫喊声令人不安。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/РАЗБИТАЯ ГРУППА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1774, 1712],
+		  "title": "诺尔镇附近矿洞",
+		  "description": "<p>诺尔镇附近矿洞。普通矿洞。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+			  <li style='color:#4CAF50;'>危险等级: 中等(如果萝娜处于奴役周期)</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+			  <li style='color:#64B5F6;'>利用公会的清理任务可以轻松赚钱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ШАХТА НОЭРА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1750, 1943],
+		  "title": "诺尔镇东部检查站",
+		  "description": "<p>诺尔镇东部检查站。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+			  <li style='color:#64B5F6;'>设有大炮小游戏</li>\
+		  </ul>",
+		  "icon": "assets/локи/ВОСТОЧНЫЙ КПП.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1775, 2288],
+		  "title": "阿里斯村",
+		  "description": "<p>阿里斯村。当地人非常讨厌任何鱼人。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+		  </ul>",
+		  "icon": "assets/локи/Деревня Арис.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1871, 2545],
+		  "title": "未知营地",
+		  "description": "<p>未知营地。被摧毁的商队。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/НЕИЗВЕСТНЫЙ ЛАГЕРЬ.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [2064, 2448],
+		  "title": "鱼人洞穴 1B2",
+		  "description": "<p>鱼人洞穴 1B2。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#4CAF50;'>危险等级: 低(如果通过地板按钮房间)</li>\
+			  <li style='color:#64B5F6;'>墙内传来悲伤的声音</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПЕЩЕРА РЫБОЛЮДЕЙ 1B2.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2095, 2320],
+		  "title": "鱼人营地",
+		  "description": "<p>未知营地。试图弄清楚发生了什么的智慧鱼人营地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛАГЕРЬ РЫБОЛЮДЕЙ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2157, 2385],
+		  "title": "鱼人洞穴 1",
+		  "description": "<p>鱼人洞穴 1。要小心，他们躲在水坑里。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПЕЩЕРА РЫБОЛЮДЕЙ 1.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2095, 3024],
+		  "title": "海盗覆灭之地难民营地",
+		  "description": "<p>海盗覆灭之地难民营地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+			  <li style='color:#64B5F6;'>这不是地点，是触发对话的事件。</li>\
+		  </ul>",
+		  "icon": "assets/локи/КВЕСТОВЫЙ ЛАГЕРЬ ДЛЯ ПЕРЕДАЧИ ПИСЬМА.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [2152, 3028],
+		  "title": "波波",
+		  "description": "<p>波波。萝娜心爱的丈夫居住的热带雨林。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+		  </ul>",
+		  "icon": "assets/локи/БОБО.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2061, 3152],
+		  "title": "乱葬岗",
+		  "description": "<p>乱葬岗。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>这里有很多亡灵。</li>\
+		  </ul>",
+		  "icon": "assets/локи/БРАТСКАЯ МОГИЛА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [1903, 3472],
+		  "title": "沼泽营地",
+		  "description": "<p>沼泽营地。雇佣兵对抗鱼人。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛАГЕРЬ НА БОЛОТАХ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2224, 3760],
+		  "title": "鱼人洞穴 2",
+		  "description": "<p>鱼人洞穴 2。要小心，他们躲在水坑里。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПЕЩЕРА РЫБОЛЮДЕЙ 2.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2416, 3920],
+		  "title": "被劫商队",
+		  "description": "<p>被劫商队。强盗从不打瞌睡</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/РАЗГРАБЛЕННЫЙ КОНВОЙ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2576, 3504],
+		  "title": "铜矿附近废弃城镇",
+		  "description": "<p>铜矿附近废弃城镇。坏家伙的集合点。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЗАБРОШЕННЫЙ ГОРОД У МЕДНОЙ ШАХТЫ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2544, 3184],
+		  "title": "兽人洞穴 4",
+		  "description": "<p>兽人洞穴。几个可供袭击的兽人洞穴之一</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+			  <li style='color:#64B5F6;'>地点非常狭窄，小心</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПЕЩЕРА ОРКОИДОВ 4.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2352, 3183],
+		  "title": "兽人森林",
+		  "description": "<p>兽人森林。绿皮们的休息地点。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛЕС ОРКОИДОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2576, 2925],
+		  "title": "海盗覆灭之地北部前哨",
+		  "description": "<p>海盗覆灭之地北部前哨。他们守卫沼泽免受畸变体的攻击。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/СЕВЕРНЫЙ ФОРПОСТ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2416, 2224],
+		  "title": "狂战士墓穴",
+		  "description": "<p>狂战士墓穴。他在等待值得的对手。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有独特武器</li>\
+		  </ul>",
+		  "icon": "assets/локи/ГРОБНИЦА БЕРСЕРКА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2990, 3056],
+		  "title": "怪物巢穴 2",
+		  "description": "<p>怪物巢穴。最好避开，除非你身上发痒。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛОГОВО ТВАРЕЙ 2.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3022, 3760],
+		  "title": "营地西部孵化场",
+		  "description": "<p>营地西部孵化场。最好避开，除非你身上发痒，但也没什么选择……</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+		  </ul>",
+		  "icon": "assets/локи/ИНКУБАТОР ЗАПАДНЫЙ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3056, 3920],
+		  "title": "西巴里斯南门营地",
+		  "description": "<p>西巴里斯南门营地。幸存者居住的废墟。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+			  <li style='color:#64B5F6;'>设有带任务的酒馆</li>\
+			  <li style='color:#64B5F6;'>设有公共马车(清理西部孵化场后)</li>\
+			  <li style='color:#64B5F6;'>设有市场(清理西部孵化场后)</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛАГЕРЬ У ЮЖНЫХ ВОРОТ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [2990, 4049],
+		  "title": "营地东部孵化场",
+		  "description": "<p>营地东部孵化场。最好避开，除非你身上发痒。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+		  </ul>",
+		  "icon": "assets/локи/ИНКУБАТОР ВОСТОЧНЫЙ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3183, 3984],
+		  "title": "炮兵阵地",
+		  "description": "<p>炮兵阵地。这里会很热闹。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/АРТИЛЛЕРИЙСКАЯ ПОЗИЦИЯ.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [3281, 3693],
+		  "title": "西巴里斯西南门谷仓",
+		  "description": "<p>西巴里斯西南门谷仓。不应信任他们。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/Амбар у Юго-Западных Ворот Сибариса.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [3310, 3792],
+		  "title": "西巴里斯西南门",
+		  "description": "<p>西巴里斯西南门。曾经繁荣之地的废墟……</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+		  </ul>",
+		  "icon": "assets/локи/Юго-Западные Ворота Сибариса.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [3436, 3956],
+		  "title": "怪物巢穴 3",
+		  "description": "<p>怪物巢穴。最好避开，除非你身上发痒。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛОГОВО ТВАРЕЙ 3.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3435, 3288],
+		  "title": "蝙蝠巢穴",
+		  "description": "<p>蝙蝠巢穴。最好避开，它们咬得很痛。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛОГОВО ЛЕТУЧИХ МЫШЕЙ-МУТАНТОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3551, 3246],
+		  "title": "桥头堡",
+		  "description": "<p>桥头堡。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+			  <li style='color:#64B5F6;'>设有带任务的酒馆</li>\
+			  <li style='color:#64B5F6;'>设有公共马车</li>\
+			  <li style='color:#64B5F6;'>设有市场</li>\
+		  </ul>",
+		  "icon": "assets/локи/ФОРТ У МОСТА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3892, 3471],
+		  "title": "陷落堡垒",
+		  "description": "<p>陷落堡垒。他们的首领在这里</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 极度危险。值得吗？</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+			  <li style='color:#64B5F6;'>首领掉落的独特战利品。</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПАВШАЯ КРЕПОСТЬ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3888, 3248],
+		  "title": "佩兰维村，猎人中转站",
+		  "description": "<p>佩兰维村，猎人中转站。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ДЕРЕВНЯ ПЕРРАНВЕЙ, ПЕРЕВАЛОЧНАЯ СТАНЦИЯ ОХОТНИКОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3855, 3126],
+		  "title": "雇佣兵营地",
+		  "description": "<p>雇佣兵营地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>首领掉落的独特战利品。</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛАГЕРЬ НАЕМНИКОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3824, 2928],
+		  "title": "南部12号粮仓，被怪物占领",
+		  "description": "<p>南部12号粮仓，被怪物占领。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/Южное Зернохранилище 12, захваченное монстрами.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [4016, 2896],
+		  "title": "海岸堡垒",
+		  "description": "<p>海岸堡垒。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+			  <li style='color:#64B5F6;'>设有带任务的酒馆</li>\
+			  <li style='color:#64B5F6;'>设有公共马车</li>\
+			  <li style='color:#64B5F6;'>设有市场</li>\
+		  </ul>",
+		  "icon": "assets/локи/ПРИБРЕЖНАЯ КРЕПОСТЬ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [3501, 2546],
+		  "title": "怪物巢穴 1",
+		  "description": "<p>怪物巢穴。最好避开，除非你身上发痒。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 危险</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛОГОВО ТВАРЕЙ 1.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [722, 3632],
+		  "title": "遗骸海岸",
+		  "description": "<p>遗骸海岸。安葬逝者的地方。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+		  </ul>",
+		  "icon": "assets/локи/БЕРЕГ ОСТАНКОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [752, 3760],
+		  "title": "荆棘神殿",
+		  "description": "<p>荆棘神殿。海洋种族的圣地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#4CAF50;'>危险等级: 危险(如果为了战利品进行袭击)</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/ХРАМ ТОРНОВ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [655, 3760],
+		  "title": "鱼人都市市场",
+		  "description": "<p>鱼人都市市场。有许多日用品。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 安全</li>\
+			  <li style='color:#64B5F6;'>设有多家商店</li>\
+		  </ul>",
+		  "icon": "assets/локи/РЫНОК РЫБОПОЛИСА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [655, 3793],
+		  "title": "鱼人都市村庄",
+		  "description": "<p>鱼人都市村庄。如果你来到这里 - 最好不要表现得坚强独立。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+			  <li style='color:#FFD700;'>如果在怀孕期间保持极低的虚弱等级 - 就不会被迫为居民服务。</li>\
+		  </ul>",
+		  "icon": "assets/локи/ДЕРЕВНЯ РЫБОПОЛИСА.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [721, 3858],
+		  "title": "嘎吱蟹陶罐店",
+		  "description": "<p>嘎吱蟹陶罐店。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+		  </ul>",
+		  "icon": "assets/локи/Магазин горшков Красти Краба.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [534, 3954],
+		  "title": "逃亡女奴营地",
+		  "description": "<p>逃亡女奴营地。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 低</li>\
+			  <li style='color:#64B5F6;'>她们的死亡值得吗？</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЛАГЕРЬ БЕГЛЫХ РАБОВ.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [655, 3988],
+		  "title": "丰饶圣地",
+		  "description": "<p>丰饶圣地。女神应该居住在这里，但为什么取而代之的只有一个愚蠢的巨乳荡妇？</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>有带战利品的宝箱</li>\
+		  </ul>",
+		  "icon": "assets/локи/СВЯТИЛИЩЕ ПЛОДОРОДИЯ.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [752, 4016],
+		  "title": "失落神殿",
+		  "description": "<p>失落神殿。充满了雌性鱼人。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+		  </ul>",
+		  "icon": "assets/локи/ЗАТЕРЯННЫЙ ХРАМ.png",
+		  "type": "quest"
+		},
+		{
+		  "coords": [818, 4080],
+		  "title": "水道",
+		  "description": "<p>水道。“机会！它不是工资，不是预付款，它只出现一次，命运在敲门，而你 - 不在家！”</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 中等</li>\
+			  <li style='color:#64B5F6;'>有逃离岛屿的木筏</li>\
+		  </ul>",
+		  "icon": "assets/локи/ВОДНЫЙ ПУТЬ.png",
+		  "type": "regular"
+		},
+		{
+		  "coords": [400, 2257],
+		  "title": "善良之岛",
+		  "description": "<p>善良之岛。你能到达的最好的地方。</p>\
+		  <ul>\
+			  <li style='color:#4CAF50;'>危险等级: 绝对安全</li>\
+			  <li style='color:#64B5F6;'>有返回诺尔的木筏</li>\
+		  </ul>",
+		  "icon": "assets/локи/ОСТРОВ ЕБЛИ.png",
+		  "type": "regular"
+		}
+	  ],
+		"patrols": [ //y,x
+		  {
+			"coords": [1611, 1232],
+			"title": "征收者",
+			"description": "<p style='color: #cccccc;'>敌对团体“怨恨者”的危险程度取决于世界的危险等级。</p>\
+			<ul>\
+				<li style='color: #8899dd;'>0-25\
+					<ul>\
+						<li style='color: #aaaaff;'>3个持矛的怨恨者</li>\
+						<li style='color: #aaaaff;'>2个持捕人网的怨恨者</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>25-50\
+					<ul>\
+						<li style='color: #aaaaff;'>3个持矛的怨恨者</li>\
+						<li style='color: #aaaaff;'>2个持捕人网的怨恨者</li>\
+						<li style='color: #aaaaff;'>1个持棍棒的怨恨者</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>50-75\
+					<ul>\
+						<li style='color: #aaaaff;'>3个持矛的怨恨者</li>\
+						<li style='color: #aaaaff;'>2个持捕人网的怨恨者</li>\
+						<li style='color: #aaaaff;'>1个持棍棒的怨恨者</li>\
+						<li style='color: #aaaaff;'>1个持弓的怨恨者</li>\
+					</ul>\
+				</li>\
+				<li style='color: #8899dd;'>75-100\
+					<ul>\
+						<li style='color: #aaaaff;'>3个持矛的怨恨者</li>\
+						<li style='color: #aaaaff;'>2个持捕人网的怨恨者</li>\
+						<li style='color: #aaaaff;'>1个持棍棒的怨恨者</li>\
+						<li style='color: #aaaaff;'>1个持弓的怨恨者</li>\
+						<li style='color: #aaaaff;'>1个怨恨者战士</li>\
+						<li style='color: #aaaaff;'>1个怨恨者精英战士</li>\
+					</ul>\
+				</li>\
+			</ul>",
+			"icon": "assets/патрули/КОЛЛЕКТОРЫ 1.png",
+			"type": "collectors"
+		  },
+			{
+				"coords": [1707, 1008],
+				"title": "收集者",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+							<li style='color: #aaaaff;'>1个混混战士</li>\
+							<li style='color: #aaaaff;'>1个精英混混战士</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/КОЛЛЕКТОРЫ 2.png",
+				"type": "collectors"
+			},
+			{
+				"coords": [3596, 1617],
+				"title": "收集者",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+							<li style='color: #aaaaff;'>1个混混战士</li>\
+							<li style'color: #aaaaff;'>1个精英混混战士</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/КОЛЛЕКТОРЫ 3.png",
+				"type": "collectors"
+			},
+			{
+				"coords": [1518, 1136],
+				"title": "收集者",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+							<li style='color: #aaaaff;'>1个混混战士</li>\
+							<li style='color: #aaaaff;'>1个精英混混战士</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/КОЛЛЕКТОРЫ 4.png",
+				"type": "collectors"
+			},
+			{
+				"coords": [679, 3792],
+				"title": "收集者",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+							<li style='color: #aaaaff;'>1个混混战士</li>\
+							<li style='color: #aaaaff;'>1个精英混混战士</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/КОЛЛЕКТОРЫ 5.png",
+				"type": "collectors"
+			},
+			{
+				"coords": [2478, 3637],
+				"title": "强盗",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+							<li style='color: #aaaaff;'>1个混混战士</li>\
+							<li style='color: #aaaaff;'>1个精英混混战士</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/БАНДИТЫ 1.png",
+				"type": "bandits"
+			},
+			{
+				"coords": [2507, 1014],
+				"title": "强盗",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>极速赛车开奖结果记录查询官网</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>极速赛车开奖结果记录查询官网</li>\
+							<li style='color: #aaaaff;'>1个混混战士</li>\
+							<li style='color: #aaaaff;'>1个精英混混战士</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/БАНДИТЫ 2.png",
+				"type": "bandits"
+			},
+			{
+				"coords": [3405, 2000],
+				"title": "强盗",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>极速赛车开奖结果记录查询官网\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+						</ul>\
+					</li>\
+					<li style='极速赛车开奖结果记录查询官网\
+						<ul>\
+							<li style='color: #aaaaff;'>3个极速赛车开奖结果记录查询官网</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>3个拿长矛的混混</li>\
+							<li style='color: #aaaaff;'>2个拿捕人叉的混混</li>\
+							<li style='color: #aaaaff;'>1个拿棍棒的混混</li>\
+							<li style='color: #aaaaff;'>1个拿弓的混混</li>\
+							<li style='color: #aaaaff;'>1个混混战士</li>\
+							<li style='color: #aaaaff;'>1个精英混混战士</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/БАНДИТЫ 3.png",
+				"type": "bandits"
+			},
+			{
+				"coords": [2056, 1043],
+				"title": "哥布林",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>4个随机哥布林</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+						</ul>\
+					</li>\
+					<li style='极速赛车开奖结果记录查询官网\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+							<li style='color: #aaaaff;'>1个随机大地精</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+							<li style='color: #aaaaff;'>1个随机大地精</li>\
+							<li style='color: #aaaaff;'>1个随机兽人</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/ГОБЛИНЫ 1.png",
+				"type": "orcs"
+			},
+			{
+				"coords": [2798, 1329],
+				"title": "哥布林",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>4个随机哥布林</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #极速赛车开奖结果记录查询官网aff;'>5个随机哥布林</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+							<li style='color: #aaaaff;'>1个随机大地精</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+							<li style='color: #aaaaff;'>1个随机大地精</li>\
+							<li style='color: #aaaaff;'>1个随机兽人</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/ГОБЛИНЫ 2.png",
+				"type": "orcs"
+			},
+			{
+				"coords": [2830, 1713],
+				"title": "哥布林",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>4个随机哥布林</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899极速赛车开奖结果记录查询官网\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+							<li style='color: #aaaaff;'>1个随机大地精</li>\
+						</极速赛车开奖结果记录查询官网\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+							<li style='color: #aaaaff;'>1个随机大地精</li>\
+							<li style='color: #aaaaff;'>1个随机兽人</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/ГОБЛИНЫ 3.png",
+				"type": "orcs"
+			},
+			{
+				"coords": [1936, 1520],
+				"title": "哥布林",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>4个随机哥布林</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+							<li style='color: #aaaaff;'>1个随机大地精</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>5个随机哥布林</li>\
+							<li style='color: #aaaaff;'>1个极速赛车开奖结果记录查询官网精</li>\
+							<li style='color: #aaaaff;'>1个随机兽人</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/ГОБЛИНЫ 4.png",
+				"type": "orcs"
+			},
+			{
+				"coords": [3090, 3024],
+				"title": "畸变体管理者",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>2个蜘蛛形畸变体</li>\
+							<li style='color: #aaaaff;'>2个僵尸</li>\
+							<li style='color: #aaaaff;'>1个蝎形畸变体</极速赛车开奖结果记录查询官网\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>3个蜘蛛形畸变体</li>\
+							<li style='color: #aaaaff;'>2个僵尸</li>\
+							<li style='color: #aaaaff;'>2个蝎形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>3个蜘蛛形畸变体</li>\
+							<li style='color: #aaaaff;'>2个僵尸</li>\
+							<li style='color: #aaaaff;'>2个蝎形畸变体</li>\
+							<li style='color: #aaaaff;'>1个畸变体管理者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>3个蜘蛛形畸变体</li>\
+							<li style='color: #aaaaff;'>3个僵尸</极速赛车开奖结果记录查询官网\
+							<li style='color: #aaaaff;'>2个蝎形畸变体</li>\
+							<li style='color: #aaaaff;'>2个畸变体管理者</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/АБОМИНАЦИИ 1.png",
+				"type": "abominations"
+			},
+			{
+				"coords": [3669, 2868],
+				"title": "畸变体管理者",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>2个蜘蛛形畸变体</li>\
+							<li style='color: #aaaaff;'>2个僵尸</li>\
+							<li style='color: #aaaaff;'>1个蝎形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-极速赛车开奖结果记录查询官网\
+						<ul>\
+							<li style='color: #aaaaff;'>3个蜘蛛形畸变体</li>\
+							<li style='color: #aaaaff;'>2个僵尸</li>\
+							<li style='color: #aaaaff;'>2个蝎形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>3个蜘蛛形畸变体</li>\
+							<li style='color: #aaaaff;'>2个僵尸</li>\
+							<li style='color: #aaaaff;'>2个蝎形畸变体</li>\
+							<li style='color: #aaaaff;'>1个畸变体管理者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>3个蜘蛛形畸变体</li>\
+							<li style='color: #aaaaff;'>3个僵尸</li>\
+							<li style='color: #aaaaff;'>2个蝎形畸变体</li>\
+							<li style='color: #aaaaff;'>2个畸变体管理者</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/АБОМИНАЦИИ 2.png",
+				"type": "abominations"
+			},
+			{
+				"coords": [3056, 3730],
+				"title": "蜘蛛形畸变体",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</极速赛车开奖结果记录查询官网\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>5个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>6个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>8个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>10个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/АБОМИНАЦИИ ПАУКИ 2.png",
+				"type": "abominations"
+			},
+			{
+				"coords": [2800, 3859],
+				"title": "蜘蛛形畸变体",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>5个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>6个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>8个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>10个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/АБОМИНАЦИИ ПАУКИ 2.png",
+				"type": "abominations"
+			},
+			{
+				"coords": [3600, 2515],
+				"title": "蜘蛛形畸变体",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>5个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='极速赛车开奖结果记录查询官网aff;'>6个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>8个蜘蛛形畸变体</极速赛车开奖结果记录查询官网\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>10个蜘蛛形畸变体</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/АБОМИНАЦИИ ПАУКИ 3.png",
+				"type": "abominations"
+			},
+			{
+				"coords": [2920, 3287],
+				"title": "猎犬畸变体",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-29\
+						<ul>\
+							<li style='color: #aaaaff;'>4个猎犬畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>30-59\
+						<ul>\
+							<li style='color: #aaaaff;'>6个猎犬畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>60-89\
+						<ul>\
+							<li style='color: #aaaaff;'>8个猎犬畸变体</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>89-100\
+						<ul>\
+							<li style='color: #aaaaff;'>10个猎犬畸变体</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/АБОМИНАЦИИ СОБАКИ 1.png",
+				"type": "abominations"
+			},
+			{
+				"coords": [1935, 2288],
+				"title": "鱼人",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</极速赛车开奖结果记录查询官网\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='极速赛车开奖结果记录查询官网aff;'>1个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>1个深潜肥仔</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>2个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>2个深潜肥仔</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/РЫБЫ 1.png",
+				"type": "fishmen"
+			},
+			{
+				"coords": [1876, 2669],
+				"title": "鱼人",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>1个深潜肥仔</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>2个持矛深潜者</极速赛车开奖结果记录查询官网\
+							<li style='color: #aaaaff;'>2个深潜肥仔</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/РЫБЫ 2.png",
+				"type": "极速赛车开奖结果记录查询官网"
+			},
+			{
+				"coords": [2480, 2544],
+				"title": "鱼人",
+				"description": "<p style='极速赛车开奖结果记录查询官网cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>2个极速赛车开奖结果记录查询官网行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+						极速赛车开奖结果记录查询官网 style='color: #aaaaff;'>1个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>1个深潜肥仔</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>2个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>2个深潜肥仔</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/РЫБЫ 3.png",
+				"type": "fishmen"
+			},
+			{
+				"coords": [1870, 3218],
+				"title": "鱼人",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>1个深潜肥仔</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>2个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>2个深潜肥仔</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/РЫБЫ 4.png",
+				"type": "fishmen"
+			},
+			{
+				"coords": [2090, 3763],
+				"title": "鱼人",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>1个深潜肥仔</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>75-100\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</极速赛车开奖结果记录查询官网\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>2个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>2个深潜肥仔</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/РЫБЫ 5.png",
+				"type": "fishmen"
+			},
+			{
+				"coords": [1641, 2485],
+				"title": "鱼人",
+				"description": "<p style='color: #cccccc;'>敌对团伙的危险程度取决于世界的危险等级。</p>\
+				<ul>\
+					<li style='color: #8899dd;'>0-25\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>25-50\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>50-75\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>1个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>1个深潜肥仔</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>极速赛车开奖结果记录查询官网\
+						<ul>\
+							<li style='color: #aaaaff;'>2个深潜爬行者</li>\
+							<li style='color: #aaaaff;'>2个深潜者</li>\
+							<li style='color: #aaaaff;'>2个持矛深潜者</li>\
+							<li style='color: #aaaaff;'>2个深潜肥仔</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/патрули/РЫБЫ 6.png",
+				"type": "fishmen"
+			}
+		],
+		"regions": [ //x,y
+			{
+				"coords": [1120, 1616],
+				"title": "诺尔镇街道",
+				"description": "<p style='color: #cccccc;'>诺尔镇街道。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>2.5 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 强盗团伙</li>\
+								<li style='color: #993333;'>2: 征收者</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 诺尔守卫</li>\
+								<li style='color: #339966;'>2: 流浪者团体</li>\
+								<li style='color: #339966;'>3: 传教士</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 娼妓: 3 个位置</li>\
+								<li style='color: #aaaaff;'>2: 房屋: 1 个位置</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/22(УЛИЦЫ НОЭРА).png",
+				"type": "22",
+				"width": 384,
+				"height": 288
+			},
+			{
+				"coords": [1136, 1712],
+				"title": "道路",
+				"description": "<p style='color: #cccccc;'>道路。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 类人兽团伙</li>\
+								<li style='color: #993333;'>2: 狼群</li>\
+								<li style='color: #993333;'>3: 亡灵团伙</li>\
+								<li style='color: #993333;'>4: 强盗团伙</li>\
+								<li style='color: #993333;'>5: 征收者团伙</li>\
+								<li style='color: #993333;'>6: 马车伏击</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 被遗弃的马车</li>\
+								<li style='color: #339966;'>2: 难民营地</li>\
+								<li style='color: #339966;'>3: 带有护送任务的难民营地</li>\
+								<li style='color: #339966;'>4: 诺尔守卫</li>\
+								<li style='color: #339966;'>5: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aa4444;'>无</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/11(ДОРОГА НА СКЛОН РОСЕНДО).png",
+				"type": "11",
+				"width": 32,
+				"height": 32
+			},
+			{
+				"coords": [1136, 1776],
+				"title": "罗森多山坡",
+				"description": "<p style='color: #cccccc;'>罗森多山坡。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3 耐力</span></极速赛车开奖结果记录查询官网\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #44aa44;'>无</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 守卫巡逻队</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 娼妓: 3 个位置</li>\
+								<li style='color: #aaaaff;'>2: 房屋: 5 个位置</li>\
+								<li style='color: #aaaaff;'>3: 水井: 1 个位置</极速赛车开奖结果记录查询官网\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/12(СКЛОН РОСЕНДО).png",
+				"type": "12",
+				"width": 96,
+				"height": 96
+			},
+			{
+				"coords": [2432, 2544],
+				"title": "针叶林",
+				"description": "<p style='color: #cccccc;'>针叶林。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>10 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 类人兽团伙</li>\
+								<li style='color: #993333;'>2: 狼群</li>\
+								<li style='color: #993333;'>3: 亡灵团伙</li>\
+								<li style='color: #993333;'>4: 强盗团伙</li>\
+								<li style='color: #993333;'>5: 马车伏击</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>极速赛车开奖结果记录查询官网遗弃的马车</li>\
+								<li style='color: #339966;'>2: 难民营地</li>\
+								<li style='color: #339966;'>3: 带有护送任务的难民营地</li>\
+								<li style='color: #339966;'>4: 诺尔守卫</极速赛车开奖结果记录查询官网\
+								<li style='color: #339966;'>5: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多 2 只狼 (如果投币(100) 2次 >= 50)</li>\
+								<li style='color: #aaaaff;'>2: 最多 3 个亡灵陷阱 (如果投币(100) 3次 >= 50)</li>\
+								<li style='color: #aaaaff;'>3: 最多 24 棵树 (通常更少/约10)</li>\
+								<li style='color: #aaaaff;'>此后上限 = 1 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>4: 最多 6 个蘑菇 (如果投币(50) 4次 <= 上限则大于2)</li>\
+								<li style='color: #aaaaff;'>5: 最多 3 个坚果 (1:投币(50)<= 上限; 2:投币(75)<= 上限; 3:投币(100)<= 上限)</li>\
+								<li style='color: #aaaaff;'>6: 最多 3 个桐花 (1:投币(10)<= 上限; 2:投币(50)<= 上限; 3:投币(70)<= 上限)</li>\
+								<li style='color: #aaaaff;'>7: 最多 3 个带昆虫的石头 (1:投币(25)<= 上限; 2:投币(50)<= 上限; 3:投币(75)<= 上限)</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/5(ХВОЙНЫЙ ЛЕС).png",
+				"type": "5",
+				"width": 3200,
+				"height": 1632
+			},
+			{
+				"coords": [1872, 2512],
+				"title": "热带雨林",
+				"description": "<p style='color: #cccccc;'>热带雨林。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>10 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 类人兽团伙</li>\
+								<li style='color: #993333;>2: 狼群</li>\
+								<li style='color: #993333;'>3: 亡灵团伙</li>\
+								<li style='color: #993333;'>4: 强盗团伙</li>\
+								<li style='color: #993333;'>5: 马车伏击</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 被遗弃的马车</li>\
+								<li style='color: #339966;'>2: 难民营地</li>\
+								<li style='color: #339966;'>3: 带有护送任务的难民营地</li>\
+								<li style='color: #339966;'>4: 诺尔守卫</li>\
+								<li style='color: #339966;'>5: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多 2 头野猪 (如果投币(100) 2次 >= 50)</li>\
+								<li style='color: #aaaaff;'>2: 最多 3 串葡萄 (如果投币(100) 2次 >= 50则大于1)</li>\
+								<li style='color: #aaaaff;'>3: 最多 3 份蓝莓 (如果投币(100) 2次 >= 50则大于1)</极速赛车开奖结果记录查询官网\
+								<li style='color: #aaaaff;'>4: 最多 11 棵树 (通常更少)</li>\
+								<li style='color: #aaaaff;'>此后上限 = 1 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>5: 最多 3 个番茄 (1:投币(10)<= 上限; 2:投币(50)<= 上限; 3:投币(70)<= 上限)</li>\
+								<li style='color: #aaaaff;'>6: 最多 3 棵香蕉树 (1:投币(100)<= 50; 2:投币(50)<= 上限; 3:投币(70)<= 上限)</li>\
+								<li style='color: #aaaaff;'>7: 最多 3 株白龙草 (1:总是; 2:上限<= 投币(50); 3:上限<= 投币(50))</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/4(ТРОПИЧЕСКИЙ ЛЕС).png",
+				"type": "4",
+				"width": 2528,
+				"height": 2208
+			},
+			{
+				"coords": [2384, 2560],
+				"title": "山脉",
+				"description": "<p style='color: #cccccc;'>山脉。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>12.5 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 类人兽团伙</li>\
+								<li style='color: #993333;'>2: 狼群</li>\
+								<li style='color: #993333;'>3: 亡灵团伙</li>\
+								<li style='color: #993333;'>4: 强盗团伙</li>\
+								<li style='color: #993333;'>5: 马车伏击</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 被遗弃的马车</li>\
+								<li style='color: #339966;'>2: 难民营地</li>\
+								<li style='color: #339966;'>3: 带有护送任务的难民营地</li>\
+								<li style='color: #339966;'>4: 诺尔守卫</li>\
+								<li style='color: #339966;'>5: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多 2 只狼 (如果投币(100) 2次 >= 50)</li>\
+								<li style='color: #aaaaff;'>1: 最多 1 头野猪 (如果投币(100) >= 50)</li>\
+								<li style='color: #aaaaff;'>2: 最多 3 个亡灵陷阱 (如果投币(100) 3次 >= 50)</li>\
+								<li style='color: #aaaaff;'>4: 最多 7 棵树 (通常更少)</li>\
+								<li style='color: #aaaaff;'>此后上限 = 1 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>5: 最多 6 个随机蔬菜 (2:总是; 4:投币(50)<= 上限; 6:投币(75)<= 上限)</li>\
+								<li style='color: #aaaaff;'>6: 最多 3 个龙根 (1:投币(极速赛车开奖结果记录查询官网)<= 上限; 2:投币(50)<= 上限; 3:投币(70)<= 上限)</li>\
+								<li style='color: #aaaaff;'>7: 最多 4 个磷矿 (1:总是; 2:上限>= 投币(25); 3:上限>= 投币(50); 4:上限>= 投币(70))</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/7(ГОРА).png",
+				"type": "7",
+				"width": 3488,
+				"height": 2304
+			},
+			{
+				"coords": [1008, 1600],
+				"title": "诺尔镇区",
+				"description": "<p style='color: #cccccc;'>诺尔镇街道。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>2.5 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 强盗团伙</li>\
+								<li style='color: #993333;'>2: 征收者</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 诺尔守卫</li>\
+								<li style='color: #339966;'>2: 流浪者团体</li>\
+								<li style='color: #339966;'>3: 传教士</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 娼妓: 3 个位置</li>\
+								<li style='color: #aaaaff;'>2: 房屋: 4 个位置</li>\
+								<li style='color: #aaaaff;'>3: 水井: 2 个位置</li>\
+								<li style='color: #aaaaff;'>4: 破布: 1 个位置</极速赛车开奖结果记录查询官网\
+								<li style='color: #aaaaff;'>此后上限 = 30 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>此后上限2 = 1 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>5: 最多 2 堆垃圾 (1:上限>= 投币(100); 2:上限2>= 投币(100))</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/21(РАЙОНЫ НОЭРТАУНА).png",
+				"type": "21",
+				"width": 544,
+				"height": 256
+			},
+			{
+				"coords": [1904, 2608],
+				"title": "主干道",
+				"description": "<p style='color: #cccccc;'>主干道。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='#ffaa00;'>2.5 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>极速赛车开奖结果记录查询官网: 强盗团伙</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 难民营地</极速赛车开奖结果记录查询官网\
+								<li style='color: #339966;'>2: 诺尔守卫</li>\
+								<li style='color: #339966;'>3: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='#aa4444;'>无</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/23(ГЛАВНАЯ ДОРОГА).png",
+				"type": "23",
+				"width": 2336,
+				"height": 2016
+			},
+			{
+				"coords": [2592, 2704],
+				"title": "道路",
+				"description": "<p style='color: #cccccc;'>道路。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 类人兽团伙</li>\
+								<li style='color: #993333;'>2: 狼群</li>\
+								<li style='color: #993333;'>3: 亡灵团伙</li>\
+								<li style='color: #993333;'>4: 强盗团伙</li>\
+								<li style='color: #993333;'>5: 征收者</li>\
+								<li style='color: #993333;'>6: 马车伏击</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面极速赛车开奖结果记录查询官网\
+							<ul>\
+								<li style='color: #339966;'>1: 难民营地</li>\
+								<li style='color: #339966;'>2: 诺尔守卫</li>\
+								<li style='color: #339966;'>3: 遭受强盗攻击的难民</li>\
+								<li style='color: #339966;'>4: 带有护送任务的难民营地</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aa4444;'>无</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/11(ДОРОГА).png",
+				"type": "11",
+				"width": 3008,
+				"height": 2016
+			},
+			{
+				"coords": [2176, 2528],
+				"title": "废弃房屋",
+				"description": "<p style='color: #cccccc;'>废弃房屋。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>4 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 类人兽团伙</li>\
+								<li style='color: #993333;'>2: 狼群</li>\
+								<li style='color: #993333;'>3: 亡灵团伙</li>\
+								<li style='color: #993333;'>4: 强盗团伙</li>\
+								<li style='color: #993333;'>5: 马车伏击</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 被遗弃的马车</li>\
+								<li style='color: #339966;'>2: 难民营地</li>\
+								<li style='color: #339966;'>3: 带有护送任务的难民营地</li>\
+								<li style='color: #339966;'>4: 诺尔守卫</li>\
+								<li style='color: #339966;'>5: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 娼妓: 最多 3 个位置</li>\
+								<li style='color: #aaaaff;'>此后上限 = 50 + 智慧 + 2 * 生存技能</极速赛车开奖结果记录查询官网\
+								<li style='color: #aaaaff;'>2: 老鼠 (1:投币(100)> 上限)</li>\
+								<li style='color: #aaaaff;'>3: 蟑螂 (1:投币(100)> 上限)</li>\
+								<li style='color: #aaaaff;'>4: 流浪汉 (1:投币(100)>= 50)</li>\
+								<li style='color: #aaaaff;'>5: 哥布林流浪汉 (1:投币(100)>= 50)</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/9(ЗАБРОШЕННЫЙ ДОМ).png",
+				"type": "9",
+				"width": 2752,
+				"height": 1920
+			},
+			{
+				"coords": [2032, 2768],
+				"title": "难民营地",
+				"description": "<p style='color: #cccccc;'>难民营地。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3.5 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 强盗团伙</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 诺尔守卫</li>\
+								<li style='color: #339966;'>2: 流浪者团体</li>\
+								<li style='color: #339966;'>3: 传教士</li>\
+								<li style='color: #339966;'>4: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 娼妓: 3 个位置</li>\
+								<li style='color: #aaaaff;'>此后上限 = 50 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>2: 老鼠 (1:投币(100)> 上限)</li>\
+								<li style='color: #aaaaff;'>3: 蟑螂 (1:投币(100)> 上限)</li>\
+								<li style='color: #aaaaff;'>4: 破布: 1 个位置</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/20(ЛАГЕРЬ БЕЖЕНЦЕВ).png",
+				"type": "20",
+				"width": 2016,
+				"height": 2528
+			},
+			{
+				"coords": [1392, 2576],
+				"title": "贫民窟",
+				"description": "<p style='color: #cccccc;'>贫民窟。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3.5 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 强盗团伙</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 诺尔守卫</li>\
+								<li style='color: #339966;'>2: 流浪者团体</li>\
+								<li style='color: #339966;'>3: 传教士</li>\
+								<li style='color: #339966;'>4: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 娼妓: 3 个位置</li>\
+								<li style='color: #aaaaff;'>此后上限 = 50 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>2: 2 只老鼠 (1:投币(100)> 上限; 2:投币(100)> 上限)</li>\
+								<li style='color: #aaaaff;'>3: 2 只蟑螂 (1:投币(100)> 上限; 2:投币(100)> 上限)</li>\
+								<li style='color: #aaaaff;'>4: 破布: 1 个位置</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/10(ТРУЩОБЫ).png",
+				"type": "10",
+				"width": 1312,
+				"height": 2144
+			},
+			{
+				"coords": [2336, 2768],
+				"title": "诺尔海岸",
+				"description": "<p style='color: #cccccc;'>诺尔海岸。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 类人兽团伙</li>\
+								<li style='color: #993333;'>2: 海浪</li>\
+								<li style='color: #993333;'>3: 强盗团伙</li>\
+								<li style='color: #993333;'>4: 马车伏击</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 被遗弃的马车</li>\
+								<li style='color: #339966;'>2: 难民营地</li>\
+								<li style='color: #339966;'>3: 带有护送任务的难民营地</li>\
+								<li style='color: #339966;'>4: 诺尔守卫</li>\
+								<li style='color: #339966;'>5: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多 8 棵树 (通常更少)</极速赛车开奖结果记录查询官网\
+								<li style='color: #aaaaff;'>此后上限 = 1 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>2: 最多 9 条鱼 (3:总是; 6:投币(50) 3次<= 上限; 9:投币(50) 6次<= 上限)</li>\
+								<li style='color: #aaaaff;'>3: 最多 3 个坚果 (1:投币(50)<= 上限; 2:投币(75)<= 上限; 3:投币(100)<= 上限)</li>\
+								<li style='color: #aaaaff;'>4: 最多 3 只螃蟹 (1:投币(50)<= 上限; 2:投币(75)<= 上限)</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/2(БЕРЕГ НОЭРА).png",
+				"type": "2",
+				"width": 3200,
+				"height": 2592
+			},
+			{
+				"coords": [2352, 2592],
+				"title": "田野",
+				"description": "<p style='color: #cccccc;'>田野。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>5 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 类人兽团伙</li>\
+								<li style='color: #993333;'>2: 狼群</li>\
+								<li style='color: #993333;'>3: 亡灵团伙</li>\
+								<li style='color: #993333;'>4: 强盗团伙</li>\
+								<li style='color: #993333;'>5: 马车伏击</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 被遗弃的马车</li>\
+								<li style='color: #339966;'>2: 难民营地</li>\
+								<li style='color: #339966;'>3: 带有护送极速赛车开奖结果记录查询官网的难民营地</li>\
+								<li style='color: #339966;'>4: 诺尔守卫</li>\
+								<li style='color: #339966;'>5: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899极速赛车开奖结果记录查询官网区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多 2 只兔子 (如果投币(100) 2次 >= 80)</li>\
+								<li style='color: #aaaaff;'>此后上限 = 1 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>2: 最多 3 个带昆虫的石头 (1:投币(25)<= 上限; 2:投币(50)<= 上限; 3:投币(75)<= 极速赛车开奖结果记录查询官网)</li>\
+								<li style='color: #aaaaff;'>3: 最多 6 个随机蔬菜 (1:投币(25)<= 上限; 2:投币(50)<= 上限; 3:投币(75)<= 上限)</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/1(ПОЛЕ).png",
+				"type": "1",
+				"width": 3296,
+				"height": 2176
+			},
+			{
+				"coords": [3072, 2096],
+				"title": "诺尔沼泽小径",
+				"description": "<p style='color: #cccccc;'>诺尔沼泽小径。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3.5 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 类人兽团伙</li>\
+								<li style='color: #993333;'>2: 深潜者团伙</li>\
+								<li style='color: #993333;'>极速赛车开奖结果记录查询官网: 征收者</li>\
+								<li style='color: #993333;'>4: 强盗团伙</li>\
+								<li style='color: #993333;'>: 马车伏击</极速赛车开奖结果记录查询官网\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 被遗弃的马车</li>\
+								<li style='color: #339966;'>2: 难民营地</li>\
+								<li style='color: #339966;'>3: 带有护送任务的难民营地</li>\
+								<li style='color: #339966;'>极速赛车开奖结果记录查询官网: 诺尔守卫</li>\
+								<li style='color: #339966;'>5: 遭受强盗攻击的难民</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多 4 棵树</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/13(БОЛОТНАЯ ТРОПА НОЭРА).png",
+				"type": "13",
+				"width": 1792,
+				"height": 800
+			},
+			{
+				"coords": [3760, 704],
+				"title": "鱼人岛沼泽小径",
+				"description": "<p style='color: #cccccc;'>鱼人岛沼泽小径。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3.5 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 深潜者团伙</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 鱼都守卫</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='aaaaff;'>1: 最多 4 棵树</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/24(БОЛОТНАЯ ТРОПА ОСТРОВА РЫБ).png",
+				"type": "24",
+				"width": 224,
+				"height": 128
+			},
+			{
+				"coords": [2992, 2112],
+				"title": "诺尔沼泽",
+				"description": "<p style='color: #cccccc;'>诺尔沼泽。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>极速赛车开奖结果记录查询官网移动消耗: <span style='color: #ffaa00;'>11 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 深潜者团伙</li>\
+								<li style='color: #993333;'>2: 类人兽团伙</极速赛车开奖结果记录查询官网\
+								<li style='color: #993333;'>3: 亡灵团伙</li>\
+								<li style='color: #993333;'>4: 狼群</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #aa4444;'>无</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多 2 只狼 (如果投币(100) 2次 >= 50)</li>\
+								<li style='color: #aaaaff;'>2: 最多 2 头野猪 (如果投币(100) 2次 >= 50)</li>\
+								<li style='color: #aaaaff;'>2: 最多 3 个潜伏的深潜者</li>\
+								<li style='color: #aaaaff;'>3: 最多 15 棵树 (通常更少)</li>\
+								<li style='color: #aaaaff;'>此后上限 = 1 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>4: 最多 15 条鱼 (7:总是; 9:投币(25)<= 上限; 12:投币(50)<= 上限; 15:投币(75)<= 上限)</li>\
+								<li style='color: #aaaaff;'>5: 最多 3 个蘑菇 (如果投币(50) 2次 <= 上限)</li>\
+								<li style='color: #aaaaff;'>6: 最多 3 份蓝莓 (如果投币(50) 2次 <= 上限)</极速赛车开奖结果记录查询官网\
+								<li style='color: #aaaaff;'>7: 最多 3 个番茄 (1:投币(10)<= 上限; 2:投币(50)<= 上限; 3:投币(70)<= 上限)</li>\
+								<li style='color: #aaaaff;'>8: 最多 3 株苦草 (1:投币(50)<= 上限; 2:极速赛车开奖结果记录查询官网)<= 上限; 3:投币(80)<= 上限)</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/8(БОЛОТО НОЭРА).png",
+				"type": "8",
+				"width": 1696,
+				"height": 1088
+			},
+			{
+				"coords": [2928, 2112],
+				"title": "诺尔泥潭",
+				"description": "<p style='color: #cccccc;'>诺尔泥潭。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>7 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 深潜者团伙</li>\
+								<li style='color: #993333;'>2: 类人兽团伙</li>\
+								<li style='color: #993333;'>3: 亡灵团伙</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #aa4444;'>无</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多 5 个潜伏的深潜者</li>\
+								<li style='color: #aaaaff;'>2: 最多 4 棵树 (通常更少)</li>\
+								<li style='color: #aaaaff;'>此后上限 = 1 + 智慧 + 2 * 生存技能</li>\
+								<li style='color: #aaaaff;'>3: 最多 10 条鱼 (7:总是; 8:投币(25)<= 上限; 9:投币(50)<= 上限; 10:投币(75)<= 上限)</li>\
+								<li style='color: #aaaaff;'>4: 最多 3 个番茄 (1:投币(10)<= 上限; 2:投币(50)<= 上限; 3:投币(70)<= 上限)</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/15(ТОПИ НОЭРА).png",
+				"type": "15",
+				"width": 1888,
+				"height": 960
+			},
+			{
+				"coords": [3904, 640],
+				"title": "鱼岛沼泽",
+				"description": "<p style='color: #cccccc;'>鱼岛沼泽.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>7 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 深潜者小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #339966;'>1: 鱼都守卫</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 最多5名潜伏的深潜者</li>\
+							<li style='color: #aaaaff;'>2: 最多4棵树(通常更少)</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>3: 最多10条鱼(7:必定; 8:硬币(25)<= 上限; 9:硬币(50)<= 上限; 10:硬币(75)<= 上限)</li>\
+							<li style='color: #aaaaff;'>4: 最多3个番茄(1:硬币(10)<= 上限; 2:硬币(50)<= 上限; 3:硬币(70)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/26(ТОПИ ОСТРОВА РЫБ).png",
+				"type": "26",
+				"width": 576,
+				"height": 320
+			},
+			{
+				"coords": [3152, 3136],
+				"title": "感染之山",
+				"description": "<p style='color: #cccccc;'>感染之山.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>12.5 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 蛛形畸变体小队</li>\
+							<li style='color: #993333;'>2: 猎犬畸变体小队</li>\
+							<li style='color: #993333;'>3: 管理者畸变体小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #aa4444;'>无</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 2个爆炸飞孢</li>\
+							<li style='color: #aaaaff;'>2: 2个飞孢</li>\
+							<li style='color: #aaaaff;'>3: 2个触手</li>\
+							<li style='color: #aaaaff;'>4: 2个孢子</li>\
+							<li style='color: #aaaaff;'>5: 2只蝙蝠</li>\
+							<li style='color: #aaaaff;'>6: 14个寄生虫</li>\
+							<li style='color: #aaaaff;'>7: 最多9棵树(通常更少)</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>8: 最多18个突变蘑菇(6:必定; 12:硬币(50)<= 上限; 18:硬币(75)<= 上限)</li>\
+							<li style='color: #aaaaff;'>9: 最多3个带虫石块(1:硬币(50)<= 上限; 2:硬币(75)<= 上限; 3:硬币(100)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/3(ЗАРАЖЕННАЯ ГОРА).png",
+				"type": "3",
+				"width": 1376,
+				"height": 896
+			},
+			{
+				"coords": [3264, 3344],
+				"title": "死寂森林",
+				"description": "<p style='color: #cccccc;'>死寂森林.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>10 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 蛛形畸变体小队</li>\
+							<li style='color: #993333;'>2: 猎犬畸变体小队</li>\
+							<li style='color: #993333;'>3: 管理者畸变体小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #aa4444;'>无</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 2个爆炸飞孢</li>\
+							<li style='color: #aaaaff;'>2: 2个飞孢</li>\
+							<li style='color: #aaaaff;'>3: 2个触手</li>\
+							<li style='color: #aaaaff;'>4: 2个孢子</li>\
+							<li style='color: #aaaaff;'>5: 2只蝙蝠</li>\
+							<li style='color: #aaaaff;'>6: 14个寄生虫</li>\
+							<li style='color: #aaaaff;'>7: 最多5棵树(通常更少)</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>8: 最多18个突变蘑菇(6:必定; 12:硬币(50)<= 上限; 18:硬币(75)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/6(МЕРТВЫЙ ЛЕС).png",
+				"type": "6",
+				"width": 1728,
+				"height": 1312
+			},
+			{
+				"coords": [3280, 3280],
+				"title": "畸变体荒原",
+				"description": "<p style='color: #cccccc;'>畸变体荒原.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>4 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 蛛形畸变体小队</li>\
+							<li style='color: #993333;'>2: 猎犬畸变体小队</li>\
+							<li style='color: #993333;'>3: 猎犬畸变体伏击</li>\
+							<li style='color: #993333;'>4: 管理者畸变体小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #339966;'>1: 被攻击的难民</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 4个爆炸飞孢</li>\
+							<li style='color: #aaaaff;'>2: 16个触手</li>\
+							<li style='color: #aaaaff;'>3: 4只蝙蝠</li>\
+							<li style='color: #aaaaff;'>4: 最多12棵树(通常更少)</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>5: 最多3个带虫石块(1:硬币(50)<= 上限; 2:硬币(75)<= 上限; 3:硬币(100)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/14(ПУСТОШИ АБОМИНАЦИЙ).png",
+				"type": "14",
+				"width": 1760,
+				"height": 1248
+			},
+			{
+				"coords": [3056, 3792],
+				"title": "兽人感染边疆",
+				"description": "<p style='color: #cccccc;'>兽人感染边疆.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>5 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 蛛形畸变体小队</li>\
+							<li style='color: #993333;'>2: 猎犬畸变体小队</li>\
+							<li style='color: #993333;'>3: 兽人骑手小队</li>\
+							<li style='color: #993333;'>4: 管理者畸变体小队</li>\
+							<li style='color: #993333;'>5: 兽人游乐场</li>\
+							<li style='color: #993333;'>6: 兽人小队</li>\
+							<li style='color: #993333;'>7: 乱葬岗伏击</li>\
+							<li style='color: #993333;'>8: 亡灵小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #339966;'>1: 难民营地</li>\
+							<li style='color: #339966;'>2: 乱葬岗</li>\
+							<li style='color: #339966;'>3: 被攻击的难民</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 最多4棵树(通常更少)</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>2: 最多3个带虫石块(1:硬币(50)<= 上限; 2:硬币(75)<= 上限; 3:硬币(100)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/28(ЗАРАЖЕННЫЙ КРАЙ ОРКОВ).png",
+				"type": "28",
+				"width": 416,
+				"height": 544
+			},
+			{
+				"coords": [3744, 3488],
+				"title": "陷落的畸变体堡垒废墟",
+				"description": "<p style='color: #cccccc;'>陷落的畸变体堡垒废墟.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>7.5 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 蛛形畸变体小队</li>\
+							<li style='color: #993333;'>2: 猎犬畸变体小队</li>\
+							<li style='color: #993333;'>3: 猎犬畸变体伏击</li>\
+							<li style='color: #993333;'>4: 管理者畸变体小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #aa4444;'>无</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 1个触手</li>\
+							<li style='color: #aaaaff;'>2: 2个僵尸</li>\
+							<li style='color: #aaaaff;'>3: 2个僵尸躯干</li>\
+							<li style='color: #aaaaff;'>4: 4个寄生虫</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/29(РУИНЫ ПАВШЕЙ КРЕПОСТИ АБОМИНАЦИЙ).png",
+				"type": "29",
+				"width": 640,
+				"height": 512
+			},
+			{
+				"coords": [3472, 3904],
+				"title": "陷落的兽人堡垒废墟",
+				"description": "<p style='color: #cccccc;'>陷落的兽人堡垒废墟.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>7.5 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 蛛形畸变体小队</li>\
+							<li style='color: #993333;'>2: 猎犬畸变体小队</li>\
+							<li style='color: #993333;'>4: 管理者畸变体小队</li>\
+							<li style='color: #993333;'>5: 兽人游乐场</li>\
+							<li style='color: #993333;'>6: 兽人小队</li>\
+							<li style='color: #993333;'>7: 乱葬岗伏击</li>\
+							<li style='color: #993333;'>8: 亡灵小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #339966;'>1: 难民营地</li>\
+							<li style='color: #339966;'>2: 乱葬岗</li>\
+							<li style='color: #339966;'>3: 被攻击的难民</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 6具骷髅</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>2: 最多3具尸体(1:必定; 2:硬币(25)<= 上限; 3:硬币(50)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/30(РУИНЫ ПАВШЕЙ КРЕПОСТИ ОРКОВ).png",
+				"type": "30",
+				"width": 224,
+				"height": 448
+			},
+			{
+				"coords": [3456, 3760],
+				"title": "锡巴里斯街道",
+				"description": "<p style='color: #cccccc;'>锡巴里斯街道.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3.5 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 兽人游乐场</li>\
+							<li style='color: #993333;'>2: 兽人小队</li>\
+							<li style='color: #993333;'>3: 乱葬岗伏击</li>\
+							<li style='color: #993333;'>4: 亡灵小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #339966;'>1: 难民营地</li>\
+							<li style='color: #339966;'>2: 乱葬岗</li>\
+							<li style='color: #339966;'>3: 被攻击的难民</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 最多2个亡灵陷阱(如果硬币(100)>= 50)</li>\
+							<li style='color: #aaaaff;'>2: 4具骷髅</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>3: 最多4具尸体(2:必定; 4:硬币(50) 2次<= 上限)</li>\
+							<li style='color: #aaaaff;'>上限3 = 30 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>上限4 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>4: 最多4堆垃圾(2:上限>= 硬币(100); 4:上限2>= 硬币(100))</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/31(УЛИЦЫ СИБАРИСА).png",
+				"type": "31",
+				"width": 256,
+				"height": 32
+			},
+			{
+				"coords": [3312, 3776],
+				"title": "锡巴里斯小巷",
+				"description": "<p style='color: #cccccc;'>锡巴里斯小巷.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>7 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 兽人游乐场</li>\
+							<li style='color: #993333;'>2: 兽人小队</li>\
+							<li style='color: #993333;'>3: 乱葬岗伏击</li>\
+							<li style='color: #993333;'>4: 亡灵小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #339966;'>1: 难民营地</li>\
+							<li style='color: #339966;'>2: 乱葬岗</li>\
+							<li style='color: #339966;'>3: 被攻击的难民</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 最多2个亡灵陷阱(如果硬币(100)>= 50)</li>\
+							<li style='color: #aaaaff;'>2: 4具骷髅</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>3: 最多4具尸体(2:必定; 4:硬币(50) 2次<= 上限)</li>\
+							<li style='color: #aaaaff;'>上限3 = 30 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>上限4 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>4: 最多4堆垃圾(2:上限>= 硬币(100); 4:上限2>= 硬币(100))</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/32(АЛЛЕЯ СИБАРИСА).png",
+				"type": "32",
+				"width": 160,
+				"height": 448
+			},
+			{
+				"coords": [3136, 3264],
+				"title": "畸变体感染边疆",
+				"description": "<p style='color: #cccccc;'>畸变体感染边疆.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>5 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 兽人小队</li>\
+							<li style='color: #993333;'>2: 亡灵小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #aa4444;'>无</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 1个爆炸飞孢</li>\
+							<li style='color: #aaaaff;'>2: 2个飞孢</li>\
+							<li style='color: #aaaaff;'>3: 2个孢子</li>\
+							<li style='color: #aaaaff;'>4: 2只蝙蝠</li>\
+							<li style='color: #aaaaff;'>5: 8个寄生虫</li>\
+							<li style='color: #aaaaff;'>6: 最多4棵树(通常更少)</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>7: 最多3个带虫石块(1:硬币(25)<= 上限; 2:硬币(50)<= 上限; 3:硬币(75)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/16(ЗАРАЖЕННЫЙ КРАЙ АБОМИНАЦИЙ).png",
+				"type": "16",
+				"width": 1920,
+				"height": 1216
+			},
+			{
+				"coords": [3104, 3872],
+				"title": "污染之地",
+				"description": "<p style='color: #cccccc;'>污染之地.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>4 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 蛛形畸变体小队</li>\
+							<li style='color: #993333;'>2: 猎犬畸变体小队</li>\
+							<li style='color: #993333;'>3: 兽人骑手小队</li>\
+							<li style='color: #993333;'>4: 管理者畸变体小队</li>\
+							<li style='color: #993333;'>5: 兽人游乐场</li>\
+							<li style='color: #993333;'>6: 兽人小队</li>\
+							<li style='color: #993333;'>7: 乱葬岗伏击</li>\
+							<li style='color: #993333;'>8: 亡灵小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #339966;'>1: 难民营地</li>\
+							<li style='color: #339966;'>2: 乱葬岗</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 最多12棵树(通常更少)</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>2: 最多3个带虫石块(1:硬币(25)<= 上限; 2:硬币(50)<= 上限; 3:硬币(75)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/19(ЗАГРЯЗНЕННЫЕ ЗЕМЛИ).png",
+				"type": "19",
+				"width": 640,
+				"height": 640
+			},
+			{
+				"coords": [3520, 3632],
+				"title": "感染城市废墟",
+				"description": "<p style='color: #cccccc;'>感染城市废墟.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>7 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 蛛形畸变体小队</li>\
+							<li style='color: #993333;'>2: 猎犬畸变体小队</li>\
+							<li style='color: #993333;'>3: 猎犬畸变体伏击</li>\
+							<li style='color: #993333;'>4: 管理者畸变体小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #aa4444;'>无</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 2个爆炸飞孢</li>\
+							<li style='color: #aaaaff;'>2: 2个飞孢</li>\
+							<li style='color: #aaaaff;'>3: 2个触手</li>\
+							<li style='color: #aaaaff;'>4: 2个孢子</li>\
+							<li style='color: #aaaaff;'>5: 4个僵尸</li>\
+							<li style='color: #aaaaff;'>6: 10个寄生虫</li>\
+							<li style='color: #aaaaff;'>7: 最多5棵树(通常更少)</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>8: 最多3个带虫石块(1:硬币(25)<= 上限; 2:硬币(50)<= 上限; 3:硬币(75)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/18(РУИНЫ ЗАРАЖЕННОГО ГОРОДА).png",
+				"type": "18",
+				"width": 1216,
+				"height": 736
+			},
+			{
+				"coords": [3664, 3392],
+				"title": "污染之路",
+				"description": "<p style='color: #cccccc;'>污染之路.</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>5 耐力</span></li>\
+					<li style='color: #aa4444;'>负面事件:\
+						<ul>\
+							<li style='color: #993333;'>1: 蛛形畸变体小队</li>\
+							<li style='color: #993333;'>2: 猎犬畸变体小队</li>\
+							<li style='color: #993333;'>3: 猎犬畸变体伏击</li>\
+							<li style='color: #993333;'>4: 管理者畸变体小队</li>\
+						</ul>\
+					</li>\
+					<li style='color: #44aa44;'>正面事件:\
+						<ul>\
+							<li style='color: #aa4444;'>无</li>\
+						</ul>\
+					</li>\
+					<li style='color: #8899dd;'>区域资源:\
+						<ul>\
+							<li style='color: #aaaaff;'>1: 1个爆炸飞孢</li>\
+							<li style='color: #aaaaff;'>2: 1个飞孢</li>\
+							<li style='color: #aaaaff;'>4: 1个孢子</li>\
+							<li style='color: #aaaaff;'>5: 3个僵尸</li>\
+							<li style='color: #aaaaff;'>6: 4个寄生虫</li>\
+							<li style='color: #aaaaff;'>上限 = 1 + 智慧 + 2 * 生存</li>\
+							<li style='color: #aaaaff;'>7: 最多3个带虫石块(1:硬币(25)<= 上限; 2:硬币(50)<= 上限; 3:硬币(75)<= 上限)</li>\
+						</ul>\
+					</li>\
+				</ul>",
+				"icon": "assets/регионы/17(ЗАГРЯЗНЕННАЯ ДОРОГА).png",
+				"type": "17",
+				"width": 864,
+				"height": 384
+			},
+			{
+				"coords": [3904, 608],
+				"title": "鱼岛海岸",
+				"description": "<p style='color: #cccccc;'>鱼岛海岸。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>3 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 深潜者小队</li>\
+								<li style='color: #993333;'>2: 海浪</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 鱼都守卫</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多8棵树(通常更少)</li>\
+								<li style='color: #aaaaff;'>2: 最多4个潜伏的深潜者(如果硬币(100)>=50则出现4次)</li>\
+								<li style='color: #aaaaff;'>之后上限 = 1 + 智慧 + 2 * 生存</li>\
+								<li style='color: #aaaaff;'>3: 最多9条鱼(3:总是; 6:硬币(50)投3次<=上限; 9:硬币(50)投6次<=上限)</li>\
+								<li style='color: #aaaaff;'>4: 最多3个坚果(1:硬币(50)<=上限; 2:硬币(75)<=上限; 3:硬币(100)<=上限)</li>\
+								<li style='color: #aaaaff;'>5: 最多3只螃蟹(1:硬币(50)<=上限; 2:硬币(75)<=上限)</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/27(БЕРЕГ ОСТРОВА РЫБ).png",
+				"type": "27",
+				"width": 640,
+				"height": 320
+			},
+			{
+				"coords": [3888, 688],
+				"title": "鱼岛沼泽",
+				"description": "<p style='color: #cccccc;'>鱼岛沼泽。</p>\
+				<ul>\
+					<li style='color: #8899aa;'>移动消耗: <span style='color: #ffaa00;'>11 耐力</span></li>\
+						<li style='color: #aa4444;'>负面事件:\
+							<ul>\
+								<li style='color: #993333;'>1: 深潜者小队</li>\
+							</ul>\
+						</li>\
+						<li style='color: #44aa44;'>正面事件:\
+							<ul>\
+								<li style='color: #339966;'>1: 鱼都守卫</li>\
+							</ul>\
+						</li>\
+						<li style='color: #8899dd;'>区域资源:\
+							<ul>\
+								<li style='color: #aaaaff;'>1: 最多2只狼(如果硬币(100)投2次>=50)</li>\
+								<li style='color: #aaaaff;'>2: 最多2头野猪(如果硬币(100)投2次>=50)</li>\
+								<li style='color: #aaaaff;'>2: 最多3个潜伏的深潜者</li>\
+								<li style='color: #aaaaff;'>3: 最多15棵树(通常更少)</li>\
+								<li style='color: #aaaaff;'>之后上限 = 1 + 智慧 + 2 * 生存</li>\
+								<li style='color: #aaaaff;'>4: 最多15条鱼(7:总是; 9:硬币(25)<=上限; 12:硬币(50)<=上限; 15:硬币(75)<=上限)</li>\
+								<li style='color: #aaaaff;'>5: 最多3个蘑菇(如果硬币(50)投2次<=上限)</li>\
+								<li style='color: #aaaaff;'>6: 最多3个蓝莓(如果硬币(50)投2次<=上限)</li>\
+								<li style='color: #aaaaff;'>7: 最多3个番茄(1:硬币(10)<=上限; 2:硬币(50)<=上限; 3:硬币(70)<=上限)</li>\
+								<li style='color: #aaaaff;'>8: 最多3棵苦草(1:硬币(50)<=上限; 2:硬币(70)<=上限; 3:硬币(80)<=上限)</li>\
+							</ul>\
+						</li>\
+				</ul>",
+				"icon": "assets/регионы/25(БОЛОТО ОСТРОВА РЫБ).png",
+				"type": "25",
+				"width": 480,
+				"height": 288
+			}
+		]
+												
 	}
 
 
 };
 
 
+// Глобальные переменные для хранения слоев карты и данных
+let questMarkers,        // Слой для маркеров квестов
+    regularMarkers,      // Слой для обычных маркеров
+    patrolLayers,        // Объект для слоев патрулей разных типов
+    regionLayerGroups,   // Группы слоев для регионов
+    map;                 // Основной объект карты Leaflet
 
+// Типы патрулей, которые отображаются на карте
+const patrolTypes = ['collectors', 'bandits', 'orcs', 'abominations', 'fishmen'];
 
+// Массив для хранения типов регионов (заполняется динамически)
+let regionTypes = [];
 
-
-// Функция для обновления текстов интерфейса
+/**
+ * Обновляет текстовое содержимое интерфейса в соответствии с выбранным языком
+ * Заменяет текст во всех элементах с классами lang-* на переводы из словаря
+ */
 function updateInterfaceLanguage() {
+  // Получаем словарь переводов для текущего языка
   const lang = translations[currentLanguage];
-  const currentMapData = getMapData(); // Получаем данные для текущего языка
+  
+  // Получаем данные карты для текущего языка
+  const currentMapData = getMapData();
   
   // Обновляем все элементы с классами lang-*
   document.querySelectorAll('[class*="lang-"]').forEach(element => {
@@ -6423,13 +9546,19 @@ function updateInterfaceLanguage() {
     
     if (langClass) {
       const key = langClass.replace('lang-', '');
+      
+      // Обработка названий регионов
       if (key.includes('region-')) {
         const regionId = key.replace('region-', '');
         element.textContent = lang.regionNames[regionId] || element.textContent;
-      } else if (key.includes('patrol-')) {
+      } 
+      // Обработка типов патрулей
+      else if (key.includes('patrol-')) {
         const patrolType = key.replace('patrol-', '');
         element.textContent = lang.patrolTypes[patrolType] || element.textContent;
-      } else {
+      } 
+      // Обработка обычных текстовых элементов
+      else {
         element.textContent = lang[key] || element.textContent;
       }
     }
@@ -6441,27 +9570,29 @@ function updateInterfaceLanguage() {
     const infoContent = document.getElementById('infoContent');
     const currentTitle = infoTitle.textContent;
     
-    // Проверяем, является ли текущий контент локацией
+    // Поиск элемента в данных карты для обновления перевода
     let foundIndex = -1;
     let dataType = null;
     
-    // Ищем в локациях (используем currentMapData вместо mapData)
+    // Ищем в локациях
     foundIndex = currentMapData.locations.findIndex(loc => 
       loc.title === currentTitle
     );
     
     if (foundIndex !== -1) {
       dataType = 'locations';
-    } else {
-      // Ищем в патрулях
+    } 
+    // Ищем в патрулях
+    else {
       foundIndex = currentMapData.patrols.findIndex(patrol => 
         patrol.title === currentTitle
       );
       
       if (foundIndex !== -1) {
         dataType = 'patrols';
-      } else {
-        // Ищем в регионах
+      } 
+      // Ищем в регионах
+      else {
         foundIndex = currentMapData.regions.findIndex(region => 
           region.title === currentTitle
         );
@@ -6481,34 +9612,35 @@ function updateInterfaceLanguage() {
       infoContent.innerHTML = translatedDescription;
     }
     
-    // Также обновляем заголовок панели информации
-    const infoPanelTitle = document.querySelector('#infoPanel h2');
+    // Обновляем заголовок панели информации
+    const infoPanelTitle = document.querySelector('#infoPanel h3');
     if (infoPanelTitle) {
       infoPanelTitle.textContent = lang.infoTitle;
     }
   }
   
-	// Обновляем информацию о регионах в меню
-	document.querySelectorAll('.region-info-button').forEach(button => {
-	  const regionType = button.getAttribute('data-region');
-	  const currentMapData = getMapData(); // Получаем данные для текущего языка
-	  const regionIndex = currentMapData.regions.findIndex(r => r.type === regionType);
-	  
-	  if (regionIndex !== -1) {
-		const region = currentMapData.regions[regionIndex];
-		
-		// Обновляем текст кнопки, если он содержит название региона
-		if (button.textContent.includes(region.title)) {
-		  button.textContent = button.textContent.replace(region.title, region.title);
-		}
-	  }
-	});
+  // Обновляем информацию о регионах в меню
+  document.querySelectorAll('.region-info-button').forEach(button => {
+    const regionType = button.getAttribute('data-region');
+    const currentMapData = getMapData();
+    const regionIndex = currentMapData.regions.findIndex(r => r.type === regionType);
+    
+    if (regionIndex !== -1) {
+      const region = currentMapData.regions[regionIndex];
+      
+      // Обновляем текст кнопки, если он содержит название региона
+      if (button.textContent.includes(region.title)) {
+        button.textContent = button.textContent.replace(region.title, region.title);
+      }
+    }
+  });
   
-  // Обновляем tooltips и другие текстовые элементы, если необходимо
+  // Обновляем tooltips и другие текстовые элементы
   document.querySelectorAll('[data-original-title], [title]').forEach(element => {
     const originalTitle = element.getAttribute('data-original-title');
     const title = element.getAttribute('title');
     
+    // Заменяем текст во всплывающих подсказках
     if (originalTitle && translations['ru']) {
       Object.entries(translations['ru']).forEach(([key, value]) => {
         if (value === originalTitle && lang[key]) {
@@ -6528,95 +9660,260 @@ function updateInterfaceLanguage() {
   });
 }
 
-
+/**
+ * Возвращает данные карты для текущего языка
+ * @returns {Object} Данные карты на текущем языке или русском (по умолчанию)
+ */
 function getMapData() {
   return mapData[currentLanguage] || mapData.ru; // fallback на русский
 }
 
-// Обработчик изменения языка
-document.getElementById('languageSelect').addEventListener('change', function() {
-  currentLanguage = this.value;
-  updateInterfaceLanguage();
-  
-  // Перезагружаем маркеры и данные для нового языка
-  reloadMapDataForCurrentLanguage();
-});
-
-// Функция для перезагрузки данных карты для текущего языка
+/**
+ * Перезагружает данные карты для текущего языка
+ * Очищает существующие слои и создает новые с переведенным контентом
+ */
 function reloadMapDataForCurrentLanguage() {
   const currentMapData = getMapData();
   
-  // Обновляем информацию о регионах
-  document.querySelectorAll('.region-info-button').forEach(button => {
-    const regionType = button.getAttribute('data-region');
-    const region = currentMapData.regions.find(r => r.type === regionType);
-    if (region) {
-      // Обновляем текст кнопки, если необходимо
-      if (button.textContent && region.title) {
-        button.textContent = button.textContent.replace(/.*/, region.title);
+  // Очищаем существующие слои
+  if (questMarkers) questMarkers.clearLayers();
+  if (regularMarkers) regularMarkers.clearLayers();
+  
+  if (patrolLayers) {
+    Object.values(patrolLayers).forEach(layer => layer.clearLayers());
+  }
+  
+  if (regionLayerGroups) {
+    Object.values(regionLayerGroups).forEach(layer => layer.clearLayers());
+  }
+  
+  // Пересоздаем маркеры для нового языка
+  // Добавляем локации
+  currentMapData.locations.forEach((location, index) => {
+    const marker = createMarker(
+      location.coords,
+      location.title,
+      location.description,
+      location.icon,
+      location.type,
+      'locations',
+      index
+    );
+    
+    // Добавляем маркер в соответствующий слой
+    if (location.type === 'quest') {
+      marker.addTo(questMarkers);
+    } else {
+      marker.addTo(regularMarkers);
+    }
+  });
+
+  // Добавляем патрули
+  currentMapData.patrols.forEach((patrol, index) => {
+    const marker = createMarker(
+      patrol.coords,
+      patrol.title,
+      patrol.description,
+      patrol.icon,
+      patrol.type,
+      'patrols', 
+      index 
+    );
+
+    if (patrolLayers[patrol.type]) {
+      marker.addTo(patrolLayers[patrol.type]);
+    }
+  });
+
+  // Добавляем регионы
+  currentMapData.regions.forEach((region, index) => {
+    createRegion(region, index);
+  });
+  
+  // Обновляем список типов регионов
+  regionTypes = Object.keys(regionLayerGroups);
+  
+  // Обновляем видимость слоев согласно текущим настройкам чекбоксов
+  updateLayerVisibility();
+}
+
+/**
+ * Обновляет видимость слоев карты на основе состояния чекбоксов
+ */
+function updateLayerVisibility() {
+  if (!map) return;
+  
+  // Обновляем видимость локаций
+  if (document.getElementById('toggleQuests')?.checked) {
+    map.addLayer(questMarkers);
+  } else {
+    map.removeLayer(questMarkers);
+  }
+  
+  if (document.getElementById('toggleRegular')?.checked) {
+    map.addLayer(regularMarkers);
+  } else {
+    map.removeLayer(regularMarkers);
+  }
+  
+  // Обновляем видимость патрулей
+  patrolTypes.forEach(type => {
+    const checkbox = document.getElementById(`togglePatrol_${type}`);
+    if (checkbox && patrolLayers[type]) {
+      if (checkbox.checked) {
+        map.addLayer(patrolLayers[type]);
+      } else {
+        map.removeLayer(patrolLayers[type]);
       }
     }
   });
   
-  // Здесь можно добавить дополнительную логику перезагрузки маркеров,
-  // если это необходимо для вашего приложения
+  // Обновляем видимость регионов
+  regionTypes.forEach(type => {
+    const checkbox = document.getElementById(`toggleRegion_${type}`);
+    if (checkbox && regionLayerGroups[type]) {
+      if (checkbox.checked) {
+        map.addLayer(regionLayerGroups[type]);
+      } else {
+        map.removeLayer(regionLayerGroups[type]);
+      }
+    }
+  });
 }
 
-
-
-
+// Инициализация при загрузке DOM
 document.addEventListener('DOMContentLoaded', function() {
-  // Встроенные данные карты
-  // Инициализация карты
-  const map = L.map('map', {
-    crs: L.CRS.Simple,
-    minZoom: -2,
-    maxZoom: 5,
-    attributionControl: false
-  });
-
-  // Группы для маркеров
-  const questMarkers = L.layerGroup();
-  const regularMarkers = L.layerGroup();
-  const patrolLayers = {
-  collectors: L.layerGroup(),
-  bandits: L.layerGroup(),
-  orcs: L.layerGroup(),
-  abominations: L.layerGroup(),
-  fishmen: L.layerGroup()
+  // Создаем слои для маркеров
+  questMarkers = L.layerGroup();
+  regularMarkers = L.layerGroup();
+  
+  // Создаем слои для разных типов патрулей
+  patrolLayers = {
+    collectors: L.layerGroup(),
+    bandits: L.layerGroup(),
+    orcs: L.layerGroup(),
+    abominations: L.layerGroup(),
+    fishmen: L.layerGroup()
   };
-
+  
+  // Инициализируем объект для групп регионов
+  regionLayerGroups = {};
+  
+  // Инициализация карты Leaflet
+  map = L.map('map', {
+    crs: L.CRS.Simple,        // Используем простую систему координат
+    minZoom: -2,              // Минимальный zoom
+    maxZoom: 1,               // Максимальный zoom
+    attributionControl: false // Отключаем стандартную атрибуцию
+  });
 
   // Устанавливаем изображение карты
   const bounds = [[0, 0], [mapData.imageHeight, mapData.imageWidth]];
   L.imageOverlay(mapData.mapImage, bounds).addTo(map);
   map.fitBounds(bounds);
+  
+  // Обработчик выбора языка
+  document.getElementById('languageSelect').addEventListener('change', function () {
+    currentLanguage = this.value;
+    updateInterfaceLanguage();          // обновляем подписи в меню
+    reloadMapDataForCurrentLanguage();  // пересоздаём маркеры/регионы/патрули с новым языком
+  });
 
-  // Функция создания маркера 
-	function createMarker(coords, title, description, iconUrl, type, dataType, index) {
-	  // Используйте переводы если доступны
-	  const translatedTitle = mapData[currentLanguage]?.[dataType]?.[index]?.title || title;
-	  const translatedDescription = mapData[currentLanguage]?.[dataType]?.[index]?.description || description;
+  /**
+   * Создает маркер на карте с заданными параметрами
+   * @param {Array} coords - Координаты [x, y]
+   * @param {String} title - Заголовок маркера
+   * @param {String} description - Описание маркера
+   * @param {String} iconUrl - URL иконки
+   * @param {String} type - Тип маркера
+   * @param {String} dataType - Тип данных ('locations', 'patrols')
+   * @param {Number} index - Индекс в массиве данных
+   * @returns {L.Marker} Созданный маркер Leaflet
+   */
+  function createMarker(coords, title, description, iconUrl, type, dataType, index) {
+    // Получаем данные для текущего языка
+    const currentMapData = getMapData();
+    
+    // Используем переводы для текущего языка
+    const translatedTitle = currentMapData[dataType][index]?.title || title;
+    const translatedDescription = currentMapData[dataType][index]?.description || description;
 
-	  const icon = L.divIcon({
-		html: `<div class="marker-container"><img src="${iconUrl}" alt="${translatedTitle}"></div>`,
-		className: 'fixed-marker',
-		iconSize: [32, 32],
-		iconAnchor: [20, 20]
-	  });
+    // Создаем кастомную иконку
+    const icon = L.divIcon({
+      html: `<div class="marker-container"><img src="${iconUrl}" alt="${translatedTitle}"></div>`,
+      className: 'fixed-marker',
+      iconSize: [32, 32],
+      iconAnchor: [20, 20]
+    });
 
-	  const marker = L.marker([coords[0], coords[1]], { icon })
-		.bindPopup(`<b>${translatedTitle}</b><br>`)
-		.on('click', function() {
-		  document.getElementById('infoTitle').textContent = translatedTitle;
-		  document.getElementById('infoContent').innerHTML = translatedDescription;
-		  document.getElementById('infoPanel').hidden = false;
-		});
+    // Создаем маркер с попапом и обработчиком клика
+    const marker = L.marker([coords[0], coords[1]], { icon })
+      .bindPopup(`<b>${translatedTitle}</b><br>`)
+      .on('click', function() {
+        document.getElementById('infoTitle').textContent = translatedTitle;
+        document.getElementById('infoContent').innerHTML = translatedDescription;
+        document.getElementById('infoPanel').hidden = false;
+      });
 
-	  return marker;
-	}
+    return marker;
+  }
 
-  // Добавляем локации
+  /**
+   * Создает регион на карте
+   * @param {Object} region - Объект с данными региона
+   * @param {Number} index - Индекс региона в массиве
+   * @returns {L.Layer} Созданный слой региона
+   */
+  function createRegion(region, index) {
+    const currentMapData = getMapData();
+    const translatedRegion = currentMapData.regions[index] || region;
+    
+    // Вычисляем размеры и границы региона
+    const width = translatedRegion.width || 200;
+    const height = translatedRegion.height || 200;
+    const halfWidth = width / 2;
+    const halfHeight = height / 2;
+    const center = L.latLng(translatedRegion.coords[1], translatedRegion.coords[0]);
+
+    const bounds = [
+      [center.lat - halfHeight, center.lng - halfWidth],
+      [center.lat + halfHeight, center.lng + halfWidth]
+    ];
+
+    // Создаем группу слоев для типа региона, если ее еще нет
+    if (!regionLayerGroups[translatedRegion.type]) {
+      regionLayerGroups[translatedRegion.type] = L.layerGroup();
+    }
+
+    const group = regionLayerGroups[translatedRegion.type];
+
+    // Создаем overlay для региона (изображение или прямоугольник)
+    let overlay;
+    if (translatedRegion.icon) {
+      overlay = L.imageOverlay(translatedRegion.icon, bounds, { interactive: true }).addTo(group);
+    } else {
+      overlay = L.rectangle(bounds, {
+        color: '#f00',
+        weight: 1,
+        fillOpacity: 0.2
+      }).addTo(group);
+    }
+    
+    // Делаем функции доступными глобально (для отладки)
+    window.createMarker = createMarker;
+    window.createRegion  = createRegion;
+    
+    // Добавляем обработчик клика для региона
+    overlay.on('click', function() {
+      document.getElementById('infoTitle').textContent = translatedRegion.title;
+      document.getElementById('infoContent').innerHTML = translatedRegion.description;
+      document.getElementById('infoPanel').hidden = false;
+    });
+    
+    return overlay;
+  }
+
+  // Добавляем локации на карту
   getMapData().locations.forEach((location, index) => {
     const marker = createMarker(
       location.coords,
@@ -6628,6 +9925,7 @@ document.addEventListener('DOMContentLoaded', function() {
       index
     );
     
+    // Добавляем маркер в соответствующий слой
     if (location.type === 'quest') {
       marker.addTo(questMarkers);
     } else {
@@ -6635,7 +9933,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 
-  // Добавляем патрули
+  // Добавляем патрули на карту
   getMapData().patrols.forEach((patrol, index) => {
     const marker = createMarker(
       patrol.coords,
@@ -6652,269 +9950,206 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 
-	const regionLayerGroups = {}; 
+  // Создаем регионы на карте
+  regionLayerGroups = {};
+  getMapData().regions.forEach((region, index) => {
+    createRegion(region, index);
+  });
 
-  getMapData().regions.forEach(region => {
-    const width = region.width || 200;
-    const height = region.height || 200;
+  // Обновляем список типов регионов
+  regionTypes = Object.keys(regionLayerGroups);
 
-    const halfWidth = width / 2;
-    const halfHeight = height / 2;
-    const center = L.latLng(region.coords[1], region.coords[0]);
-
-    const bounds = [
-      [center.lat - halfHeight, center.lng - halfWidth],
-      [center.lat + halfHeight, center.lng + halfWidth]
-    ];
-
-    if (!regionLayerGroups[region.type]) {
-      regionLayerGroups[region.type] = L.layerGroup();
-    }
-
-    const group = regionLayerGroups[region.type];
-
-    let overlay;
-    if (region.icon) {
-      overlay = L.imageOverlay(region.icon, bounds, { interactive: true }).addTo(group);
+  // Управление видимостью маркеров через чекбоксы
+  
+  // Обработчик для переключателя "Все маркеры"
+  document.getElementById('toggleAll').addEventListener('change', function() {
+    const isChecked = this.checked;
+    document.getElementById('toggleQuests').checked = isChecked;
+    document.getElementById('toggleRegular').checked = isChecked;
+    
+    if (isChecked) {
+      map.addLayer(questMarkers);
+      map.addLayer(regularMarkers);
     } else {
-      overlay = L.rectangle(bounds, {
-        color: '#f00',
-        weight: 1,
-        fillOpacity: 0.2
-      }).addTo(group);
+      map.removeLayer(questMarkers);
+      map.removeLayer(regularMarkers);
     }
   });
 
+  // Обработчики для отдельных типов маркеров
+  document.getElementById('toggleQuests').addEventListener('change', function() {
+    if (this.checked) {
+      map.addLayer(questMarkers);
+    } else {
+      map.removeLayer(questMarkers);
+    }
+    updateAllToggle();
+  });
 
+  document.getElementById('toggleRegular').addEventListener('change', function() {
+    if (this.checked) {
+      map.addLayer(regularMarkers);
+    } else {
+      map.removeLayer(regularMarkers);
+    }
+    updateAllToggle();
+  });
 
+  /**
+   * Обновляет состояние переключателя "Все маркеры"
+   * на основе состояния индивидуальных переключателей
+   */
+  function updateAllToggle() {
+    const questChecked = document.getElementById('toggleQuests').checked;
+    const regularChecked = document.getElementById('toggleRegular').checked;
+    const allToggle = document.getElementById('toggleAll');
+    
+    if (questChecked && regularChecked) {
+      allToggle.checked = true;
+      allToggle.indeterminate = false;
+    } else if (!questChecked && !regularChecked) {
+      allToggle.checked = false;
+      allToggle.indeterminate = false;
+    } else {
+      allToggle.checked = false;
+      allToggle.indeterminate = true;
+    }
+  }
 
+  // Обработчики для патрулей
+  patrolTypes.forEach(type => {
+    const checkbox = document.getElementById(`togglePatrol_${type}`);
+    if (checkbox) {
+      checkbox.addEventListener('change', function () {
+        if (this.checked) {
+          map.addLayer(patrolLayers[type]);
+        } else {
+          map.removeLayer(patrolLayers[type]);
+        }
+        updatePatrolAllToggle(); // обновляем состояние "все"
+      });
+    }
+  });
+  
+  // Обработчик для переключателя "Все патрули"
+  const toggleAllPatrols = document.getElementById('togglePatrol_All');
+  if (toggleAllPatrols) {
+    toggleAllPatrols.addEventListener('change', function () {
+      const isChecked = this.checked;
+      patrolTypes.forEach(type => {
+        const checkbox = document.getElementById(`togglePatrol_${type}`);
+        if (checkbox) {
+          checkbox.checked = isChecked;
+          if (isChecked) {
+            map.addLayer(patrolLayers[type]);
+          } else {
+            map.removeLayer(patrolLayers[type]);
+          }
+        }
+      });
+    });
+  }
 
+  /**
+   * Обновляет состояние переключателя "Все патрули"
+   */
+  function updatePatrolAllToggle() {
+    const allToggle = document.getElementById('togglePatrol_All');
+    const states = patrolTypes.map(type => {
+      const checkbox = document.getElementById(`togglePatrol_${type}`);
+      return checkbox?.checked;
+    });
 
-	// Управление видимостью маркеров через свитчбоксы
-	document.getElementById('toggleAll').addEventListener('change', function() {
-	  const isChecked = this.checked;
-	  document.getElementById('toggleQuests').checked = isChecked;
-	  document.getElementById('toggleRegular').checked = isChecked;
-	  
-	  if (isChecked) 
-	  {
-		map.addLayer(questMarkers);
-		map.addLayer(regularMarkers);
-	  } 
-	  else 
-	  {
-		map.removeLayer(questMarkers);
-		map.removeLayer(regularMarkers);
-	  }
-	});
+    if (states.every(Boolean)) {
+      allToggle.checked = true;
+      allToggle.indeterminate = false;
+    } else if (states.every(v => !v)) {
+      allToggle.checked = false;
+      allToggle.indeterminate = false;
+    } else {
+      allToggle.checked = false;
+      allToggle.indeterminate = true;
+    }
+  }
 
-	document.getElementById('toggleQuests').addEventListener('change', function() {
-	  if (this.checked) 
-	  {
-		map.addLayer(questMarkers);
-	  } 
-	  else
-	  {
-		map.removeLayer(questMarkers);
-	  }
-	  updateAllToggle();
-	});
+  // Обработчики для регионов
+  regionTypes.forEach(type => {
+    const checkbox = document.getElementById(`toggleRegion_${type}`);
+    if (checkbox) {
+      checkbox.addEventListener('change', function () {
+        if (this.checked) {
+          map.addLayer(regionLayerGroups[type]);
+        } else {
+          map.removeLayer(regionLayerGroups[type]);
+        }
+        updateRegionAllToggle();
+      });
+    }
+  });
 
-	document.getElementById('toggleRegular').addEventListener('change', function() {
-	  if (this.checked) 
-	  {
-		map.addLayer(regularMarkers);
-	  }
-	  else 
-	  {
-		map.removeLayer(regularMarkers);
-	  }
-	  updateAllToggle();
-	});
+  // Обработчик для переключателя "Все регионы"
+  const toggleAllRegions = document.getElementById('toggleRegion_All');
+  if (toggleAllRegions) {
+    toggleAllRegions.addEventListener('change', function () {
+      const isChecked = this.checked;
+      regionTypes.forEach(type => {
+        const checkbox = document.getElementById(`toggleRegion_${type}`);
+        if (checkbox) {
+          checkbox.checked = isChecked;
+          if (isChecked) {
+            map.addLayer(regionLayerGroups[type]);
+          } else {
+            map.removeLayer(regionLayerGroups[type]);
+          }
+        }
+      });
+    });
+  }
 
-	function updateAllToggle() {
-	  const questChecked = document.getElementById('toggleQuests').checked;
-	  const regularChecked = document.getElementById('toggleRegular').checked;
-	  const allToggle = document.getElementById('toggleAll');
-	  
-	  if (questChecked && regularChecked) 
-	  {
-		allToggle.checked = true;
-		allToggle.indeterminate = false;
-	  } 
-	  else if (!questChecked && !regularChecked)
-	  {
-		allToggle.checked = false;
-		allToggle.indeterminate = false;
-	  } 
-	  else 
-	  {
-		allToggle.checked = false;
-		allToggle.indeterminate = true;
-	  }
-	}
+  /**
+   * Обновляет состояние переключателя "Все регионы"
+   */
+  function updateRegionAllToggle() {
+    const allToggle = document.getElementById('toggleRegion_All');
+    const states = regionTypes.map(type => {
+      const checkbox = document.getElementById(`toggleRegion_${type}`);
+      return checkbox?.checked;
+    });
 
-	const patrolTypes = ['collectors', 'bandits', 'orcs', 'abominations', 'fishmen'];
+    if (states.every(Boolean)) {
+      allToggle.checked = true;
+      allToggle.indeterminate = false;
+    } else if (states.every(v => !v)) {
+      allToggle.checked = false;
+      allToggle.indeterminate = false;
+    } else {
+      allToggle.checked = false;
+      allToggle.indeterminate = true;
+    }
+  }
 
-	// Подключаем чекбоксы патрулей по отдельности
-	patrolTypes.forEach(type => {
-	  const checkbox = document.getElementById(`togglePatrol_${type}`);
-	  if (checkbox) 
-	  {
-		checkbox.addEventListener('change', function () {
-		  if (this.checked) 
-		  {
-			map.addLayer(patrolLayers[type]);
-		  } 
-		  else 
-		  {
-			map.removeLayer(patrolLayers[type]);
-		  }
-		  updatePatrolAllToggle(); // обновляем состояние "все"
-		});
-	  }
-	});
-	
-	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  // Обработчики для кнопок информации о регионах
+  document.querySelectorAll('.region-info-button').forEach(button => {
+    button.addEventListener('click', function() {
+      const regionType = this.getAttribute('data-region');
+      const currentMapData = getMapData();
+      const region = currentMapData.regions.find(r => r.type === regionType);
+      
+      if (region) {
+        document.getElementById('infoTitle').textContent = region.title;
+        document.getElementById('infoContent').innerHTML = region.description;
+        document.getElementById('infoPanel').hidden = false;
+      }
+    });
+  });
 
-	// Подключаем общий переключатель "Все"
-	const toggleAllPatrols = document.getElementById('togglePatrol_All');
-	if (toggleAllPatrols) {
-	  toggleAllPatrols.addEventListener('change', function () {
-		const isChecked = this.checked;
-		patrolTypes.forEach(type => {
-		  const checkbox = document.getElementById(`togglePatrol_${type}`);
-		  if (checkbox) 
-		  {
-			checkbox.checked = isChecked;
-			if (isChecked) 
-			{
-			  map.addLayer(patrolLayers[type]);
-			} 
-			else 
-			{
-			  map.removeLayer(patrolLayers[type]);
-			}
-		  }
-		});
-	  });
-	}
-
-	// Обновление состояния переключателя "Все"
-	function updatePatrolAllToggle() {
-	  const allToggle = document.getElementById('togglePatrol_All');
-	  const states = patrolTypes.map(type => {
-		const checkbox = document.getElementById(`togglePatrol_${type}`);
-		return checkbox?.checked;
-	  });
-
-	  if (states.every(Boolean)) 
-	  {
-		allToggle.checked = true;
-		allToggle.indeterminate = false;
-	  } 
-	  else if (states.every(v => !v)) 
-	  {
-		allToggle.checked = false;
-		allToggle.indeterminate = false;
-	  } 
-	  else 
-	  {
-		allToggle.checked = false;
-		allToggle.indeterminate = true;
-	  }
-	}
-
-
-	const regionTypes = Object.keys(regionLayerGroups);
-
-	// Индивидуальные переключатели
-	regionTypes.forEach(type => {
-	  const checkbox = document.getElementById(`toggleRegion_${type}`);
-	  if (checkbox) 
-	  {
-		checkbox.addEventListener('change', function () {
-		  if (this.checked) 
-		  {
-			map.addLayer(regionLayerGroups[type]);
-		  } 
-		  else 
-		  {
-			map.removeLayer(regionLayerGroups[type]);
-		  }
-		  updateRegionAllToggle();
-		});
-	  }
-	});
-
-	// Общий переключатель
-	const toggleAllRegions = document.getElementById('toggleRegion_All');
-	if (toggleAllRegions) {
-	  toggleAllRegions.addEventListener('change', function () {
-		const isChecked = this.checked;
-		regionTypes.forEach(type => {
-		  const checkbox = document.getElementById(`toggleRegion_${type}`);
-		  if (checkbox) 
-		  {
-			checkbox.checked = isChecked;
-			if (isChecked) 
-			{
-			  map.addLayer(regionLayerGroups[type]);
-			} 
-			else 
-			{
-			  map.removeLayer(regionLayerGroups[type]);
-			}
-		  }
-		});
-	  });
-	}
-
-	// Обновление состояния "Все"
-	function updateRegionAllToggle() {
-	  const allToggle = document.getElementById('toggleRegion_All');
-	  const states = regionTypes.map(type => {
-		const checkbox = document.getElementById(`toggleRegion_${type}`);
-		return checkbox?.checked;
-	  });
-
-	  if (states.every(Boolean)) 
-	  {
-		allToggle.checked = true;
-		allToggle.indeterminate = false;
-	  } 
-	  else if (states.every(v => !v)) 
-	  {
-		allToggle.checked = false;
-		allToggle.indeterminate = false;
-	  } 
-	  else 
-	  {
-		allToggle.checked = false;
-		allToggle.indeterminate = true;
-	  }
-	}
-
-	document.querySelectorAll('.region-info-button').forEach(button => {
-	  button.addEventListener('click', function() {
-		const regionType = this.getAttribute('data-region');
-		const currentMapData = getMapData(); // Получаем данные для текущего языка
-		const regionIndex = currentMapData.regions.findIndex(r => r.type === regionType);
-		const region = currentMapData.regions.find(r => r.type === regionType);
-		
-		if (region) {
-		  document.getElementById('infoTitle').textContent = region.title;
-		  document.getElementById('infoContent').innerHTML = region.description;
-		  document.getElementById('infoPanel').hidden = false;
-		}
-	  });
-	});
   // Инициализируем язык по умолчанию
   updateInterfaceLanguage();
 
-
-  // Управление масштабом
+  // Управление масштабом карты
   document.getElementById('zoomIn').addEventListener('click', () => map.zoomIn());
   document.getElementById('zoomOut').addEventListener('click', () => map.zoomOut());
   document.getElementById('resetZoom').addEventListener('click', () => map.fitBounds(bounds));
 });
+
+
